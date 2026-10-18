@@ -1,36 +1,42 @@
 {
   "schemaVersion": 1,
   "format": "ebk-theme-catalog-v1",
+  "generation": "309488313850521e47834385ffb3833b",
   "themes": [
     {
       "themeId": "ebk.lounge",
       "displayName": "EBK Starlight Lounge",
       "manifestPath": "ebk.lounge/theme.json",
-      "format": "ebk-theme-v1"
-    },
-    {
-      "themeId": "ebk.night",
-      "displayName": "Night",
-      "manifestPath": "ebk.night/theme.json",
-      "format": "ebk-theme-v1"
+      "format": "ebk-theme-v1",
+      "generation": "14a645efc8b6b2085adcdfce78f52adc"
     },
     {
       "themeId": "ebk.moonlight",
       "displayName": "Moonlight",
       "manifestPath": "ebk.moonlight/theme.json",
-      "format": "ebk-theme-v1"
+      "format": "ebk-theme-v1",
+      "generation": "fc92e426091c91154ee06f068db547a6"
     },
     {
-      "themeId": "ebk.simple",
-      "displayName": "Simple",
-      "manifestPath": "ebk.simple/theme.json",
-      "format": "ebk-theme-v1"
+      "themeId": "ebk.night",
+      "displayName": "Night",
+      "manifestPath": "ebk.night/theme.json",
+      "format": "ebk-theme-v1",
+      "generation": "ab4b901f826be802ffeea65a3f3bf89d"
     },
     {
       "themeId": "ebk.ops-sample",
       "displayName": "EBK OPS Sample / Starlight",
       "manifestPath": "ebk.sample/theme.json",
-      "format": "ebk-theme-v1"
+      "format": "ebk-theme-v1",
+      "generation": "7d975c0067bf394a5727274d289be449"
+    },
+    {
+      "themeId": "ebk.simple",
+      "displayName": "Simple",
+      "manifestPath": "ebk.simple/theme.json",
+      "format": "ebk-theme-v1",
+      "generation": "cd886a2f405d1ab970d4953fba00704b"
     }
   ]
 }
