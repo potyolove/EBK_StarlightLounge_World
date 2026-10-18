@@ -1,0 +1,9 @@
+{
+  "deploymentId": "ebk_569ed92a57864d01845be22899373e35",
+  "generatedAtUtc": "2026-10-18T12:54:17.7713817Z",
+  "protocol": "EventBasicKit.VenueBootstrap",
+  "schemaVersion": 3,
+  "status": "awaiting_project",
+  "venueName": "EBK_StarlightLounge",
+  "vrchatWorldId": ""
+}
