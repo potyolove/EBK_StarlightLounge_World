@@ -574,7 +574,7 @@
     {
       "category": "FrontPoster",
       "enabled": true,
-      "imageUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/images/posters/main/slot0.png",
+      "imageUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/images/posters/front/slot0.png",
       "maximumLevel": 4,
       "minimumLevel": 0,
       "slot": 0,
@@ -584,7 +584,7 @@
     {
       "category": "FrontPoster",
       "enabled": true,
-      "imageUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/images/posters/main/slot1.png",
+      "imageUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/images/posters/front/slot1.png",
       "maximumLevel": 4,
       "minimumLevel": 0,
       "slot": 1,
@@ -596,15 +596,15 @@
   "videoRoster": {
     "enabled": true,
     "status": "ready",
-    "generation": "236e097535c59c4229b301c08a3c2a98",
+    "generation": "423e1c00f1b9787a5a01813bf3a0ce96",
     "format": "ebk-roster-v1",
     "fps": 30,
     "framesPerEntry": 3,
     "sampleFrame": 1,
     "generationMarkerFrame": 1,
-    "frameCount": 36,
-    "videoUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/common/roster_236e097535c59c4229b301c08a3c2a98.mp4",
-    "frameMapUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/common/frame_map_236e097535c59c4229b301c08a3c2a98.txt",
-    "sha256": "e07349e8bde0f320bdc339ff6bdf25efec486ca918912bc92f65a9a4c96e3f87"
+    "frameCount": 42,
+    "videoUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/common/roster_423e1c00f1b9787a5a01813bf3a0ce96.mp4",
+    "frameMapUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/common/frame_map_423e1c00f1b9787a5a01813bf3a0ce96.txt",
+    "sha256": "f5e76289c4c814ea95627d876e231186337746069379daa6e2d49d12a9865023"
   }
 }

@@ -9,3 +9,5 @@
 28|poster|Kanpe|0|https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/images/posters/kanpe/slot0.png|aspect=1.77777778|width=512|height=288|fit=stretch|sample=0.93333333|bad=0
 31|poster|Kanpe|1|https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/images/posters/kanpe/slot1.png|aspect=1.77777778|width=512|height=288|fit=stretch|sample=1.03333333|bad=0
 34|poster|Kanpe|2|https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/images/posters/kanpe/slot2.png|aspect=1.77777778|width=512|height=288|fit=stretch|sample=1.13333333|bad=0
+37|poster|FrontPoster|0|https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/images/posters/front/slot0.png|aspect=0.66666667|width=1024|height=1536|fit=stretch|sample=1.23333333|bad=0
+40|poster|FrontPoster|1|https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/images/posters/front/slot1.png|aspect=0.66666667|width=1024|height=1536|fit=stretch|sample=1.33333333|bad=0
