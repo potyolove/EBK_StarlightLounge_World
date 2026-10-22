@@ -572,7 +572,7 @@
       "title": "集合写真"
     },
     {
-      "category": "EventPoster",
+      "category": "FrontPoster",
       "enabled": true,
       "imageUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/images/posters/main/slot0.png",
       "maximumLevel": 4,
@@ -582,7 +582,7 @@
       "title": "Moonlit Book Cafe"
     },
     {
-      "category": "EventPoster",
+      "category": "FrontPoster",
       "enabled": true,
       "imageUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/images/posters/main/slot1.png",
       "maximumLevel": 4,
