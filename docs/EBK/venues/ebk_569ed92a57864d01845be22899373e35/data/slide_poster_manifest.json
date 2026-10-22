@@ -13,8 +13,8 @@
       "stripCount": 3,
       "stripDelaySeconds": 0.18,
       "direction": "up",
-      "showControls": true,
-      "presentationOnly": false,
+      "showControls": false,
+      "presentationOnly": true,
       "order": [
         2048,
         2049
@@ -45,8 +45,8 @@
       "stripCount": 4,
       "stripDelaySeconds": 0.12,
       "direction": "left",
-      "showControls": true,
-      "presentationOnly": false,
+      "showControls": false,
+      "presentationOnly": true,
       "order": [
         0,
         1,
