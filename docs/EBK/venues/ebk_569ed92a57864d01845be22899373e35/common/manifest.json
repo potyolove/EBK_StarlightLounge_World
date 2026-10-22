@@ -573,13 +573,23 @@
     },
     {
       "category": "EventPoster",
+      "enabled": true,
+      "imageUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/images/posters/main/slot0.png",
+      "maximumLevel": 4,
+      "minimumLevel": 0,
       "slot": 0,
-      "enabled": true
+      "text": "好きな一冊から、ゆっくり話そう。月明かりの読書喫茶で、本の話や最近の出来事を。\n毎月第2・第4金曜日 22:00〜23:00（日本時間）\nPC対応／おひとり歓迎／途中入退室OK",
+      "title": "Moonlit Book Cafe"
     },
     {
       "category": "EventPoster",
+      "enabled": true,
+      "imageUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/images/posters/main/slot1.png",
+      "maximumLevel": 4,
+      "minimumLevel": 0,
       "slot": 1,
-      "enabled": true
+      "text": "日曜の夜に、ひと息。紅茶を片手に、その週の出来事や好きなものをのんびりお話しする交流会です。\n毎週日曜日 21:00〜22:00（日本時間）\nPC対応／初参加・おひとり歓迎",
+      "title": "Sunday Tea Room"
     }
   ],
   "schemaVersion": 2,
