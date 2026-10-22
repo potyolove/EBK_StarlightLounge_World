@@ -509,7 +509,19 @@
       "minimumLevel": 0,
       "slot": 0,
       "text": "好きな一冊から、ゆっくり話そう。月明かりの読書喫茶で、本の話や最近の出来事を。\n毎月第2・第4金曜日 22:00〜23:00（日本時間）\nPC対応／おひとり歓迎／途中入退室OK",
-      "title": "Moonlit Book Cafe"
+      "title": "Moonlit Book Cafe",
+      "titleJa": "Moonlit Book Cafe",
+      "textJa": "好きな一冊から、ゆっくり話そう。月明かりの読書喫茶で、本の話や最近の出来事を。\n毎月第2・第4金曜日 22:00〜23:00（日本時間）\nPC対応／おひとり歓迎／途中入退室OK",
+      "titleEn": "",
+      "textEn": "",
+      "titleZh": "",
+      "textZh": "",
+      "titleKo": "",
+      "textKo": "",
+      "description": "好きな一冊から、ゆっくり話そう。月明かりの読書喫茶で、本の話や最近の出来事を。\n毎月第2・第4金曜日 22:00〜23:00（日本時間）\nPC対応／おひとり歓迎／途中入退室OK",
+      "descriptionEn": "",
+      "descriptionZh": "",
+      "descriptionKo": ""
     },
     {
       "category": "FrontPoster",
@@ -519,7 +531,19 @@
       "minimumLevel": 0,
       "slot": 1,
       "text": "日曜の夜に、ひと息。紅茶を片手に、その週の出来事や好きなものをのんびりお話しする交流会です。\n毎週日曜日 21:00〜22:00（日本時間）\nPC対応／初参加・おひとり歓迎",
-      "title": "Sunday Tea Room"
+      "title": "Sunday Tea Room",
+      "titleJa": "Sunday Tea Room",
+      "textJa": "日曜の夜に、ひと息。紅茶を片手に、その週の出来事や好きなものをのんびりお話しする交流会です。\n毎週日曜日 21:00〜22:00（日本時間）\nPC対応／初参加・おひとり歓迎",
+      "titleEn": "",
+      "textEn": "",
+      "titleZh": "",
+      "textZh": "",
+      "titleKo": "",
+      "textKo": "",
+      "description": "日曜の夜に、ひと息。紅茶を片手に、その週の出来事や好きなものをのんびりお話しする交流会です。\n毎週日曜日 21:00〜22:00（日本時間）\nPC対応／初参加・おひとり歓迎",
+      "descriptionEn": "",
+      "descriptionZh": "",
+      "descriptionKo": ""
     }
   ],
   "schemaVersion": 2,
@@ -530,5 +554,6 @@
     "framesPerPortrait": 3,
     "sampleFrame": 1,
     "videoUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/media/generated/roster.mp4"
-  }
+  },
+  "displayContentVersion": 1
 }
