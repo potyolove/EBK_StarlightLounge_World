@@ -572,7 +572,7 @@
       "title": "集合写真"
     },
     {
-      "category": "EventPoster",
+      "category": "FrontPoster",
       "enabled": true,
       "imageUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/images/posters/main/slot0.png",
       "maximumLevel": 4,
@@ -582,7 +582,7 @@
       "title": "Moonlit Book Cafe"
     },
     {
-      "category": "EventPoster",
+      "category": "FrontPoster",
       "enabled": true,
       "imageUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/images/posters/main/slot1.png",
       "maximumLevel": 4,
@@ -590,21 +590,31 @@
       "slot": 1,
       "text": "日曜の夜に、ひと息。紅茶を片手に、その週の出来事や好きなものをのんびりお話しする交流会です。\n毎週日曜日 21:00〜22:00（日本時間）\nPC対応／初参加・おひとり歓迎",
       "title": "Sunday Tea Room"
+    },
+    {
+      "category": "EventPoster",
+      "slot": 0,
+      "enabled": true
+    },
+    {
+      "category": "EventPoster",
+      "slot": 1,
+      "enabled": true
     }
   ],
   "schemaVersion": 2,
   "videoRoster": {
     "enabled": true,
     "status": "ready",
-    "generation": "07ffa390caa549263e2333a240e1ef76",
+    "generation": "7545297ead6e67e17a2a6a420c557d19",
     "format": "ebk-roster-v1",
     "fps": 30,
     "framesPerEntry": 3,
     "sampleFrame": 1,
     "generationMarkerFrame": 1,
-    "frameCount": 48,
-    "videoUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/common/roster_07ffa390caa549263e2333a240e1ef76.mp4",
-    "frameMapUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/common/frame_map_07ffa390caa549263e2333a240e1ef76.txt",
-    "sha256": "30f66cc9b915ddfe7c16cf50fa66874f9f9b5dc49c99533318773d8b8455c6aa"
+    "frameCount": 54,
+    "videoUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/common/roster_7545297ead6e67e17a2a6a420c557d19.mp4",
+    "frameMapUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/common/frame_map_7545297ead6e67e17a2a6a420c557d19.txt",
+    "sha256": "ddbf99c4f6a43b2989835815c750f7b3699f2c298df4db5b4b6a3d28cbcc1f17"
   }
 }
