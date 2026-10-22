@@ -502,76 +502,6 @@
   "posterTextEnabled": true,
   "posters": [
     {
-      "category": "Main",
-      "enabled": true,
-      "imageUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/images/posters/main/slot0.png",
-      "maximumLevel": 4,
-      "minimumLevel": 0,
-      "slot": 0,
-      "text": "イベント紹介文をここに入力します。",
-      "title": "相互イベント A"
-    },
-    {
-      "category": "Main",
-      "enabled": true,
-      "imageUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/images/posters/main/slot1.png",
-      "maximumLevel": 4,
-      "minimumLevel": 0,
-      "slot": 1,
-      "text": "Project内画像または外部画像URLを設定できます。",
-      "title": "相互イベント B"
-    },
-    {
-      "category": "Notice",
-      "enabled": true,
-      "imageUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/images/posters/notice/slot0.png",
-      "maximumLevel": 4,
-      "minimumLevel": 0,
-      "slot": 0,
-      "text": "イベントのルール・撮影・接客に関する注意事項を入力してください。",
-      "title": "注意事項"
-    },
-    {
-      "category": "Notice",
-      "enabled": true,
-      "imageUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/images/posters/notice/slot1.png",
-      "maximumLevel": 4,
-      "minimumLevel": 0,
-      "slot": 1,
-      "text": "撮影許可やSNS掲載ルールなどを案内できます。",
-      "title": "撮影について"
-    },
-    {
-      "category": "Kanpe",
-      "enabled": true,
-      "imageUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/images/posters/kanpe/slot0.png",
-      "maximumLevel": 4,
-      "minimumLevel": 2,
-      "slot": 0,
-      "text": "こんばんは。ご来店ありがとうございます。まずイベントの流れをご案内します。",
-      "title": "初来店のご案内"
-    },
-    {
-      "category": "Kanpe",
-      "enabled": true,
-      "imageUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/images/posters/kanpe/slot1.png",
-      "maximumLevel": 4,
-      "minimumLevel": 2,
-      "slot": 1,
-      "text": "まもなくローテーションのお時間です。次のお席へご案内します。",
-      "title": "移動案内"
-    },
-    {
-      "category": "Kanpe",
-      "enabled": true,
-      "imageUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/images/posters/kanpe/slot2.png",
-      "maximumLevel": 4,
-      "minimumLevel": 2,
-      "slot": 2,
-      "text": "集合写真を撮影します。案内に沿ってお集まりください。",
-      "title": "集合写真"
-    },
-    {
       "category": "FrontPoster",
       "enabled": true,
       "imageUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/images/posters/front/slot0.png",
@@ -590,21 +520,46 @@
       "slot": 1,
       "text": "日曜の夜に、ひと息。紅茶を片手に、その週の出来事や好きなものをのんびりお話しする交流会です。\n毎週日曜日 21:00〜22:00（日本時間）\nPC対応／初参加・おひとり歓迎",
       "title": "Sunday Tea Room"
+    },
+    {
+      "category": "Notice",
+      "slot": 0,
+      "enabled": true
+    },
+    {
+      "category": "Notice",
+      "slot": 1,
+      "enabled": true
+    },
+    {
+      "category": "Kanpe",
+      "slot": 0,
+      "enabled": true
+    },
+    {
+      "category": "Kanpe",
+      "slot": 1,
+      "enabled": true
+    },
+    {
+      "category": "Kanpe",
+      "slot": 2,
+      "enabled": true
     }
   ],
   "schemaVersion": 2,
   "videoRoster": {
     "enabled": true,
     "status": "ready",
-    "generation": "423e1c00f1b9787a5a01813bf3a0ce96",
+    "generation": "86bdd10a64603ca7fd97c37f724a75a3",
     "format": "ebk-roster-v1",
     "fps": 30,
     "framesPerEntry": 3,
     "sampleFrame": 1,
     "generationMarkerFrame": 1,
     "frameCount": 42,
-    "videoUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/common/roster_423e1c00f1b9787a5a01813bf3a0ce96.mp4",
-    "frameMapUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/common/frame_map_423e1c00f1b9787a5a01813bf3a0ce96.txt",
-    "sha256": "f5e76289c4c814ea95627d876e231186337746069379daa6e2d49d12a9865023"
+    "videoUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/common/roster_86bdd10a64603ca7fd97c37f724a75a3.mp4",
+    "frameMapUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/common/frame_map_86bdd10a64603ca7fd97c37f724a75a3.txt",
+    "sha256": "c278ad4a59ca2aaee14e2b1584ca00c4acf88b1bf779e8dd20f0a63314435777"
   }
 }
