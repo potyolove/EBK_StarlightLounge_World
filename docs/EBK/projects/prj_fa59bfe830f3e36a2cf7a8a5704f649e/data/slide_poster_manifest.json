@@ -45,8 +45,8 @@
       "stripCount": 4,
       "stripDelaySeconds": 0.12,
       "direction": "left",
-      "showControls": true,
-      "presentationOnly": false,
+      "showControls": false,
+      "presentationOnly": true,
       "order": [
         0,
         1,
