@@ -161,8 +161,11 @@
   ],
   "videoRoster": {
     "status": "ready",
-    "generation": "20c1629562653a1fe097b58c0eb17422",
+    "generation": "954f1f5f83ea73f456abab07076ad0df",
     "format": "ebk-clubcards-v2",
+    "encoding": "ebk-dual-matte-sbs-srgb-v1",
+    "encodedWidth": 2560,
+    "encodedHeight": 768,
     "videoUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/ebk-clubcards/cards.mp4",
     "frameMapUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/ebk-clubcards/frame_map.txt",
     "fps": 30,
@@ -196,7 +199,7 @@
         "sampleTimeSeconds": 0.3333333333333333
       }
     },
-    "sha256": "4500f3bb50bf654e41171eff7edf5191bf27e685edec2034d7a776024193a0b5"
+    "sha256": "7cdf91a6399a1bd59d844450f450d61befd7bbceb52a9facc233d9b8401ed2d7"
   },
   "commonTextures": {
     "cardBackPath": "images/clubcards/common/cardback.png",

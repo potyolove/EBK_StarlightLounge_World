@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "format": "ebk-room-media-v1",
-  "generation": "789a760390a278ccad4ce175a9bc91d0",
+  "generation": "9a22e19e21ee4a2ebba3f00e63259047",
   "albums": [
     {
       "name": "サンプル",
@@ -12,11 +12,11 @@
       "videoUrl": "",
       "slideUrl": "",
       "images": [],
-      "format": "ebk-room-slides-rgb-v1",
-      "alphaMode": "opaque",
+      "format": "ebk-dual-matte-sbs-srgb-v1",
+      "alphaMode": "dual-matte-sbs-srgb-v1",
       "logicalWidth": 1920,
       "logicalHeight": 1080,
-      "encodedWidth": 1920,
+      "encodedWidth": 3840,
       "encodedHeight": 1080
     },
     {
@@ -25,78 +25,40 @@
       "fps": 30,
       "framesPerImage": 3,
       "sampleFrame": 1,
-      "videoUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/ebk-room-media/videos/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC_9ef16c64e2365d289e16cba0439c910f.mp4",
-      "slideUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/ebk-room-media/videos/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC_9ef16c64e2365d289e16cba0439c910f.mp4?ebk-slides=3x30",
+      "videoUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/ebk-room-media/videos/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC_7c99f27a44427d5bc0141d684f736696.mp4",
+      "slideUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/ebk-room-media/videos/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC_7c99f27a44427d5bc0141d684f736696.mp4?ebk-slides=3x30&ebk-cols=5&ebk-rows=2&ebk-images=2&ebk-width=1920&ebk-height=1080&ebk-alpha=dual-matte-sbs-srgb-v1",
       "images": [
         {
           "file": "001.png",
           "sourceBlobSha": "cb02827d4a9d7c6038a713bbc9b6e3556e9c00f4",
           "sampleFrame": 1,
-          "sampleTimeSeconds": 0.03333333333333333,
+          "sampleTimeSeconds": 0.05,
           "sourceWidth": 341,
           "sourceHeight": 512,
           "aspect": 0.666015625,
-          "fit": "stretch"
+          "fit": "contain",
+          "uv": [
+            0.0109375,
+            0.512962962962963,
+            0.17760416666666667,
+            0.4740740740740741
+          ]
         },
         {
           "file": "002.png",
           "sourceBlobSha": "9bb7dae1c34675332a7c06c4b5f9e5c000ce51ee",
-          "sampleFrame": 4,
-          "sampleTimeSeconds": 0.13333333333333333,
+          "sampleFrame": 1,
+          "sampleTimeSeconds": 0.05,
           "sourceWidth": 341,
           "sourceHeight": 512,
           "aspect": 0.666015625,
-          "fit": "stretch"
-        }
-      ],
-      "format": "ebk-room-slides-rgb-v1",
-      "alphaMode": "opaque",
-      "logicalWidth": 1920,
-      "logicalHeight": 1080,
-      "encodedWidth": 1920,
-      "encodedHeight": 1080,
-      "generation": "9ef16c64e2365d289e16cba0439c910f",
-      "frameCount": 6,
-      "sha256": "e098b0a738c8315a683237e300b7fac257368d1078ff8ea979b81f3c403de0ed"
-    },
-    {
-      "name": "サンプルラウンジ",
-      "imageCount": 3,
-      "fps": 30,
-      "framesPerImage": 3,
-      "sampleFrame": 1,
-      "videoUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/ebk-room-media/videos/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8_3bb84d9980c15184ed2ca7469c50c4db.mp4",
-      "slideUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/ebk-room-media/videos/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8_3bb84d9980c15184ed2ca7469c50c4db.mp4?ebk-slides=3x30&ebk-alpha=dual-matte-sbs-srgb-v1",
-      "images": [
-        {
-          "file": "001.png",
-          "sourceBlobSha": "b83f34154affaba67b456fcbc232ac1b068e38c9",
-          "sampleFrame": 1,
-          "sampleTimeSeconds": 0.03333333333333333,
-          "sourceWidth": 512,
-          "sourceHeight": 427,
-          "aspect": 1.199063231850117,
-          "fit": "stretch"
-        },
-        {
-          "file": "002.png",
-          "sourceBlobSha": "151b9384c66e8c7b73c24e2a47672c91ac777681",
-          "sampleFrame": 4,
-          "sampleTimeSeconds": 0.13333333333333333,
-          "sourceWidth": 512,
-          "sourceHeight": 427,
-          "aspect": 1.199063231850117,
-          "fit": "stretch"
-        },
-        {
-          "file": "003.png",
-          "sourceBlobSha": "8cfa00a877ffe20ff9f19a76ce4abca68ef175db",
-          "sampleFrame": 7,
-          "sampleTimeSeconds": 0.23333333333333334,
-          "sourceWidth": 512,
-          "sourceHeight": 512,
-          "aspect": 1.0,
-          "fit": "stretch"
+          "fit": "contain",
+          "uv": [
+            0.2109375,
+            0.512962962962963,
+            0.17760416666666667,
+            0.4740740740740741
+          ]
         }
       ],
       "format": "ebk-dual-matte-sbs-srgb-v1",
@@ -105,9 +67,83 @@
       "logicalHeight": 1080,
       "encodedWidth": 3840,
       "encodedHeight": 1080,
-      "generation": "3bb84d9980c15184ed2ca7469c50c4db",
-      "frameCount": 9,
-      "sha256": "7961a39f41a80cbbbe019e183945bd5a92b42674fb2335599ac34745baf800bf"
+      "generation": "7c99f27a44427d5bc0141d684f736696",
+      "frameCount": 3,
+      "sheetCount": 1,
+      "sheetColumns": 5,
+      "sheetRows": 2,
+      "sha256": "600041074b16e7d42becb793a1fcff622eebbdc179e92463f9ce67ade223f4a2"
+    },
+    {
+      "name": "サンプルラウンジ",
+      "imageCount": 3,
+      "fps": 30,
+      "framesPerImage": 3,
+      "sampleFrame": 1,
+      "videoUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/ebk-room-media/videos/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8_ed8fef7672e10ccc4416957679cc6cad.mp4",
+      "slideUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/ebk-room-media/videos/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8_ed8fef7672e10ccc4416957679cc6cad.mp4?ebk-slides=3x30&ebk-cols=5&ebk-rows=2&ebk-images=3&ebk-width=1920&ebk-height=1080&ebk-alpha=dual-matte-sbs-srgb-v1",
+      "images": [
+        {
+          "file": "001.png",
+          "sourceBlobSha": "b83f34154affaba67b456fcbc232ac1b068e38c9",
+          "sampleFrame": 1,
+          "sampleTimeSeconds": 0.05,
+          "sourceWidth": 512,
+          "sourceHeight": 427,
+          "aspect": 1.199063231850117,
+          "fit": "contain",
+          "uv": [
+            0.0010416666666666667,
+            0.6037037037037037,
+            0.19791666666666666,
+            0.2935185185185185
+          ]
+        },
+        {
+          "file": "002.png",
+          "sourceBlobSha": "151b9384c66e8c7b73c24e2a47672c91ac777681",
+          "sampleFrame": 1,
+          "sampleTimeSeconds": 0.05,
+          "sourceWidth": 512,
+          "sourceHeight": 427,
+          "aspect": 1.199063231850117,
+          "fit": "contain",
+          "uv": [
+            0.20104166666666667,
+            0.6037037037037037,
+            0.19791666666666666,
+            0.2935185185185185
+          ]
+        },
+        {
+          "file": "003.png",
+          "sourceBlobSha": "8cfa00a877ffe20ff9f19a76ce4abca68ef175db",
+          "sampleFrame": 1,
+          "sampleTimeSeconds": 0.05,
+          "sourceWidth": 512,
+          "sourceHeight": 512,
+          "aspect": 1.0,
+          "fit": "contain",
+          "uv": [
+            0.4010416666666667,
+            0.5740740740740741,
+            0.19791666666666666,
+            0.35185185185185186
+          ]
+        }
+      ],
+      "format": "ebk-dual-matte-sbs-srgb-v1",
+      "alphaMode": "dual-matte-sbs-srgb-v1",
+      "logicalWidth": 1920,
+      "logicalHeight": 1080,
+      "encodedWidth": 3840,
+      "encodedHeight": 1080,
+      "generation": "ed8fef7672e10ccc4416957679cc6cad",
+      "frameCount": 3,
+      "sheetCount": 1,
+      "sheetColumns": 5,
+      "sheetRows": 2,
+      "sha256": "c28df468454ca62c2dfec2634af1c136f1eac40fd19d72c0d06f1549e5b51f2b"
     }
   ]
 }

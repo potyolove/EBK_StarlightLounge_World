@@ -544,47 +544,29 @@
       "descriptionEn": "",
       "descriptionZh": "",
       "descriptionKo": ""
-    },
-    {
-      "category": "Notice",
-      "slot": 0,
-      "enabled": true
-    },
-    {
-      "category": "Notice",
-      "slot": 1,
-      "enabled": true
-    },
-    {
-      "category": "Kanpe",
-      "slot": 0,
-      "enabled": true
-    },
-    {
-      "category": "Kanpe",
-      "slot": 1,
-      "enabled": true
-    },
-    {
-      "category": "Kanpe",
-      "slot": 2,
-      "enabled": true
     }
   ],
   "schemaVersion": 2,
   "videoRoster": {
     "enabled": true,
     "status": "ready",
-    "generation": "86bdd10a64603ca7fd97c37f724a75a3",
-    "format": "ebk-roster-v1",
+    "generation": "f18d7eba6b02cdcd25394bbf40db4703",
+    "format": "ebk-dual-matte-sbs-srgb-v1",
     "fps": 30,
     "framesPerEntry": 3,
     "sampleFrame": 1,
     "generationMarkerFrame": 1,
-    "frameCount": 42,
-    "videoUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/common/roster_86bdd10a64603ca7fd97c37f724a75a3.mp4",
-    "frameMapUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/common/frame_map_86bdd10a64603ca7fd97c37f724a75a3.txt",
-    "sha256": "c278ad4a59ca2aaee14e2b1584ca00c4acf88b1bf779e8dd20f0a63314435777"
+    "frameCount": 6,
+    "sheetColumns": 5,
+    "sheetRows": 2,
+    "sheetCount": 1,
+    "logicalWidth": 1920,
+    "logicalHeight": 1080,
+    "encodedWidth": 3840,
+    "encodedHeight": 1080,
+    "videoUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/common/roster_f18d7eba6b02cdcd25394bbf40db4703.mp4",
+    "frameMapUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/common/frame_map_f18d7eba6b02cdcd25394bbf40db4703.txt",
+    "sha256": "f6d56db394dcb700e9d9d87e01c24cbbb22d18ccc274a2466b4a1db9dc4c2600"
   },
   "displayContentVersion": 1
 }
