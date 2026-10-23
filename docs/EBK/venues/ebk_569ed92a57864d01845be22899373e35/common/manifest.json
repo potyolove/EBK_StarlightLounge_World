@@ -550,7 +550,7 @@
   "videoRoster": {
     "enabled": true,
     "status": "ready",
-    "generation": "f18d7eba6b02cdcd25394bbf40db4703",
+    "generation": "922fb66dd66756f29e481f8c50918d56",
     "format": "ebk-dual-matte-sbs-srgb-v1",
     "fps": 30,
     "framesPerEntry": 3,
@@ -564,9 +564,9 @@
     "logicalHeight": 1080,
     "encodedWidth": 3840,
     "encodedHeight": 1080,
-    "videoUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/common/roster_f18d7eba6b02cdcd25394bbf40db4703.mp4",
-    "frameMapUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/common/frame_map_f18d7eba6b02cdcd25394bbf40db4703.txt",
-    "sha256": "f6d56db394dcb700e9d9d87e01c24cbbb22d18ccc274a2466b4a1db9dc4c2600"
+    "videoUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/common/roster_922fb66dd66756f29e481f8c50918d56.mp4",
+    "frameMapUrl": "https://potyolove.github.io/EBK_StarlightLounge_World/EBK/projects/prj_fa59bfe830f3e36a2cf7a8a5704f649e/common/frame_map_922fb66dd66756f29e481f8c50918d56.txt",
+    "sha256": "7eeb7b725a49b2490ff8d8fdd38709b49ae3b592bb60eed0aeceae82d6cd2e65"
   },
   "displayContentVersion": 1
 }
