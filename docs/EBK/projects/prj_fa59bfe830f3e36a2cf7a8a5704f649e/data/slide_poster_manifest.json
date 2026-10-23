@@ -4,7 +4,7 @@
   "boards": [
     {
       "boardId": "sample-posters",
-      "enabled": true,
+      "enabled": false,
       "title": "FAX紙送り / サンプルポスター",
       "autoPlay": true,
       "transition": "paper",
@@ -15,24 +15,8 @@
       "direction": "up",
       "showControls": false,
       "presentationOnly": true,
-      "order": [
-        2048,
-        2049
-      ],
-      "additionalImages": [
-        {
-          "index": 2048,
-          "title": "slot0",
-          "imagePath": "images/slide-posters/8faadc95782bc982ec36d16a067d69e88f2e638bff772d6df7d542b643037b6b/slot0.png",
-          "enabled": true
-        },
-        {
-          "index": 2049,
-          "title": "slot1",
-          "imagePath": "images/slide-posters/8faadc95782bc982ec36d16a067d69e88f2e638bff772d6df7d542b643037b6b/slot1.png",
-          "enabled": true
-        }
-      ]
+      "order": [],
+      "additionalImages": []
     },
     {
       "boardId": "sample-portraits",
