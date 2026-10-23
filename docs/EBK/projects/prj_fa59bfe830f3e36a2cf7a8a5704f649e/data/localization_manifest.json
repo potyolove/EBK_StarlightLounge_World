@@ -1,7 +1,7 @@
 {
   "protocol": "EventBasicKit.LocalizationCatalog",
   "schemaVersion": 2,
-  "revision": "ops-sample-v1",
+  "revision": "ui-localization-20261023",
   "entries": [
     {
       "key": "catalog.title",
@@ -29,6 +29,6883 @@
       "en": "Sample Notice",
       "zh": "示例注意事项",
       "ko": "샘플 안내"
+    },
+    {
+      "key": "runtime.literal.646635245",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "個人設定",
+      "en": "Personal Settings",
+      "zh": "个人设置",
+      "ko": "개인 설정"
+    },
+    {
+      "key": "runtime.literal.1211531226",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "音量設定",
+      "en": "Volume",
+      "zh": "音量设置",
+      "ko": "음량 설정"
+    },
+    {
+      "key": "runtime.literal.1260782805",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "イベント進行",
+      "en": "Event Operations",
+      "zh": "活动运营",
+      "ko": "이벤트 운영"
+    },
+    {
+      "key": "runtime.literal.1139332",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "診断",
+      "en": "Diagnostics",
+      "zh": "诊断",
+      "ko": "진단"
+    },
+    {
+      "key": "runtime.literal.801583",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "復旧",
+      "en": "Recovery",
+      "zh": "恢复",
+      "ko": "복구"
+    },
+    {
+      "key": "runtime.literal.-623572613",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "入退室ログ",
+      "en": "Join / Leave Log",
+      "zh": "进出记录",
+      "ko": "입퇴장 로그"
+    },
+    {
+      "key": "runtime.literal.680941741",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "呼出対応",
+      "en": "Call Response",
+      "zh": "呼叫处理",
+      "ko": "호출 대응"
+    },
+    {
+      "key": "runtime.literal.2126017859",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "呼び出し対応",
+      "en": "Call Response",
+      "zh": "呼叫处理",
+      "ko": "호출 대응"
+    },
+    {
+      "key": "runtime.literal.236293819",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "モジュール／パック",
+      "en": "Modules / Packs",
+      "zh": "模块／包",
+      "ko": "모듈 / 팩"
+    },
+    {
+      "key": "runtime.literal.1247186",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "防音",
+      "en": "Soundproofing",
+      "zh": "隔音",
+      "ko": "방음"
+    },
+    {
+      "key": "runtime.literal.656899647",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "全体放送",
+      "en": "Broadcast",
+      "zh": "全体广播",
+      "ko": "전체 방송"
+    },
+    {
+      "key": "runtime.literal.399098421",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "インカム",
+      "en": "Intercom",
+      "zh": "对讲",
+      "ko": "인터컴"
+    },
+    {
+      "key": "runtime.literal.24907257",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "引継ぎ",
+      "en": "Handoff",
+      "zh": "交接",
+      "ko": "인수인계"
+    },
+    {
+      "key": "runtime.literal.808131378",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "撮影許可",
+      "en": "Photo Permission",
+      "zh": "拍摄许可",
+      "ko": "촬영 허용"
+    },
+    {
+      "key": "runtime.literal.-1752655847",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "カメラジャック",
+      "en": "Camera Jack",
+      "zh": "摄像机接管",
+      "ko": "카메라 잭"
+    },
+    {
+      "key": "runtime.literal.-1487679870",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "開店前チェック",
+      "en": "Opening Check",
+      "zh": "开店前检查",
+      "ko": "오픈 전 체크"
+    },
+    {
+      "key": "runtime.literal.-84022959",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "閉店チェック",
+      "en": "Closing Check",
+      "zh": "闭店检查",
+      "ko": "마감 체크"
+    },
+    {
+      "key": "runtime.literal.786937432",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "手動音声",
+      "en": "Manual Audio",
+      "zh": "手动音频",
+      "ko": "수동 음성"
+    },
+    {
+      "key": "runtime.literal.-1792668626",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "遊び方・予定",
+      "en": "Guide / Schedule",
+      "zh": "玩法／日程",
+      "ko": "이용 안내 / 일정"
+    },
+    {
+      "key": "runtime.literal.701874",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "受付",
+      "en": "Reception",
+      "zh": "接待",
+      "ko": "접수"
+    },
+    {
+      "key": "runtime.literal.-1050762491",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "入場受付順",
+      "en": "Entry Queue",
+      "zh": "入场排队",
+      "ko": "입장 접수 순서"
+    },
+    {
+      "key": "runtime.literal.1836069600",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "スタッフ呼び",
+      "en": "Call Staff",
+      "zh": "呼叫工作人员",
+      "ko": "스태프 호출"
+    },
+    {
+      "key": "runtime.literal.24870956",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "待機列",
+      "en": "Waiting Queue",
+      "zh": "等候队列",
+      "ko": "대기열"
+    },
+    {
+      "key": "runtime.literal.-1301391631",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "メニュー注文",
+      "en": "Menu / Order",
+      "zh": "菜单／点单",
+      "ko": "메뉴 / 주문"
+    },
+    {
+      "key": "runtime.literal.687899025",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "商品管理",
+      "en": "Product Management",
+      "zh": "商品管理",
+      "ko": "상품 관리"
+    },
+    {
+      "key": "runtime.literal.872261109",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "注文管理",
+      "en": "Order Management",
+      "zh": "订单管理",
+      "ko": "주문 관리"
+    },
+    {
+      "key": "runtime.literal.704697305",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "在庫管理",
+      "en": "Inventory",
+      "zh": "库存管理",
+      "ko": "재고 관리"
+    },
+    {
+      "key": "runtime.literal.1153091954",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "アイテム管理",
+      "en": "Item Management",
+      "zh": "物品管理",
+      "ko": "아이템 관리"
+    },
+    {
+      "key": "runtime.literal.-1557334620",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "プロフィール",
+      "en": "Profile",
+      "zh": "个人资料",
+      "ko": "프로필"
+    },
+    {
+      "key": "runtime.literal.798954365",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "接客希望",
+      "en": "Service Request",
+      "zh": "接待请求",
+      "ko": "접객 요청"
+    },
+    {
+      "key": "runtime.literal.799192435",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "接客管理",
+      "en": "Service Management",
+      "zh": "接待管理",
+      "ko": "접객 관리"
+    },
+    {
+      "key": "runtime.literal.780675793",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "意思表示",
+      "en": "Intent",
+      "zh": "意向",
+      "ko": "의사 표시"
+    },
+    {
+      "key": "runtime.literal.1836321982",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "スタッフ状態",
+      "en": "Staff Status",
+      "zh": "工作人员状态",
+      "ko": "스태프 상태"
+    },
+    {
+      "key": "runtime.literal.1033406353",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "腕章調整",
+      "en": "Armband Settings",
+      "zh": "臂章调整",
+      "ko": "완장 조정"
+    },
+    {
+      "key": "runtime.literal.863319965",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "権限管理",
+      "en": "Permissions",
+      "zh": "权限管理",
+      "ko": "권한 관리"
+    },
+    {
+      "key": "runtime.literal.1970124281",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "新人ヘルパー",
+      "en": "New Staff Helper",
+      "zh": "新人助手",
+      "ko": "신입 헬퍼"
+    },
+    {
+      "key": "runtime.literal.12880513",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "カンペ",
+      "en": "Cue Cards",
+      "zh": "提示卡",
+      "ko": "큐카드"
+    },
+    {
+      "key": "runtime.literal.1146991",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "言語",
+      "en": "Language",
+      "zh": "语言",
+      "ko": "언어"
+    },
+    {
+      "key": "runtime.literal.-967694182",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "言語 / Language",
+      "en": "Language",
+      "zh": "语言",
+      "ko": "언어"
+    },
+    {
+      "key": "runtime.literal.13140623",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "お客様",
+      "en": "Guest",
+      "zh": "来宾",
+      "ko": "손님"
+    },
+    {
+      "key": "runtime.literal.1183388",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "運営",
+      "en": "Staff",
+      "zh": "运营",
+      "ko": "운영"
+    },
+    {
+      "key": "runtime.literal.808321",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "戻る",
+      "en": "Back",
+      "zh": "返回",
+      "ko": "뒤로"
+    },
+    {
+      "key": "runtime.literal.12926926",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ホーム",
+      "en": "Home",
+      "zh": "主页",
+      "ko": "홈"
+    },
+    {
+      "key": "runtime.literal.37690571",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "閉じる",
+      "en": "Close",
+      "zh": "关闭",
+      "ko": "닫기"
+    },
+    {
+      "key": "runtime.literal.-1397380158",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "保存・反映",
+      "en": "Save / Apply",
+      "zh": "保存／应用",
+      "ko": "저장 / 적용"
+    },
+    {
+      "key": "runtime.literal.593422441",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "保存内容に戻す",
+      "en": "Restore Saved",
+      "zh": "恢复已保存",
+      "ko": "저장값 복원"
+    },
+    {
+      "key": "runtime.literal.645915649",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "個人メモ",
+      "en": "Personal Memo",
+      "zh": "个人备忘",
+      "ko": "개인 메모"
+    },
+    {
+      "key": "runtime.literal.1030613962",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "自己紹介",
+      "en": "Bio",
+      "zh": "自我介绍",
+      "ko": "자기소개"
+    },
+    {
+      "key": "runtime.literal.400039113",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "参加者プロフィール",
+      "en": "Participant Profile",
+      "zh": "参与者资料",
+      "ko": "참가자 프로필"
+    },
+    {
+      "key": "runtime.literal.967365",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "画像",
+      "en": "Images",
+      "zh": "图片",
+      "ko": "이미지"
+    },
+    {
+      "key": "runtime.literal.31131534",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "立ち絵",
+      "en": "Standee",
+      "zh": "立绘",
+      "ko": "스탠딩 이미지"
+    },
+    {
+      "key": "runtime.literal.-1191924284",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "自動 / Auto",
+      "en": "Auto",
+      "zh": "自动",
+      "ko": "자동"
+    },
+    {
+      "key": "runtime.literal.1068540",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "自動",
+      "en": "Auto",
+      "zh": "自动",
+      "ko": "자동"
+    },
+    {
+      "key": "runtime.literal.817595",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "手動",
+      "en": "Manual",
+      "zh": "手动",
+      "ko": "수동"
+    },
+    {
+      "key": "runtime.literal.-940220339",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "商品メニュー",
+      "en": "Product Menu",
+      "zh": "商品菜单",
+      "ko": "상품 메뉴"
+    },
+    {
+      "key": "runtime.literal.36414399",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "遊び方",
+      "en": "Guide",
+      "zh": "玩法",
+      "ko": "이용 안내"
+    },
+    {
+      "key": "runtime.literal.906608",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "注文",
+      "en": "Ordering",
+      "zh": "点单",
+      "ko": "주문"
+    },
+    {
+      "key": "runtime.literal.665613930",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "先着受付",
+      "en": "First Come",
+      "zh": "先到先得",
+      "ko": "선착순 접수"
+    },
+    {
+      "key": "runtime.literal.-834168342",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "手元メニュー",
+      "en": "Hand Menu",
+      "zh": "手边菜单",
+      "ko": "손 메뉴"
+    },
+    {
+      "key": "runtime.literal.18913039",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "RP名札",
+      "en": "RP Nameplate",
+      "zh": "RP名牌",
+      "ko": "RP 명찰"
+    },
+    {
+      "key": "runtime.literal.-1353130296",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "個人設定保存",
+      "en": "Personal Settings Save",
+      "zh": "个人设置保存",
+      "ko": "개인 설정 저장"
+    },
+    {
+      "key": "runtime.literal.703617027",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "在室判定",
+      "en": "Room Presence",
+      "zh": "在室判定",
+      "ko": "재실 판정"
+    },
+    {
+      "key": "runtime.literal.1190620",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "通知",
+      "en": "Notifications",
+      "zh": "通知",
+      "ko": "알림"
+    },
+    {
+      "key": "runtime.literal.2125663447",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "呼び出しベル",
+      "en": "Call Bell",
+      "zh": "呼叫铃",
+      "ko": "호출 벨"
+    },
+    {
+      "key": "runtime.literal.1822546373",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "スケジュール",
+      "en": "Schedule",
+      "zh": "日程",
+      "ko": "일정"
+    },
+    {
+      "key": "runtime.literal.1983508270",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "タイムライン",
+      "en": "Timeline",
+      "zh": "时间线",
+      "ko": "타임라인"
+    },
+    {
+      "key": "runtime.literal.1730660781",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ローテーション",
+      "en": "Rotation",
+      "zh": "轮换",
+      "ko": "로테이션"
+    },
+    {
+      "key": "runtime.literal.1405161309",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "時刻音声アナウンス",
+      "en": "Timed Audio",
+      "zh": "定时语音",
+      "ko": "시간 음성 안내"
+    },
+    {
+      "key": "runtime.literal.1462012624",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "オブジェクト制御",
+      "en": "Object Control",
+      "zh": "物体控制",
+      "ko": "오브젝트 제어"
+    },
+    {
+      "key": "runtime.literal.111647306",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "撮影オーバーレイ",
+      "en": "Photo Overlay",
+      "zh": "拍摄叠加",
+      "ko": "촬영 오버레이"
+    },
+    {
+      "key": "runtime.literal.454916930",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "参加注意事項/同意",
+      "en": "Entry Notice / Consent",
+      "zh": "入场须知／同意",
+      "ko": "참가 안내 / 동의"
+    },
+    {
+      "key": "runtime.literal.732244",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "在庫",
+      "en": "Inventory",
+      "zh": "库存",
+      "ko": "재고"
+    },
+    {
+      "key": "runtime.literal.799116867",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "接客状態",
+      "en": "Service Status",
+      "zh": "接待状态",
+      "ko": "접객 상태"
+    },
+    {
+      "key": "runtime.literal.-968887391",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "接客担当管理",
+      "en": "Assignment Management",
+      "zh": "接待分配管理",
+      "ko": "담당 관리"
+    },
+    {
+      "key": "runtime.literal.-255990434",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "お客様希望",
+      "en": "Guest Request",
+      "zh": "来宾请求",
+      "ko": "손님 요청"
+    },
+    {
+      "key": "runtime.literal.1112956094",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "呼び出しエスカレーション",
+      "en": "Call Escalation",
+      "zh": "呼叫升级",
+      "ko": "호출 에스컬레이션"
+    },
+    {
+      "key": "runtime.literal.906990570",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "運営ヘルス",
+      "en": "Operations Health",
+      "zh": "运营健康",
+      "ko": "운영 상태"
+    },
+    {
+      "key": "runtime.literal.915263236",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "状態復旧",
+      "en": "State Recovery",
+      "zh": "状态恢复",
+      "ko": "상태 복구"
+    },
+    {
+      "key": "runtime.literal.-1718629376",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "新人スタッフ補助",
+      "en": "New Staff Helper",
+      "zh": "新人工作人员助手",
+      "ko": "신입 스태프 도우미"
+    },
+    {
+      "key": "runtime.literal.642692917",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "お客様ヘルプ",
+      "en": "Guest Help",
+      "zh": "来宾帮助",
+      "ko": "손님 도움"
+    },
+    {
+      "key": "runtime.literal.1478934382",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "権限別Spawn",
+      "en": "Permission Spawn",
+      "zh": "权限出生点",
+      "ko": "권한별 스폰"
+    },
+    {
+      "key": "runtime.literal.-388255506",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "権限アクセス制御",
+      "en": "Access Control",
+      "zh": "权限访问控制",
+      "ko": "권한 접근 제어"
+    },
+    {
+      "key": "runtime.literal.-1879371288",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "Player Marker",
+      "en": "Player Marker",
+      "zh": "玩家标记",
+      "ko": "플레이어 마커"
+    },
+    {
+      "key": "runtime.literal.-989784495",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "外部運営ログ",
+      "en": "External Operations Log",
+      "zh": "外部运营日志",
+      "ko": "외부 운영 로그"
+    },
+    {
+      "key": "runtime.literal.1195866015",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "頭上タグ",
+      "en": "Overhead Tags",
+      "zh": "头顶标签",
+      "ko": "머리 위 태그"
+    },
+    {
+      "key": "runtime.literal.-1534197324",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "玄関写真ボード",
+      "en": "Entrance Portrait Board",
+      "zh": "入口照片板",
+      "ko": "입구 사진 보드"
+    },
+    {
+      "key": "runtime.literal.1066012544",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "軽量化設定",
+      "en": "Performance Settings",
+      "zh": "性能设置",
+      "ko": "경량화 설정"
+    },
+    {
+      "key": "runtime.literal.1949895218",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "セーフゾーン",
+      "en": "Safe Zone",
+      "zh": "安全区域",
+      "ko": "세이프 존"
+    },
+    {
+      "key": "runtime.literal.675306694",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "受付拒否",
+      "en": "Entry Denial",
+      "zh": "拒绝入场",
+      "ko": "입장 거부"
+    },
+    {
+      "key": "runtime.literal.1917376214",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "部屋別メディア",
+      "en": "Room Media",
+      "zh": "房间媒体",
+      "ko": "방별 미디어"
+    },
+    {
+      "key": "runtime.literal.-1252069335",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ポスター・注意事項・カンペ",
+      "en": "Posters / Notices / Cue Cards",
+      "zh": "海报／注意事项／提示卡",
+      "ko": "포스터 / 주의사항 / 큐카드"
+    },
+    {
+      "key": "runtime.literal.17806160",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "Core",
+      "en": "Core",
+      "zh": "核心",
+      "ko": "Core"
+    },
+    {
+      "key": "runtime.literal.-2143822089",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "スタッフ・キャスト",
+      "en": "Staff / Cast",
+      "zh": "工作人员／演员",
+      "ko": "스태프 / 캐스트"
+    },
+    {
+      "key": "runtime.literal.127905442",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "進行・音響・撮影",
+      "en": "Event / Audio / Photo",
+      "zh": "流程／音响／拍摄",
+      "ko": "진행 / 음향 / 촬영"
+    },
+    {
+      "key": "runtime.literal.-798851676",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "メディア・ビジュアル",
+      "en": "Media / Visual",
+      "zh": "媒体／视觉",
+      "ko": "미디어 / 비주얼"
+    },
+    {
+      "key": "runtime.literal.941330012",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "商品・サービス",
+      "en": "Products / Service",
+      "zh": "商品／服务",
+      "ko": "상품 / 서비스"
+    },
+    {
+      "key": "runtime.literal.410431867",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ご来場前",
+      "en": "Before your visit",
+      "zh": "到场前",
+      "ko": "방문 전"
+    },
+    {
+      "key": "runtime.literal.830574",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "接客",
+      "en": "Service",
+      "zh": "接待",
+      "ko": "접객"
+    },
+    {
+      "key": "runtime.literal.12944198",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ローテ",
+      "en": "Rotation",
+      "zh": "轮换",
+      "ko": "로테이션"
+    },
+    {
+      "key": "runtime.literal.870813138",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "注意事項",
+      "en": "Important Notes",
+      "zh": "注意事项",
+      "ko": "주의사항"
+    },
+    {
+      "key": "runtime.literal.-1467831793",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "撮影について",
+      "en": "About Photography",
+      "zh": "关于拍摄",
+      "ko": "촬영 안내"
+    },
+    {
+      "key": "runtime.literal.1581014113",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "初来店のご案内",
+      "en": "Welcome Guide",
+      "zh": "首次来访指南",
+      "ko": "첫 방문 안내"
+    },
+    {
+      "key": "runtime.literal.967209864",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "移動案内",
+      "en": "Rotation Guide",
+      "zh": "换位指南",
+      "ko": "이동 안내"
+    },
+    {
+      "key": "runtime.literal.1186923961",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "集合写真",
+      "en": "Group Photo",
+      "zh": "集体照",
+      "ko": "단체 사진"
+    },
+    {
+      "key": "runtime.literal.653914947",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "会話歓迎",
+      "en": "Happy to Chat",
+      "zh": "欢迎聊天",
+      "ko": "대화 환영"
+    },
+    {
+      "key": "runtime.literal.1812947156",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ゆっくり話したい",
+      "en": "Slow Conversation",
+      "zh": "想慢慢聊天",
+      "ko": "천천히 이야기하고 싶어요"
+    },
+    {
+      "key": "runtime.literal.882494590",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "沈黙OK",
+      "en": "Silence is OK",
+      "zh": "沉默也可以",
+      "ko": "침묵도 괜찮아요"
+    },
+    {
+      "key": "runtime.literal.1868857660",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "話題を振ってほしい",
+      "en": "Please Suggest a Topic",
+      "zh": "希望你提出话题",
+      "ko": "화제를 제안해 주세요"
+    },
+    {
+      "key": "runtime.literal.1251243756",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "注文したい",
+      "en": "I Want to Order",
+      "zh": "想点单",
+      "ko": "주문하고 싶어요"
+    },
+    {
+      "key": "runtime.literal.667312275",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "写真OK",
+      "en": "Photos OK",
+      "zh": "可以拍照",
+      "ko": "사진 OK"
+    },
+    {
+      "key": "runtime.literal.-2057783782",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "写真は確認して",
+      "en": "Ask Before Photos",
+      "zh": "拍照前请确认",
+      "ko": "촬영 전 확인해 주세요"
+    },
+    {
+      "key": "runtime.literal.667312240",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "写真NG",
+      "en": "No Photos",
+      "zh": "请勿拍照",
+      "ko": "사진 NG"
+    },
+    {
+      "key": "runtime.literal.1307683510",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "イベントのルール・撮影・接客に関する注意事項を入力してください。",
+      "en": "Please add event rules, photography notes, and service guidance here.",
+      "zh": "请在此填写活动规则、拍摄及接待相关注意事项。",
+      "ko": "이벤트 규칙, 촬영 및 접객 관련 주의사항을 입력해 주세요."
+    },
+    {
+      "key": "runtime.literal.-83390930",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "撮影許可やSNS掲載ルールなどを案内できます。",
+      "en": "You can explain photo consent and social-media posting rules here.",
+      "zh": "可在此说明拍摄许可及社交平台发布规则。",
+      "ko": "촬영 허용 여부와 SNS 게시 규칙 등을 안내할 수 있습니다."
+    },
+    {
+      "key": "runtime.literal.-1074249126",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "こんばんは。ご来店ありがとうございます。まずイベントの流れをご案内します。",
+      "en": "Good evening, and welcome. We will first explain how the event works.",
+      "zh": "晚上好，感谢光临。首先为您介绍活动流程。",
+      "ko": "안녕하세요. 방문해 주셔서 감사합니다. 먼저 이벤트 진행을 안내드리겠습니다."
+    },
+    {
+      "key": "runtime.literal.1685947896",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "まもなくローテーションのお時間です。次のお席へご案内します。",
+      "en": "It is almost time to rotate. We will guide you to your next seat.",
+      "zh": "即将到换位时间，我们将引导您前往下一个座位。",
+      "ko": "곧 로테이션 시간입니다. 다음 자리로 안내해 드리겠습니다."
+    },
+    {
+      "key": "runtime.literal.1056419354",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "集合写真を撮影します。案内に沿ってお集まりください。",
+      "en": "We will take a group photo. Please gather as directed.",
+      "zh": "接下来拍摄集体照，请按照指引集合。",
+      "ko": "단체 사진을 촬영합니다. 안내에 따라 모여 주세요."
+    },
+    {
+      "key": "runtime.literal.333496939",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "たくさん話しかけてもらって大丈夫です。",
+      "en": "Feel free to talk to me a lot.",
+      "zh": "可以多和我聊天。",
+      "ko": "많이 말을 걸어 주셔도 괜찮아요."
+    },
+    {
+      "key": "runtime.literal.-1099762996",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ゆっくりしたペースで会話したいです。",
+      "en": "I prefer a relaxed conversation pace.",
+      "zh": "我想以轻松的节奏聊天。",
+      "ko": "천천히 대화하고 싶어요."
+    },
+    {
+      "key": "runtime.literal.-873324930",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "会話が途切れても気にしません。",
+      "en": "I do not mind pauses in conversation.",
+      "zh": "聊天中有停顿也没关系。",
+      "ko": "대화가 끊겨도 괜찮아요."
+    },
+    {
+      "key": "runtime.literal.913657041",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "話題を振ってもらえると助かります。",
+      "en": "It helps if you suggest conversation topics.",
+      "zh": "如果你能提出话题会很有帮助。",
+      "ko": "화제를 제안해 주시면 도움이 됩니다."
+    },
+    {
+      "key": "runtime.literal.-1476856522",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "注文をしたいです。",
+      "en": "I would like to place an order.",
+      "zh": "我想点单。",
+      "ko": "주문하고 싶어요."
+    },
+    {
+      "key": "runtime.literal.-1685378667",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "注文を利用したいです。",
+      "en": "I would like to place an order.",
+      "zh": "我想点单。",
+      "ko": "주문하고 싶어요."
+    },
+    {
+      "key": "runtime.literal.-2095733990",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "写真撮影OKです。",
+      "en": "Photos are OK.",
+      "zh": "可以拍照。",
+      "ko": "사진 촬영 괜찮아요."
+    },
+    {
+      "key": "runtime.literal.-1644108502",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "撮影前にひと声かけてください。",
+      "en": "Please ask before taking a photo.",
+      "zh": "拍照前请先询问。",
+      "ko": "촬영 전에 한마디 해 주세요."
+    },
+    {
+      "key": "runtime.literal.-405017579",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "写真撮影はご遠慮ください。",
+      "en": "Please do not take photos.",
+      "zh": "请不要拍照。",
+      "ko": "사진 촬영은 삼가 주세요."
+    },
+    {
+      "key": "runtime.literal.400194222",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ドリンク",
+      "en": "Drinks",
+      "zh": "饮品",
+      "ko": "음료"
+    },
+    {
+      "key": "runtime.literal.12921137",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "フード",
+      "en": "Food",
+      "zh": "餐点",
+      "ko": "음식"
+    },
+    {
+      "key": "runtime.literal.12809108",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "その他",
+      "en": "Other",
+      "zh": "其他",
+      "ko": "기타"
+    },
+    {
+      "key": "runtime.literal.77412004",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "サンプルメニュー",
+      "en": "Sample Menu",
+      "zh": "示例菜单",
+      "ko": "샘플 메뉴"
+    },
+    {
+      "key": "runtime.literal.-408279985",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "シトラスソーダ",
+      "en": "Citrus Soda",
+      "zh": "柑橘苏打",
+      "ko": "시트러스 소다"
+    },
+    {
+      "key": "runtime.literal.-507270999",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "カフェラテ",
+      "en": "Cafe Latte",
+      "zh": "咖啡拿铁",
+      "ko": "카페라떼"
+    },
+    {
+      "key": "runtime.literal.1466939540",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "フルーツパフェ",
+      "en": "Fruit Parfait",
+      "zh": "水果芭菲",
+      "ko": "과일 파르페"
+    },
+    {
+      "key": "runtime.literal.1769424328",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "サンドイッチ",
+      "en": "Sandwich",
+      "zh": "三明治",
+      "ko": "샌드위치"
+    },
+    {
+      "key": "runtime.literal.-1250930086",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "トークテーマカード",
+      "en": "Conversation Topic Cards",
+      "zh": "话题卡",
+      "ko": "대화 주제 카드"
+    },
+    {
+      "key": "runtime.literal.-470728168",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "フォトチケット",
+      "en": "Photo Ticket",
+      "zh": "拍照票",
+      "ko": "포토 티켓"
+    },
+    {
+      "key": "runtime.literal.-832467898",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "すっきり爽やかな柑橘風味のソーダ。ほんのり光るような透明感があり、会話のはじまりにぴったりな一杯です。",
+      "en": "A crisp citrus soda with a luminous clarity, perfect for starting a conversation.",
+      "zh": "清爽的柑橘风味苏打，晶莹通透，很适合作为聊天的开场饮品。",
+      "ko": "상쾌한 시트러스 풍미의 소다. 은은하게 빛나는 투명감으로 대화를 시작하기 좋은 한 잔입니다."
+    },
+    {
+      "key": "runtime.literal.-1803302957",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "まろやかな甘さのカフェラテ。夜のひとときに寄り添う、ほっと落ち着く味わいです。",
+      "en": "A mellow, gently sweet cafe latte for a calm moment at night.",
+      "zh": "口感柔和、微甜的咖啡拿铁，适合夜晚放松片刻。",
+      "ko": "부드럽고 은은하게 달콤한 카페라떼. 밤의 여유에 잘 어울리는 편안한 맛입니다."
+    },
+    {
+      "key": "runtime.literal.-568089424",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "フルーツとクリームを重ねた華やかなパフェ。見た目もかわいく、記念撮影にもおすすめです。",
+      "en": "A colorful parfait layered with fruit and cream, also great for commemorative photos.",
+      "zh": "水果与奶油层层堆叠的华丽芭菲，外观可爱，也很适合纪念拍照。",
+      "ko": "과일과 크림을 층층이 쌓은 화려한 파르페. 보기에도 예뻐 기념 촬영에도 추천합니다."
+    },
+    {
+      "key": "runtime.literal.877725482",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "彩り野菜とやわらかな具材を挟んだサンド。会話の合間にも楽しみやすい軽食です。",
+      "en": "A light sandwich with colorful vegetables and tender fillings, easy to enjoy between conversations.",
+      "zh": "夹有彩色蔬菜和柔软馅料的三明治，聊天间隙也能轻松享用。",
+      "ko": "알록달록한 채소와 부드러운 속재료를 넣은 샌드위치. 대화 사이에 즐기기 좋은 가벼운 음식입니다."
+    },
+    {
+      "key": "runtime.literal.-1327435663",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "会話のきっかけに使えるテーマカード。何を話そうか迷った時に自然な会話の入口を作れます。",
+      "en": "Topic cards that provide an easy conversation starter when you are unsure what to talk about.",
+      "zh": "可作为聊天契机的主题卡，不知道聊什么时也能自然开启话题。",
+      "ko": "대화의 계기를 만들어 주는 주제 카드. 무슨 이야기를 할지 고민될 때 자연스럽게 대화를 시작할 수 있습니다."
+    },
+    {
+      "key": "runtime.literal.1377766473",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "記念撮影をもっと楽しくするフォト演出用チケット。集合写真や思い出作りにどうぞ。",
+      "en": "A photo-effect ticket that makes commemorative pictures more fun, ideal for group photos and memories.",
+      "zh": "让纪念拍照更有趣的摄影特效票，适合集体照和留下回忆。",
+      "ko": "기념 촬영을 더 즐겁게 해 주는 포토 연출 티켓. 단체 사진과 추억 만들기에 활용해 보세요."
+    },
+    {
+      "key": "runtime.literal.-1599568629",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "営業状態とRuntime配線を確認",
+      "en": "Check event state and runtime wiring",
+      "zh": "检查营业状态和运行时连接",
+      "ko": "영업 상태와 런타임 연결 확인"
+    },
+    {
+      "key": "runtime.literal.-88440515",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "営業状態：確認中",
+      "en": "Event state: checking",
+      "zh": "营业状态：检查中",
+      "ko": "영업 상태: 확인 중"
+    },
+    {
+      "key": "runtime.literal.-227522905",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ヘルスチェック",
+      "en": "Health Check",
+      "zh": "健康检查",
+      "ko": "상태 점검"
+    },
+    {
+      "key": "runtime.literal.-1214185606",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "Runtime診断",
+      "en": "Runtime Diagnostics",
+      "zh": "运行时诊断",
+      "ko": "런타임 진단"
+    },
+    {
+      "key": "runtime.literal.316041306",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "診断ログ消去",
+      "en": "Clear Diagnostic Log",
+      "zh": "清除诊断日志",
+      "ko": "진단 로그 지우기"
+    },
+    {
+      "key": "runtime.literal.-391756749",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "診断未実行",
+      "en": "Diagnostics not run",
+      "zh": "尚未执行诊断",
+      "ko": "진단 미실행"
+    },
+    {
+      "key": "runtime.literal.-1549414747",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "在室・退室・権限別の来店記録",
+      "en": "Visit history by presence, departure and access",
+      "zh": "按在室、离场和权限查看来店记录",
+      "ko": "재실·퇴장·권한별 방문 기록"
+    },
+    {
+      "key": "runtime.literal.-1439223421",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "来店記録を読み込み中",
+      "en": "Loading visit history",
+      "zh": "正在读取来店记录",
+      "ko": "방문 기록 불러오는 중"
+    },
+    {
+      "key": "runtime.literal.-441168982",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "記録はありません",
+      "en": "No records",
+      "zh": "没有记录",
+      "ko": "기록이 없습니다"
+    },
+    {
+      "key": "runtime.literal.12797813",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "すべて",
+      "en": "All",
+      "zh": "全部",
+      "ko": "전체"
+    },
+    {
+      "key": "runtime.literal.22695552",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "在室中",
+      "en": "Present",
+      "zh": "在场",
+      "ko": "재실 중"
+    },
+    {
+      "key": "runtime.literal.1137345964",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "退室済み",
+      "en": "Left",
+      "zh": "已离场",
+      "ko": "퇴장 완료"
+    },
+    {
+      "key": "runtime.literal.27837453",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "権限別",
+      "en": "By Access",
+      "zh": "按权限",
+      "ko": "권한별"
+    },
+    {
+      "key": "runtime.literal.9815612",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "◀ 前",
+      "en": "◀ Previous",
+      "zh": "◀ 上一项",
+      "ko": "◀ 이전"
+    },
+    {
+      "key": "runtime.literal.26872518",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "次 ▶",
+      "en": "Next ▶",
+      "zh": "下一项 ▶",
+      "ko": "다음 ▶"
+    },
+    {
+      "key": "runtime.literal.-756612051",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ワールドボード",
+      "en": "World Board",
+      "zh": "世界看板",
+      "ko": "월드 보드"
+    },
+    {
+      "key": "runtime.literal.337412851",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "在室再確認",
+      "en": "Refresh Presence",
+      "zh": "重新确认在室状态",
+      "ko": "재실 다시 확인"
+    },
+    {
+      "key": "runtime.literal.401700711",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ログ消去",
+      "en": "Clear Log",
+      "zh": "清除日志",
+      "ko": "로그 지우기"
+    },
+    {
+      "key": "runtime.literal.-830428931",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "Join音テスト",
+      "en": "Test Join Sound",
+      "zh": "测试加入音效",
+      "ko": "Join 소리 테스트"
+    },
+    {
+      "key": "runtime.literal.1493134280",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "Leave音テスト",
+      "en": "Test Leave Sound",
+      "zh": "测试离开音效",
+      "ko": "Leave 소리 테스트"
+    },
+    {
+      "key": "runtime.literal.750445756",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "現在の呼出へ対応・完了を記録",
+      "en": "Handle or complete the current call",
+      "zh": "处理或完成当前呼叫",
+      "ko": "현재 호출 대응·완료 기록"
+    },
+    {
+      "key": "runtime.literal.-1075331572",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "呼出状態を確認中",
+      "en": "Checking call status",
+      "zh": "正在检查呼叫状态",
+      "ko": "호출 상태 확인 중"
+    },
+    {
+      "key": "runtime.literal.681007422",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "呼出操作",
+      "en": "Call Actions",
+      "zh": "呼叫操作",
+      "ko": "호출 작업"
+    },
+    {
+      "key": "runtime.literal.741256961",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "対応する",
+      "en": "Take Call",
+      "zh": "开始处理",
+      "ko": "대응 시작"
+    },
+    {
+      "key": "runtime.literal.741607465",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "対応完了",
+      "en": "Complete",
+      "zh": "处理完成",
+      "ko": "대응 완료"
+    },
+    {
+      "key": "runtime.literal.-1263773406",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "状態を再取得",
+      "en": "Refresh Status",
+      "zh": "重新获取状态",
+      "ko": "상태 새로고침"
+    },
+    {
+      "key": "runtime.literal.1144946571",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "通知履歴",
+      "en": "Notification History",
+      "zh": "通知历史",
+      "ko": "알림 기록"
+    },
+    {
+      "key": "runtime.literal.1310623388",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "今回の入場中に自分へ届いた直近20件",
+      "en": "Latest 20 notifications received during this visit",
+      "zh": "本次入场期间收到的最近20条通知",
+      "ko": "이번 입장 중 받은 최근 알림 20개"
+    },
+    {
+      "key": "runtime.literal.1165885245",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "まだ通知はありません",
+      "en": "No notifications yet",
+      "zh": "暂无通知",
+      "ko": "아직 알림이 없습니다"
+    },
+    {
+      "key": "runtime.literal.38039",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "0件",
+      "en": "0 items",
+      "zh": "0项",
+      "ko": "0건"
+    },
+    {
+      "key": "runtime.literal.-860297513",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "新しい通知",
+      "en": "Newer",
+      "zh": "较新通知",
+      "ko": "새 알림"
+    },
+    {
+      "key": "runtime.literal.668539772",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "古い通知",
+      "en": "Older",
+      "zh": "较旧通知",
+      "ko": "이전 알림"
+    },
+    {
+      "key": "runtime.literal.-442519085",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "営業状態・部屋・呼出・デバッグ進行",
+      "en": "Event state, rooms, calls and debug controls",
+      "zh": "营业状态、房间、呼叫和调试进度",
+      "ko": "영업 상태·방·호출·디버그 진행"
+    },
+    {
+      "key": "runtime.literal.696248595",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "営業状況",
+      "en": "Event Status",
+      "zh": "营业状态",
+      "ko": "영업 현황"
+    },
+    {
+      "key": "runtime.literal.161838000",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "統合ダッシュボード",
+      "en": "Unified Dashboard",
+      "zh": "综合仪表板",
+      "ko": "통합 대시보드"
+    },
+    {
+      "key": "runtime.literal.-1679038085",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "選択中の部屋",
+      "en": "Selected Room",
+      "zh": "已选房间",
+      "ko": "선택한 방"
+    },
+    {
+      "key": "runtime.literal.-772172493",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "部屋を選択してください",
+      "en": "Select a room",
+      "zh": "请选择房间",
+      "ko": "방을 선택해 주세요"
+    },
+    {
+      "key": "runtime.literal.304804436",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "◀ 部屋",
+      "en": "◀ Room",
+      "zh": "◀ 房间",
+      "ko": "◀ 방"
+    },
+    {
+      "key": "runtime.literal.1143542986",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "部屋 ▶",
+      "en": "Room ▶",
+      "zh": "房间 ▶",
+      "ko": "방 ▶"
+    },
+    {
+      "key": "runtime.literal.-1499754259",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "防音 ON",
+      "en": "Soundproof ON",
+      "zh": "隔音 开",
+      "ko": "방음 ON"
+    },
+    {
+      "key": "runtime.literal.752258049",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "防音 OFF",
+      "en": "Soundproof OFF",
+      "zh": "隔音 关",
+      "ko": "방음 OFF"
+    },
+    {
+      "key": "runtime.literal.-376368614",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "呼出に対応",
+      "en": "Take Call",
+      "zh": "处理呼叫",
+      "ko": "호출 대응"
+    },
+    {
+      "key": "runtime.literal.680933769",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "呼出完了",
+      "en": "Complete Call",
+      "zh": "完成呼叫",
+      "ko": "호출 완료"
+    },
+    {
+      "key": "runtime.literal.1195563",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "進行",
+      "en": "Progress",
+      "zh": "进度",
+      "ko": "진행"
+    },
+    {
+      "key": "runtime.literal.26458728",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "進行状態を確認中",
+      "en": "Checking progress",
+      "zh": "正在检查进度",
+      "ko": "진행 상태 확인 중"
+    },
+    {
+      "key": "runtime.literal.1226097",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "開始",
+      "en": "Start",
+      "zh": "开始",
+      "ko": "시작"
+    },
+    {
+      "key": "runtime.literal.636388825",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "一時停止",
+      "en": "Pause",
+      "zh": "暂停",
+      "ko": "일시정지"
+    },
+    {
+      "key": "runtime.literal.1030485",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "終了",
+      "en": "End",
+      "zh": "结束",
+      "ko": "종료"
+    },
+    {
+      "key": "runtime.literal.-925567269",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "防音室どうしの接続",
+      "en": "Connect soundproof rooms",
+      "zh": "连接隔音房间",
+      "ko": "방음실 연결"
+    },
+    {
+      "key": "runtime.literal.-1721594900",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "① この部屋を基準に",
+      "en": "① Use this room as base",
+      "zh": "① 以此房间为基准",
+      "ko": "① 이 방을 기준으로"
+    },
+    {
+      "key": "runtime.literal.-1018633298",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "② 基準部屋と接続",
+      "en": "② Connect to base room",
+      "zh": "② 与基准房间连接",
+      "ko": "② 기준 방과 연결"
+    },
+    {
+      "key": "runtime.literal.1832019756",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "選択部屋だけ解除",
+      "en": "Disconnect selected room",
+      "zh": "仅断开所选房间",
+      "ko": "선택한 방만 해제"
+    },
+    {
+      "key": "runtime.literal.-585070826",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "すべて解除",
+      "en": "Clear All",
+      "zh": "全部解除",
+      "ko": "모두 해제"
+    },
+    {
+      "key": "runtime.literal.1634279042",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "呼出状況を確認中",
+      "en": "Checking calls",
+      "zh": "正在检查呼叫",
+      "ko": "호출 현황 확인 중"
+    },
+    {
+      "key": "runtime.literal.999628686",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "表示・撮影・名札・通知を自分だけ調整",
+      "en": "Adjust display, photos, nameplate and notifications for yourself",
+      "zh": "仅为自己调整显示、拍摄、名牌和通知",
+      "ko": "표시·촬영·명찰·알림을 나에게만 조정"
+    },
+    {
+      "key": "runtime.literal.-1023391580",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "設定を読み込み中",
+      "en": "Loading settings",
+      "zh": "正在读取设置",
+      "ko": "설정 불러오는 중"
+    },
+    {
+      "key": "runtime.literal.-2038096157",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "通知 ON/OFF",
+      "en": "Notifications ON/OFF",
+      "zh": "通知 开/关",
+      "ko": "알림 ON/OFF"
+    },
+    {
+      "key": "runtime.literal.-1301114744",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "メニュー追従",
+      "en": "Menu Follow",
+      "zh": "菜单跟随",
+      "ko": "메뉴 추적"
+    },
+    {
+      "key": "runtime.literal.237081331",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "自分の名札表示",
+      "en": "Show My Nameplate",
+      "zh": "显示自己的名牌",
+      "ko": "내 명찰 표시"
+    },
+    {
+      "key": "runtime.literal.-1056914816",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "撮影時の名札",
+      "en": "Nameplate in Photos",
+      "zh": "拍摄时的名牌",
+      "ko": "촬영 시 명찰"
+    },
+    {
+      "key": "runtime.literal.-543110749",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "標準名札 表示 / 非表示",
+      "en": "Default Nameplate Show / Hide",
+      "zh": "默认名牌 显示 / 隐藏",
+      "ko": "기본 명찰 표시 / 숨김"
+    },
+    {
+      "key": "runtime.literal.1009892",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "確認",
+      "en": "Ask",
+      "zh": "确认",
+      "ko": "확인"
+    },
+    {
+      "key": "runtime.literal.683336910",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "名札高さ",
+      "en": "Nameplate Height",
+      "zh": "名牌高度",
+      "ko": "명찰 높이"
+    },
+    {
+      "key": "runtime.literal.848329",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "既定",
+      "en": "Default",
+      "zh": "默认",
+      "ko": "기본값"
+    },
+    {
+      "key": "runtime.literal.994867488",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "個人設定を保存",
+      "en": "Save Personal Settings",
+      "zh": "保存个人设置",
+      "ko": "개인 설정 저장"
+    },
+    {
+      "key": "runtime.literal.1454909634",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "通知音とワールドBGMを5%刻みで調整",
+      "en": "Adjust notification and world BGM volume in 5% steps",
+      "zh": "以5%为单位调整通知音和世界BGM",
+      "ko": "알림음과 월드 BGM을 5% 단위로 조정"
+    },
+    {
+      "key": "runtime.literal.1165576991",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "通知音量 50% / BGM音量 100%",
+      "en": "Notification 50% / BGM 100%",
+      "zh": "通知音量 50% / BGM音量 100%",
+      "ko": "알림음 50% / BGM 100%"
+    },
+    {
+      "key": "runtime.literal.760273350",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "通知音 ON / OFF",
+      "en": "Notification Sound ON / OFF",
+      "zh": "通知音 开 / 关",
+      "ko": "알림음 ON / OFF"
+    },
+    {
+      "key": "runtime.literal.1145429016",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "通知音量",
+      "en": "Notification Volume",
+      "zh": "通知音量",
+      "ko": "알림 음량"
+    },
+    {
+      "key": "runtime.literal.551080307",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "BGM音量",
+      "en": "BGM Volume",
+      "zh": "BGM音量",
+      "ko": "BGM 음량"
+    },
+    {
+      "key": "runtime.literal.1222865641",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "通知音を試聴",
+      "en": "Test Notification Sound",
+      "zh": "试听通知音",
+      "ko": "알림음 테스트"
+    },
+    {
+      "key": "runtime.literal.-494129265",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "設定を保存",
+      "en": "Save Settings",
+      "zh": "保存设置",
+      "ko": "설정 저장"
+    },
+    {
+      "key": "runtime.literal.-657361108",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "現在状態の再取得・安全な再反映・緊急リセット",
+      "en": "Refresh state, safely reapply, or emergency reset",
+      "zh": "重新获取状态、安全重新应用或紧急重置",
+      "ko": "현재 상태 재확인·안전 재적용·긴급 초기화"
+    },
+    {
+      "key": "runtime.literal.395162369",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "復旧操作はまだ実行されていません",
+      "en": "No recovery action has been run",
+      "zh": "尚未执行恢复操作",
+      "ko": "복구 작업이 아직 실행되지 않았습니다"
+    },
+    {
+      "key": "runtime.literal.-996354996",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "現在状態を再取得",
+      "en": "Refresh Current State",
+      "zh": "重新获取当前状态",
+      "ko": "현재 상태 새로고침"
+    },
+    {
+      "key": "runtime.literal.1880839425",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "表示だけローカル復旧",
+      "en": "Restore Local Display Only",
+      "zh": "仅恢复本地显示",
+      "ko": "표시만 로컬 복구"
+    },
+    {
+      "key": "runtime.literal.1820067498",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "期待状態へ復旧",
+      "en": "Restore Expected State",
+      "zh": "恢复到预期状态",
+      "ko": "예상 상태로 복구"
+    },
+    {
+      "key": "runtime.literal.-1953138014",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "緊急リセット",
+      "en": "Emergency Reset",
+      "zh": "紧急重置",
+      "ko": "긴급 초기화"
+    },
+    {
+      "key": "runtime.literal.914580",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "準備",
+      "en": "Arm",
+      "zh": "准备",
+      "ko": "준비"
+    },
+    {
+      "key": "runtime.literal.709699",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "取消",
+      "en": "Cancel",
+      "zh": "取消",
+      "ko": "취소"
+    },
+    {
+      "key": "runtime.literal.778334",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "実行",
+      "en": "Execute",
+      "zh": "执行",
+      "ko": "실행"
+    },
+    {
+      "key": "runtime.literal.-1314308484",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "営業開始前の確認",
+      "en": "Pre-opening Checks",
+      "zh": "营业开始前检查",
+      "ko": "영업 시작 전 확인"
+    },
+    {
+      "key": "runtime.literal.1003434794",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "開店前チェックを確認中",
+      "en": "Checking opening checklist",
+      "zh": "正在检查开店前项目",
+      "ko": "오픈 전 체크 확인 중"
+    },
+    {
+      "key": "runtime.literal.21562799",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "再確認",
+      "en": "Recheck",
+      "zh": "重新检查",
+      "ko": "다시 확인"
+    },
+    {
+      "key": "runtime.literal.515537989",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "チェックをリセット",
+      "en": "Reset Checklist",
+      "zh": "重置检查项",
+      "ko": "체크리스트 초기화"
+    },
+    {
+      "key": "runtime.literal.-1577471904",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "営業終了前の確認",
+      "en": "Pre-closing Checks",
+      "zh": "营业结束前检查",
+      "ko": "영업 종료 전 확인"
+    },
+    {
+      "key": "runtime.literal.369452444",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "閉店条件を確認中",
+      "en": "Checking closing conditions",
+      "zh": "正在检查闭店条件",
+      "ko": "마감 조건 확인 중"
+    },
+    {
+      "key": "runtime.literal.-382294387",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "手動項目を一括確認",
+      "en": "Confirm Manual Items",
+      "zh": "批量确认手动项目",
+      "ko": "수동 항목 일괄 확인"
+    },
+    {
+      "key": "runtime.literal.401130695",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "リセット",
+      "en": "Reset",
+      "zh": "重置",
+      "ko": "초기화"
+    },
+    {
+      "key": "runtime.literal.676978844",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "自分の撮影可否を運営へ伝えます",
+      "en": "Tell staff whether you allow photos",
+      "zh": "向运营方告知自己的拍摄许可",
+      "ko": "내 촬영 허용 여부를 운영진에게 알립니다"
+    },
+    {
+      "key": "runtime.literal.-752361176",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "撮影 OK",
+      "en": "Photos OK",
+      "zh": "允许拍摄",
+      "ko": "촬영 OK"
+    },
+    {
+      "key": "runtime.literal.-1208819803",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "撮影前に確認",
+      "en": "Ask Before Photos",
+      "zh": "拍摄前确认",
+      "ko": "촬영 전 확인"
+    },
+    {
+      "key": "runtime.literal.-752361211",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "撮影 NG",
+      "en": "No Photos",
+      "zh": "禁止拍摄",
+      "ko": "촬영 NG"
+    },
+    {
+      "key": "runtime.literal.-1584262604",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "この設定を保存",
+      "en": "Save This Setting",
+      "zh": "保存此设置",
+      "ko": "이 설정 저장"
+    },
+    {
+      "key": "runtime.literal.-1155725709",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "撮影・Camera Jack",
+      "en": "Photography / Camera Jack",
+      "zh": "拍摄／Camera Jack",
+      "ko": "촬영 / Camera Jack"
+    },
+    {
+      "key": "runtime.literal.-131187046",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "撮影OverlayとPhotoCamera表示を管理",
+      "en": "Manage photo overlay and PhotoCamera visibility",
+      "zh": "管理拍摄叠加层和PhotoCamera显示",
+      "ko": "촬영 오버레이와 PhotoCamera 표시 관리"
+    },
+    {
+      "key": "runtime.literal.-400381318",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "撮影機能を確認中",
+      "en": "Checking photo features",
+      "zh": "正在检查拍摄功能",
+      "ko": "촬영 기능 확인 중"
+    },
+    {
+      "key": "runtime.literal.1190708572",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "撮影Overlay",
+      "en": "Photo Overlay",
+      "zh": "拍摄叠加层",
+      "ko": "촬영 오버레이"
+    },
+    {
+      "key": "runtime.literal.1129891",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "表示",
+      "en": "Show",
+      "zh": "显示",
+      "ko": "표시"
+    },
+    {
+      "key": "runtime.literal.38858751",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "非表示",
+      "en": "Hide",
+      "zh": "隐藏",
+      "ko": "숨김"
+    },
+    {
+      "key": "runtime.literal.284826387",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "撮影に写す / 隠す",
+      "en": "Show / Hide in Photos",
+      "zh": "拍摄中显示 / 隐藏",
+      "ko": "촬영에 표시 / 숨김"
+    },
+    {
+      "key": "runtime.literal.1574419217",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "両手コンソール",
+      "en": "Hand Consoles",
+      "zh": "双手控制台",
+      "ko": "양손 콘솔"
+    },
+    {
+      "key": "runtime.literal.666542933",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "左手MENU",
+      "en": "Left-hand MENU",
+      "zh": "左手MENU",
+      "ko": "왼손 MENU"
+    },
+    {
+      "key": "runtime.literal.-1279783586",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "EBKメニュー",
+      "en": "EBK Menu",
+      "zh": "EBK菜单",
+      "ko": "EBK 메뉴"
+    },
+    {
+      "key": "runtime.literal.709777",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "名札",
+      "en": "Nameplate",
+      "zh": "名牌",
+      "ko": "명찰"
+    },
+    {
+      "key": "runtime.literal.906994957",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "運営ボード",
+      "en": "Staff Board",
+      "zh": "运营看板",
+      "ko": "운영 보드"
+    },
+    {
+      "key": "runtime.literal.-1571576162",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "部屋担当・状態・引継ぎメモ",
+      "en": "Room assignment, status and handoff notes",
+      "zh": "房间负责、状态和交接备注",
+      "ko": "방 담당·상태·인수인계 메모"
+    },
+    {
+      "key": "runtime.literal.1774694643",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "自分を担当",
+      "en": "Assign Myself",
+      "zh": "由我负责",
+      "ko": "내가 담당"
+    },
+    {
+      "key": "runtime.literal.793549344",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "担当解除",
+      "en": "Release Assignment",
+      "zh": "解除负责",
+      "ko": "담당 해제"
+    },
+    {
+      "key": "runtime.literal.801611",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "待機",
+      "en": "Available",
+      "zh": "待机",
+      "ko": "대기"
+    },
+    {
+      "key": "runtime.literal.25767807",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "接客中",
+      "en": "Serving",
+      "zh": "接待中",
+      "ko": "접객 중"
+    },
+    {
+      "key": "runtime.literal.35089198",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "要対応",
+      "en": "Needs Attention",
+      "zh": "需要处理",
+      "ko": "대응 필요"
+    },
+    {
+      "key": "runtime.literal.762955",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "完了",
+      "en": "Done",
+      "zh": "完成",
+      "ko": "완료"
+    },
+    {
+      "key": "runtime.literal.-1833529382",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "引継ぎメモ",
+      "en": "Handoff Note",
+      "zh": "交接备注",
+      "ko": "인수인계 메모"
+    },
+    {
+      "key": "runtime.literal.732857619",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "引継ぎメモを保存",
+      "en": "Save Handoff Note",
+      "zh": "保存交接备注",
+      "ko": "인수인계 메모 저장"
+    },
+    {
+      "key": "runtime.literal.-267723264",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "開催予定・ローテ",
+      "en": "Schedule / Rotation",
+      "zh": "活动日程／轮换",
+      "ko": "개최 일정 / 로테이션"
+    },
+    {
+      "key": "runtime.literal.-717801659",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "開催日時とローテーション",
+      "en": "Event time and rotation",
+      "zh": "活动时间和轮换",
+      "ko": "개최 일시와 로테이션"
+    },
+    {
+      "key": "runtime.literal.-1491613685",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "予定タイトル",
+      "en": "Schedule Title",
+      "zh": "日程标题",
+      "ko": "일정 제목"
+    },
+    {
+      "key": "runtime.literal.-1621024479",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "1ローテ分数",
+      "en": "Minutes per Rotation",
+      "zh": "每轮分钟数",
+      "ko": "로테이션당 분"
+    },
+    {
+      "key": "runtime.literal.-1710469526",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "予定を保存",
+      "en": "Save Schedule",
+      "zh": "保存日程",
+      "ko": "일정 저장"
+    },
+    {
+      "key": "runtime.literal.-619710377",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "開始 / 次へ",
+      "en": "Start / Next",
+      "zh": "开始／下一步",
+      "ko": "시작 / 다음"
+    },
+    {
+      "key": "runtime.literal.701807",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "再開",
+      "en": "Resume",
+      "zh": "继续",
+      "ko": "재개"
+    },
+    {
+      "key": "runtime.literal.681559",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "停止",
+      "en": "Stop",
+      "zh": "停止",
+      "ko": "정지"
+    },
+    {
+      "key": "runtime.literal.689942545",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "防音・インカム・放送",
+      "en": "Soundproof / Intercom / Broadcast",
+      "zh": "隔音／对讲／广播",
+      "ko": "방음 / 인터컴 / 방송"
+    },
+    {
+      "key": "runtime.literal.1120466720",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "音声環境を操作",
+      "en": "Control the audio environment",
+      "zh": "控制音频环境",
+      "ko": "음성 환경 조작"
+    },
+    {
+      "key": "runtime.literal.854748459",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "音声状態を確認中",
+      "en": "Checking audio status",
+      "zh": "正在检查音频状态",
+      "ko": "음성 상태 확인 중"
+    },
+    {
+      "key": "runtime.literal.-613031635",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "防音 ON/OFF",
+      "en": "Soundproof ON/OFF",
+      "zh": "隔音 开/关",
+      "ko": "방음 ON/OFF"
+    },
+    {
+      "key": "runtime.literal.-1850850966",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "インカム ON/OFF",
+      "en": "Intercom ON/OFF",
+      "zh": "对讲 开/关",
+      "ko": "인터컴 ON/OFF"
+    },
+    {
+      "key": "runtime.literal.111213478",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "室外聞き取り",
+      "en": "Hear Outside Room",
+      "zh": "收听室外",
+      "ko": "방 밖 듣기"
+    },
+    {
+      "key": "runtime.literal.824460020",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "放送開始",
+      "en": "Start Broadcast",
+      "zh": "开始广播",
+      "ko": "방송 시작"
+    },
+    {
+      "key": "runtime.literal.823915482",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "放送停止",
+      "en": "Stop Broadcast",
+      "zh": "停止广播",
+      "ko": "방송 정지"
+    },
+    {
+      "key": "runtime.literal.-821802991",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "部屋を選んで放送",
+      "en": "Broadcast to a Room",
+      "zh": "选择房间广播",
+      "ko": "방을 선택해 방송"
+    },
+    {
+      "key": "runtime.literal.1144372663",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "部屋放送",
+      "en": "Room Broadcast",
+      "zh": "房间广播",
+      "ko": "방 방송"
+    },
+    {
+      "key": "runtime.literal.-711253903",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "選択した部屋にいる人へ放送",
+      "en": "Broadcast to people in the selected room",
+      "zh": "向所选房间内的人广播",
+      "ko": "선택한 방의 사람들에게 방송"
+    },
+    {
+      "key": "runtime.literal.-228403821",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "放送停止中",
+      "en": "Broadcast stopped",
+      "zh": "广播已停止",
+      "ko": "방송 정지 중"
+    },
+    {
+      "key": "runtime.literal.1547444656",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "選択部屋だけへ放送開始",
+      "en": "Start Broadcast to Selected Room",
+      "zh": "仅向所选房间开始广播",
+      "ko": "선택한 방에만 방송 시작"
+    },
+    {
+      "key": "runtime.literal.-2145117956",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "防音・放送へ戻る",
+      "en": "Back to Soundproof / Broadcast",
+      "zh": "返回隔音／广播",
+      "ko": "방음·방송으로 돌아가기"
+    },
+    {
+      "key": "runtime.literal.-638965114",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "登録音声を8件ずつ表示・再生",
+      "en": "Browse and play registered audio 8 at a time",
+      "zh": "每页显示并播放8条已注册音频",
+      "ko": "등록 음성을 8개씩 표시·재생"
+    },
+    {
+      "key": "runtime.literal.20555389",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "全0件",
+      "en": "0 total",
+      "zh": "共0条",
+      "ko": "전체 0개"
+    },
+    {
+      "key": "runtime.literal.-1539327277",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "音声未登録",
+      "en": "No audio registered",
+      "zh": "未注册音频",
+      "ko": "등록된 음성 없음"
+    },
+    {
+      "key": "runtime.literal.-2065743872",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "手動音声を確認中",
+      "en": "Checking manual audio",
+      "zh": "正在检查手动音频",
+      "ko": "수동 음성 확인 중"
+    },
+    {
+      "key": "runtime.literal.371057392",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "◀ 前の8件",
+      "en": "◀ Previous 8",
+      "zh": "◀ 前8条",
+      "ko": "◀ 이전 8개"
+    },
+    {
+      "key": "runtime.literal.-35872238",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "次の8件 ▶",
+      "en": "Next 8 ▶",
+      "zh": "后8条 ▶",
+      "ko": "다음 8개 ▶"
+    },
+    {
+      "key": "runtime.literal.1047187693",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "選択を再生",
+      "en": "Play Selected",
+      "zh": "播放所选",
+      "ko": "선택 재생"
+    },
+    {
+      "key": "runtime.literal.859405",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "更新",
+      "en": "Refresh",
+      "zh": "更新",
+      "ko": "새로고침"
+    },
+    {
+      "key": "runtime.literal.-392827136",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "権限に応じた運営用カンペを確認",
+      "en": "View staff cue cards based on access",
+      "zh": "按权限查看运营提示卡",
+      "ko": "권한에 따른 운영 큐카드 확인"
+    },
+    {
+      "key": "runtime.literal.304296380",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "◀ 前へ",
+      "en": "◀ Previous",
+      "zh": "◀ 上一个",
+      "ko": "◀ 이전"
+    },
+    {
+      "key": "runtime.literal.844652766",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "次へ ▶",
+      "en": "Next ▶",
+      "zh": "下一个 ▶",
+      "ko": "다음 ▶"
+    },
+    {
+      "key": "runtime.literal.1176517077",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "先着受付・定員・受付順を管理",
+      "en": "Manage first-come entry, capacity and order",
+      "zh": "管理先到先得、名额和接待顺序",
+      "ko": "선착순 접수·정원·접수 순서 관리"
+    },
+    {
+      "key": "runtime.literal.675155161",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "受付一覧",
+      "en": "Entry List",
+      "zh": "接待列表",
+      "ko": "접수 목록"
+    },
+    {
+      "key": "runtime.literal.304285080",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "◀ 一覧",
+      "en": "◀ List",
+      "zh": "◀ 列表",
+      "ko": "◀ 목록"
+    },
+    {
+      "key": "runtime.literal.644441870",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "一覧 ▶",
+      "en": "List ▶",
+      "zh": "列表 ▶",
+      "ko": "목록 ▶"
+    },
+    {
+      "key": "runtime.literal.2039292494",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "＋ 受付を追加",
+      "en": "+ Add Entry",
+      "zh": "+ 添加接待",
+      "ko": "+ 접수 추가"
+    },
+    {
+      "key": "runtime.literal.-552440104",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "受付を無効",
+      "en": "Disable Entry",
+      "zh": "禁用接待",
+      "ko": "접수 비활성"
+    },
+    {
+      "key": "runtime.literal.951590",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "状態",
+      "en": "Status",
+      "zh": "状态",
+      "ko": "상태"
+    },
+    {
+      "key": "runtime.literal.21790867",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "受付者",
+      "en": "Guest",
+      "zh": "接待者",
+      "ko": "접수자"
+    },
+    {
+      "key": "runtime.literal.-1623110682",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "選択受付者を解除",
+      "en": "Remove Selected Guest",
+      "zh": "移除所选接待者",
+      "ko": "선택 접수자 해제"
+    },
+    {
+      "key": "runtime.literal.747178157",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "履歴なし",
+      "en": "No History",
+      "zh": "无历史",
+      "ko": "기록 없음"
+    },
+    {
+      "key": "runtime.literal.25919180",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "新しい",
+      "en": "Newer",
+      "zh": "较新",
+      "ko": "최신"
+    },
+    {
+      "key": "runtime.literal.694449",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "古い",
+      "en": "Older",
+      "zh": "较旧",
+      "ko": "이전"
+    },
+    {
+      "key": "runtime.literal.675710674",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "受付開始",
+      "en": "Open Entry",
+      "zh": "开始接待",
+      "ko": "접수 시작"
+    },
+    {
+      "key": "runtime.literal.675515062",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "受付終了",
+      "en": "Close Entry",
+      "zh": "结束接待",
+      "ko": "접수 종료"
+    },
+    {
+      "key": "runtime.literal.-564095655",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "名簿リセット",
+      "en": "Reset Roster",
+      "zh": "重置名单",
+      "ko": "명단 초기화"
+    },
+    {
+      "key": "runtime.literal.1315787372",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "定員 -1",
+      "en": "Capacity -1",
+      "zh": "名额 -1",
+      "ko": "정원 -1"
+    },
+    {
+      "key": "runtime.literal.815992848",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "既定定員",
+      "en": "Default Capacity",
+      "zh": "默认名额",
+      "ko": "기본 정원"
+    },
+    {
+      "key": "runtime.literal.1315787310",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "定員 +1",
+      "en": "Capacity +1",
+      "zh": "名额 +1",
+      "ko": "정원 +1"
+    },
+    {
+      "key": "runtime.literal.747672243",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "履歴消去",
+      "en": "Clear History",
+      "zh": "清除历史",
+      "ko": "기록 지우기"
+    },
+    {
+      "key": "runtime.literal.862649799",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "イベントエントリーゲートの受付順に案内",
+      "en": "Guide guests in Event Entry Gate order",
+      "zh": "按活动入口的接待顺序引导",
+      "ko": "이벤트 엔트리 게이트 접수 순서대로 안내"
+    },
+    {
+      "key": "runtime.literal.-616222524",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "上から順番にお名前を呼んで案内してください",
+      "en": "Call names from the top and guide guests in order",
+      "zh": "请从上到下依次叫名并引导",
+      "ko": "위에서부터 순서대로 이름을 불러 안내해 주세요"
+    },
+    {
+      "key": "runtime.literal.-533416704",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "受付者なし",
+      "en": "No Guests",
+      "zh": "暂无接待者",
+      "ko": "접수자 없음"
+    },
+    {
+      "key": "runtime.literal.-1605186531",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "必要な内容を選んでスタッフへ知らせます",
+      "en": "Choose what you need and notify staff",
+      "zh": "选择需要的内容并通知工作人员",
+      "ko": "필요한 내용을 선택해 스태프에게 알립니다"
+    },
+    {
+      "key": "runtime.literal.1075045699",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "スタッフを呼ぶ",
+      "en": "Call Staff",
+      "zh": "呼叫工作人员",
+      "ko": "스태프 호출"
+    },
+    {
+      "key": "runtime.literal.33851616",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "使い方を聞く",
+      "en": "Ask How to Use",
+      "zh": "询问使用方法",
+      "ko": "사용법 문의"
+    },
+    {
+      "key": "runtime.literal.-1852033608",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "接客について相談",
+      "en": "Ask About Service",
+      "zh": "咨询接待",
+      "ko": "접객 상담"
+    },
+    {
+      "key": "runtime.literal.1522061962",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "その他のヘルプ",
+      "en": "Other Help",
+      "zh": "其他帮助",
+      "ko": "기타 도움"
+    },
+    {
+      "key": "runtime.literal.2125659858",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "呼び出しなし",
+      "en": "No active call",
+      "zh": "无呼叫",
+      "ko": "호출 없음"
+    },
+    {
+      "key": "runtime.literal.-800191656",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "連打防止のため、送信後はしばらく再送できません",
+      "en": "To prevent repeated calls, please wait before sending again",
+      "zh": "为防止重复呼叫，发送后请稍候再试",
+      "ko": "연속 호출 방지를 위해 전송 후 잠시 기다려 주세요"
+    },
+    {
+      "key": "runtime.literal.392102796",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ゲーム・案内・説明ページ",
+      "en": "Games, guides and information pages",
+      "zh": "游戏、指南和说明页面",
+      "ko": "게임·안내·설명 페이지"
+    },
+    {
+      "key": "runtime.literal.-1370422108",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "◀ 前のゲーム",
+      "en": "◀ Previous Game",
+      "zh": "◀ 上一个游戏",
+      "ko": "◀ 이전 게임"
+    },
+    {
+      "key": "runtime.literal.1542010158",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "次のゲーム ▶",
+      "en": "Next Game ▶",
+      "zh": "下一个游戏 ▶",
+      "ko": "다음 게임 ▶"
+    },
+    {
+      "key": "runtime.literal.864782",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "案内",
+      "en": "Guide",
+      "zh": "指南",
+      "ko": "안내"
+    },
+    {
+      "key": "runtime.literal.1142963",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "説明",
+      "en": "Description",
+      "zh": "说明",
+      "ko": "설명"
+    },
+    {
+      "key": "runtime.literal.-1370383708",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "◀ 前のページ",
+      "en": "◀ Previous Page",
+      "zh": "◀ 上一页",
+      "ko": "◀ 이전 페이지"
+    },
+    {
+      "key": "runtime.literal.1578912558",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "次のページ ▶",
+      "en": "Next Page ▶",
+      "zh": "下一页 ▶",
+      "ko": "다음 페이지 ▶"
+    },
+    {
+      "key": "runtime.literal.-1935729014",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "現在の待機順と呼出を管理",
+      "en": "Manage the current queue and calls",
+      "zh": "管理当前等待顺序和呼叫",
+      "ko": "현재 대기 순서와 호출 관리"
+    },
+    {
+      "key": "runtime.literal.-1857119033",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "待機者なし",
+      "en": "No one waiting",
+      "zh": "无人等待",
+      "ko": "대기자 없음"
+    },
+    {
+      "key": "runtime.literal.-2086147825",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "待機列に並ぶ",
+      "en": "Join Queue",
+      "zh": "加入等待队列",
+      "ko": "대기열 참가"
+    },
+    {
+      "key": "runtime.literal.719002348",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "待機列から抜ける",
+      "en": "Leave Queue",
+      "zh": "离开等待队列",
+      "ko": "대기열 나가기"
+    },
+    {
+      "key": "runtime.literal.556062928",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "次の人を呼ぶ",
+      "en": "Call Next",
+      "zh": "呼叫下一位",
+      "ko": "다음 사람 호출"
+    },
+    {
+      "key": "runtime.literal.-252144063",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "待機列をクリア",
+      "en": "Clear Queue",
+      "zh": "清空等待队列",
+      "ko": "대기열 지우기"
+    },
+    {
+      "key": "runtime.literal.-155718485",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "商品を選んで内容を確認",
+      "en": "Select an item to view details",
+      "zh": "选择商品查看详情",
+      "ko": "상품을 선택해 내용을 확인"
+    },
+    {
+      "key": "runtime.literal.115018530",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "◀ カテゴリ",
+      "en": "◀ Category",
+      "zh": "◀ 类别",
+      "ko": "◀ 카테고리"
+    },
+    {
+      "key": "runtime.literal.399264002",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "カテゴリ",
+      "en": "Category",
+      "zh": "分类",
+      "ko": "카테고리"
+    },
+    {
+      "key": "runtime.literal.1440627224",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "カテゴリ ▶",
+      "en": "Category ▶",
+      "zh": "类别 ▶",
+      "ko": "카테고리 ▶"
+    },
+    {
+      "key": "runtime.literal.22179201",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "商品名",
+      "en": "Item Name",
+      "zh": "商品名",
+      "ko": "상품명"
+    },
+    {
+      "key": "runtime.literal.674956",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "価格",
+      "en": "Price",
+      "zh": "价格",
+      "ko": "가격"
+    },
+    {
+      "key": "runtime.literal.371733869",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "◀ 前の商品",
+      "en": "◀ Previous Item",
+      "zh": "◀ 上一商品",
+      "ko": "◀ 이전 상품"
+    },
+    {
+      "key": "runtime.literal.614222159",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "次の商品 ▶",
+      "en": "Next Item ▶",
+      "zh": "下一商品 ▶",
+      "ko": "다음 상품 ▶"
+    },
+    {
+      "key": "runtime.literal.623840701",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "商品情報・公開状態・権限・在庫を編集",
+      "en": "Edit item info, visibility, access and inventory",
+      "zh": "编辑商品信息、公开状态、权限和库存",
+      "ko": "상품 정보·공개 상태·권한·재고 편집"
+    },
+    {
+      "key": "runtime.literal.304329260",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "◀ 商品",
+      "en": "◀ Item",
+      "zh": "◀ 商品",
+      "ko": "◀ 상품"
+    },
+    {
+      "key": "runtime.literal.-1436253443",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "商品 1 / 1",
+      "en": "Item 1 / 1",
+      "zh": "商品 1 / 1",
+      "ko": "상품 1 / 1"
+    },
+    {
+      "key": "runtime.literal.686898850",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "商品 ▶",
+      "en": "Item ▶",
+      "zh": "商品 ▶",
+      "ko": "상품 ▶"
+    },
+    {
+      "key": "runtime.literal.649750588",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "価格表記",
+      "en": "Price Text",
+      "zh": "价格显示",
+      "ko": "가격 표시"
+    },
+    {
+      "key": "runtime.literal.-287855044",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "表示 ON/OFF",
+      "en": "Visibility ON/OFF",
+      "zh": "显示 开/关",
+      "ko": "표시 ON/OFF"
+    },
+    {
+      "key": "runtime.literal.121203545",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "売切 ON/OFF",
+      "en": "Sold Out ON/OFF",
+      "zh": "售罄 开/关",
+      "ko": "품절 ON/OFF"
+    },
+    {
+      "key": "runtime.literal.983443415",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "おすすめ ON/OFF",
+      "en": "Recommended ON/OFF",
+      "zh": "推荐 开/关",
+      "ko": "추천 ON/OFF"
+    },
+    {
+      "key": "runtime.literal.1440627234",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "カテゴリ ◀",
+      "en": "Category ◀",
+      "zh": "分类 ◀",
+      "ko": "카테고리 ◀"
+    },
+    {
+      "key": "runtime.literal.673239304",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "画像候補 ◀",
+      "en": "Image Choice ◀",
+      "zh": "图片候选 ◀",
+      "ko": "이미지 후보 ◀"
+    },
+    {
+      "key": "runtime.literal.673239294",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "画像候補 ▶",
+      "en": "Image Choice ▶",
+      "zh": "图片候选 ▶",
+      "ko": "이미지 후보 ▶"
+    },
+    {
+      "key": "runtime.literal.-697032653",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "最低権限 -",
+      "en": "Min Access -",
+      "zh": "最低权限 -",
+      "ko": "최소 권한 -"
+    },
+    {
+      "key": "runtime.literal.-697032655",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "最低権限 +",
+      "en": "Min Access +",
+      "zh": "最低权限 +",
+      "ko": "최소 권한 +"
+    },
+    {
+      "key": "runtime.literal.-17852739",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "最高権限 -",
+      "en": "Max Access -",
+      "zh": "最高权限 -",
+      "ko": "최대 권한 -"
+    },
+    {
+      "key": "runtime.literal.-17852741",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "最高権限 +",
+      "en": "Max Access +",
+      "zh": "最高权限 +",
+      "ko": "최대 권한 +"
+    },
+    {
+      "key": "runtime.literal.1674760006",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "在庫管理 ON/OFF",
+      "en": "Inventory Tracking ON/OFF",
+      "zh": "库存管理 开/关",
+      "ko": "재고 관리 ON/OFF"
+    },
+    {
+      "key": "runtime.literal.339476720",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "在庫 -1",
+      "en": "Stock -1",
+      "zh": "库存 -1",
+      "ko": "재고 -1"
+    },
+    {
+      "key": "runtime.literal.339476658",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "在庫 +1",
+      "en": "Stock +1",
+      "zh": "库存 +1",
+      "ko": "재고 +1"
+    },
+    {
+      "key": "runtime.literal.339476662",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "在庫 +5",
+      "en": "Stock +5",
+      "zh": "库存 +5",
+      "ko": "재고 +5"
+    },
+    {
+      "key": "runtime.literal.-960914252",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "在庫を初期値へ",
+      "en": "Reset Stock to Initial",
+      "zh": "库存恢复初始值",
+      "ko": "재고를 초기값으로"
+    },
+    {
+      "key": "runtime.literal.-1817639314",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "現在在庫→初期値",
+      "en": "Current Stock → Initial",
+      "zh": "当前库存→初始值",
+      "ko": "현재 재고→초기값"
+    },
+    {
+      "key": "runtime.literal.1800595112",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "在庫0（売切）",
+      "en": "Stock 0 (Sold Out)",
+      "zh": "库存0（售罄）",
+      "ko": "재고 0 (품절)"
+    },
+    {
+      "key": "runtime.literal.-1052072769",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "部屋・注文品・裏メニューの提供と返却",
+      "en": "Serve and return room items, orders and hidden-menu items",
+      "zh": "提供和归还房间物品、订单品及隐藏菜单",
+      "ko": "방 아이템·주문품·숨김 메뉴 제공 및 반납"
+    },
+    {
+      "key": "runtime.literal.679280",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "出す",
+      "en": "Serve",
+      "zh": "取出",
+      "ko": "꺼내기"
+    },
+    {
+      "key": "runtime.literal.808271",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "戻す",
+      "en": "Return",
+      "zh": "归还",
+      "ko": "반납"
+    },
+    {
+      "key": "runtime.literal.777141157",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "戻さない",
+      "en": "Do Not Return",
+      "zh": "不归还",
+      "ko": "반납하지 않음"
+    },
+    {
+      "key": "runtime.literal.1029928849",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "確認して戻す",
+      "en": "Confirm and Return",
+      "zh": "确认后归还",
+      "ko": "확인 후 반납"
+    },
+    {
+      "key": "runtime.literal.-602136659",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "商品ごとの在庫・初期値・売切状態",
+      "en": "Stock, initial quantity and sold-out state per item",
+      "zh": "每件商品的库存、初始值和售罄状态",
+      "ko": "상품별 재고·초기값·품절 상태"
+    },
+    {
+      "key": "runtime.literal.845097051",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "商品を選択してください",
+      "en": "Select an item",
+      "zh": "请选择商品",
+      "ko": "상품을 선택해 주세요"
+    },
+    {
+      "key": "runtime.literal.-1662316637",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "在庫変動ログ",
+      "en": "Inventory Change Log",
+      "zh": "库存变动日志",
+      "ko": "재고 변동 로그"
+    },
+    {
+      "key": "runtime.literal.743206",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "売切",
+      "en": "Sold Out",
+      "zh": "售罄",
+      "ko": "품절"
+    },
+    {
+      "key": "runtime.literal.-1827872768",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "初期在庫へ戻す",
+      "en": "Reset to Initial Stock",
+      "zh": "恢复初始库存",
+      "ko": "초기 재고로 복원"
+    },
+    {
+      "key": "runtime.literal.-1483300394",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "全商品を初期値へ",
+      "en": "Reset All Items",
+      "zh": "全部商品恢复初始值",
+      "ko": "모든 상품 초기값 복원"
+    },
+    {
+      "key": "runtime.literal.1086668319",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "表示更新",
+      "en": "Refresh Display",
+      "zh": "刷新显示",
+      "ko": "표시 새로고침"
+    },
+    {
+      "key": "runtime.literal.825184833",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "数量 1",
+      "en": "Quantity 1",
+      "zh": "数量 1",
+      "ko": "수량 1"
+    },
+    {
+      "key": "runtime.literal.871646402",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "注文する",
+      "en": "Place Order",
+      "zh": "下单",
+      "ko": "주문하기"
+    },
+    {
+      "key": "runtime.literal.871943650",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "注文取消",
+      "en": "Cancel Order",
+      "zh": "取消订单",
+      "ko": "주문 취소"
+    },
+    {
+      "key": "runtime.literal.456301935",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "注文はありません",
+      "en": "No Orders",
+      "zh": "没有订单",
+      "ko": "주문이 없습니다"
+    },
+    {
+      "key": "runtime.literal.-1851364063",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "注文一覧・進行状態・品出しを管理",
+      "en": "Manage orders, progress and serving",
+      "zh": "管理订单、进度和出品",
+      "ko": "주문 목록·진행 상태·제공 관리"
+    },
+    {
+      "key": "runtime.literal.-1477541390",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "現在の注文",
+      "en": "Current Order",
+      "zh": "当前订单",
+      "ko": "현재 주문"
+    },
+    {
+      "key": "runtime.literal.2131168119",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "注文を選択してください",
+      "en": "Select an order",
+      "zh": "请选择订单",
+      "ko": "주문을 선택해 주세요"
+    },
+    {
+      "key": "runtime.literal.304521104",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "◀ 注文",
+      "en": "◀ Order",
+      "zh": "◀ 订单",
+      "ko": "◀ 주문"
+    },
+    {
+      "key": "runtime.literal.871260934",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "注文 ▶",
+      "en": "Order ▶",
+      "zh": "订单 ▶",
+      "ko": "주문 ▶"
+    },
+    {
+      "key": "runtime.literal.28371993",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "準備中",
+      "en": "Preparing",
+      "zh": "准备中",
+      "ko": "준비 중"
+    },
+    {
+      "key": "runtime.literal.797389331",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "提供済み",
+      "en": "Served",
+      "zh": "已提供",
+      "ko": "제공 완료"
+    },
+    {
+      "key": "runtime.literal.-1496806058",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "一覧 上へ",
+      "en": "List Up",
+      "zh": "列表向上",
+      "ko": "목록 위로"
+    },
+    {
+      "key": "runtime.literal.-1496806027",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "一覧 下へ",
+      "en": "List Down",
+      "zh": "列表向下",
+      "ko": "목록 아래로"
+    },
+    {
+      "key": "runtime.literal.910901156",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "参加者のアクセスレベルを設定",
+      "en": "Set participant access levels",
+      "zh": "设置参与者权限等级",
+      "ko": "참가자 접근 레벨 설정"
+    },
+    {
+      "key": "runtime.literal.21800694",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "参加者",
+      "en": "Participant",
+      "zh": "参与者",
+      "ko": "참가자"
+    },
+    {
+      "key": "runtime.literal.1927598343",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "対象者を選択",
+      "en": "Select Participant",
+      "zh": "选择对象",
+      "ko": "대상자 선택"
+    },
+    {
+      "key": "runtime.literal.668669",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "一般",
+      "en": "Guest",
+      "zh": "一般",
+      "ko": "일반"
+    },
+    {
+      "key": "runtime.literal.399351574",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "キャスト",
+      "en": "Cast",
+      "zh": "演员",
+      "ko": "캐스트"
+    },
+    {
+      "key": "runtime.literal.399674793",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "スタッフ",
+      "en": "Staff",
+      "zh": "工作人员",
+      "ko": "스태프"
+    },
+    {
+      "key": "runtime.literal.-1361508939",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "◀ 前の参加者",
+      "en": "◀ Previous Participant",
+      "zh": "◀ 上一参与者",
+      "ko": "◀ 이전 참가자"
+    },
+    {
+      "key": "runtime.literal.1517630975",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "次の参加者 ▶",
+      "en": "Next Participant ▶",
+      "zh": "下一参与者 ▶",
+      "ko": "다음 참가자 ▶"
+    },
+    {
+      "key": "runtime.literal.-1831513513",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "保存: 今回だけ",
+      "en": "Save: This Visit Only",
+      "zh": "保存：仅本次",
+      "ko": "저장: 이번만"
+    },
+    {
+      "key": "runtime.literal.1747398378",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "選んだ権限を反映",
+      "en": "Apply Selected Access",
+      "zh": "应用所选权限",
+      "ko": "선택한 권한 적용"
+    },
+    {
+      "key": "runtime.literal.-1293120405",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "自分の腕章のサイズ・位置・角度を調整",
+      "en": "Adjust your armband size, position and angle",
+      "zh": "调整自己的臂章大小、位置和角度",
+      "ko": "내 완장의 크기·위치·각도 조정"
+    },
+    {
+      "key": "runtime.literal.794624",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "左腕",
+      "en": "Left Arm",
+      "zh": "左臂",
+      "ko": "왼팔"
+    },
+    {
+      "key": "runtime.literal.715667",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "右腕",
+      "en": "Right Arm",
+      "zh": "右臂",
+      "ko": "오른팔"
+    },
+    {
+      "key": "runtime.literal.2039873326",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "サイズ  100%",
+      "en": "Size  100%",
+      "zh": "大小  100%",
+      "ko": "크기  100%"
+    },
+    {
+      "key": "runtime.literal.-441801226",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "左右  0.0 cm",
+      "en": "Horizontal  0.0 cm",
+      "zh": "左右  0.0 cm",
+      "ko": "좌우  0.0 cm"
+    },
+    {
+      "key": "runtime.literal.-188940182",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "上下  0.0 cm",
+      "en": "Vertical  0.0 cm",
+      "zh": "上下  0.0 cm",
+      "ko": "상하  0.0 cm"
+    },
+    {
+      "key": "runtime.literal.1821496300",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "距離  — cm",
+      "en": "Distance  — cm",
+      "zh": "距离  — cm",
+      "ko": "거리  — cm"
+    },
+    {
+      "key": "runtime.literal.667954311",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "初期値へ",
+      "en": "Reset",
+      "zh": "恢复初始值",
+      "ko": "초기값으로"
+    },
+    {
+      "key": "runtime.literal.673516",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "保存",
+      "en": "Save",
+      "zh": "保存",
+      "ko": "저장"
+    },
+    {
+      "key": "runtime.literal.810233586",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "RP名・タグ・画像・公開自己紹介",
+      "en": "RP name, tags, images and public bio",
+      "zh": "RP名、标签、图片和公开自我介绍",
+      "ko": "RP명·태그·이미지·공개 자기소개"
+    },
+    {
+      "key": "runtime.literal.609246",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "RP名",
+      "en": "RP Name",
+      "zh": "RP名",
+      "ko": "RP명"
+    },
+    {
+      "key": "runtime.literal.602765738",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ロールプレイ用の名前",
+      "en": "Roleplay name",
+      "zh": "角色扮演名称",
+      "ko": "롤플레이 이름"
+    },
+    {
+      "key": "runtime.literal.415650",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "タグ",
+      "en": "Tags",
+      "zh": "标签",
+      "ko": "태그"
+    },
+    {
+      "key": "runtime.literal.1142372068",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "選択中:",
+      "en": "Selected:",
+      "zh": "已选择：",
+      "ko": "선택 중:"
+    },
+    {
+      "key": "runtime.literal.1035719209",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "自由タグ",
+      "en": "Custom Tag",
+      "zh": "自定义标签",
+      "ko": "자유 태그"
+    },
+    {
+      "key": "runtime.literal.-1948999784",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "プロフィール画像",
+      "en": "Profile Image",
+      "zh": "个人资料图片",
+      "ko": "프로필 이미지"
+    },
+    {
+      "key": "runtime.literal.374601470",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "登録画像またはURLを使用",
+      "en": "Use a registered image or URL",
+      "zh": "使用已注册图片或URL",
+      "ko": "등록 이미지 또는 URL 사용"
+    },
+    {
+      "key": "runtime.literal.-1232879533",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "画像を選択",
+      "en": "Select Image",
+      "zh": "选择图片",
+      "ko": "이미지 선택"
+    },
+    {
+      "key": "runtime.literal.-246737064",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "画像設定を読み込み中",
+      "en": "Loading image settings",
+      "zh": "正在读取图片设置",
+      "ko": "이미지 설정 불러오는 중"
+    },
+    {
+      "key": "runtime.literal.21259037",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "再取得",
+      "en": "Retry",
+      "zh": "重新获取",
+      "ko": "다시 가져오기"
+    },
+    {
+      "key": "runtime.literal.-306216956",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "プロフィールへ戻る",
+      "en": "Back to Profile",
+      "zh": "返回个人资料",
+      "ko": "프로필로 돌아가기"
+    },
+    {
+      "key": "runtime.literal.-261441014",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "本人用メモ",
+      "en": "Private Memo",
+      "zh": "个人备忘",
+      "ko": "본인용 메모"
+    },
+    {
+      "key": "runtime.literal.487431061",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "イベントの覚え書きなど",
+      "en": "Event notes and reminders",
+      "zh": "活动备忘等",
+      "ko": "이벤트 메모 등"
+    },
+    {
+      "key": "runtime.literal.-1219125486",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "個人データを確認中",
+      "en": "Checking personal data",
+      "zh": "正在检查个人数据",
+      "ko": "개인 데이터 확인 중"
+    },
+    {
+      "key": "runtime.literal.-456777221",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "メモを保存",
+      "en": "Save Memo",
+      "zh": "保存备忘",
+      "ko": "메모 저장"
+    },
+    {
+      "key": "runtime.literal.-1004608573",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "公開プロフィール",
+      "en": "Public Profile",
+      "zh": "公开资料",
+      "ko": "공개 프로필"
+    },
+    {
+      "key": "runtime.literal.-258618539",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "役柄・好きな話題など",
+      "en": "Role, favorite topics, etc.",
+      "zh": "角色、喜欢的话题等",
+      "ko": "역할·좋아하는 화제 등"
+    },
+    {
+      "key": "runtime.literal.-700979731",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "公開状態を確認中",
+      "en": "Checking publish status",
+      "zh": "正在检查公开状态",
+      "ko": "공개 상태 확인 중"
+    },
+    {
+      "key": "runtime.literal.-970093638",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "公開して保存",
+      "en": "Publish and Save",
+      "zh": "公开并保存",
+      "ko": "공개 후 저장"
+    },
+    {
+      "key": "runtime.literal.674586193",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "公開解除",
+      "en": "Unpublish",
+      "zh": "取消公开",
+      "ko": "공개 해제"
+    },
+    {
+      "key": "runtime.literal.593434934",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "保存内容へ戻す",
+      "en": "Restore Saved",
+      "zh": "恢复已保存内容",
+      "ko": "저장 내용으로 복원"
+    },
+    {
+      "key": "runtime.literal.-948707420",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "公開プロフィールを閲覧",
+      "en": "View public profiles",
+      "zh": "查看公开资料",
+      "ko": "공개 프로필 보기"
+    },
+    {
+      "key": "runtime.literal.937534082",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "参加者を選択",
+      "en": "Select Participant",
+      "zh": "选择参与者",
+      "ko": "참가자 선택"
+    },
+    {
+      "key": "runtime.literal.515573302",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "立ち絵を確認中",
+      "en": "Checking standee",
+      "zh": "正在检查立绘",
+      "ko": "스탠딩 이미지 확인 중"
+    },
+    {
+      "key": "runtime.literal.1609950832",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "プロフィール未公開／受信待ち",
+      "en": "Profile not published / waiting",
+      "zh": "资料未公开／等待接收",
+      "ko": "프로필 미공개 / 수신 대기"
+    },
+    {
+      "key": "runtime.literal.304468010",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "◀ 文章",
+      "en": "◀ Text",
+      "zh": "◀ 文字",
+      "ko": "◀ 글"
+    },
+    {
+      "key": "runtime.literal.820237600",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "文章 ▶",
+      "en": "Text ▶",
+      "zh": "文字 ▶",
+      "ko": "글 ▶"
+    },
+    {
+      "key": "runtime.literal.843915478",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "◀ 参加者",
+      "en": "◀ Participant",
+      "zh": "◀ 参与者",
+      "ko": "◀ 참가자"
+    },
+    {
+      "key": "runtime.literal.-524358900",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "参加者 ▶",
+      "en": "Participant ▶",
+      "zh": "参与者 ▶",
+      "ko": "참가자 ▶"
+    },
+    {
+      "key": "runtime.literal.1371954071",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "スタッフ・キャスト向け",
+      "en": "For Staff / Cast",
+      "zh": "工作人员／演员用",
+      "ko": "스태프 / 캐스트용"
+    },
+    {
+      "key": "runtime.literal.686340296",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "立ち絵は未設定です",
+      "en": "No standee configured",
+      "zh": "未设置立绘",
+      "ko": "스탠딩 이미지 미설정"
+    },
+    {
+      "key": "runtime.literal.1403566947",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "未設定に戻す",
+      "en": "Clear Setting",
+      "zh": "恢复未设置",
+      "ko": "미설정으로"
+    },
+    {
+      "key": "runtime.literal.38212725",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "RP名 未設定",
+      "en": "RP Name Not Set",
+      "zh": "RP名 未设置",
+      "ko": "RP명 미설정"
+    },
+    {
+      "key": "runtime.literal.-766084107",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "店員用ボードと同じ各席・部屋の現在状態を確認",
+      "en": "View the same seat/room intent state as the staff board",
+      "zh": "查看与店员看板相同的各座位／房间当前状态",
+      "ko": "직원용 보드와 같은 좌석·방 현재 상태 확인"
+    },
+    {
+      "key": "runtime.literal.-1168696745",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "意思表示を読み込み中",
+      "en": "Loading intent status",
+      "zh": "正在读取意向状态",
+      "ko": "의사 표시 불러오는 중"
+    },
+    {
+      "key": "runtime.literal.-1643437349",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "意思表示ボード（店員用）",
+      "en": "Intent Board (Staff)",
+      "zh": "意向看板（工作人员）",
+      "ko": "의사 표시 보드 (직원용)"
+    },
+    {
+      "key": "runtime.literal.1709259924",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "営業前の確認と接客開始状況",
+      "en": "Pre-opening checks and service-start status",
+      "zh": "营业前检查和接待开始状态",
+      "ko": "영업 전 확인과 접객 시작 상태"
+    },
+    {
+      "key": "runtime.literal.1568513974",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "新人ヘルパー状態を確認中",
+      "en": "Checking new-staff helper",
+      "zh": "正在检查新人助手状态",
+      "ko": "신입 헬퍼 상태 확인 중"
+    },
+    {
+      "key": "runtime.literal.-1529873855",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ヘルパー表示",
+      "en": "Helper Display",
+      "zh": "助手显示",
+      "ko": "헬퍼 표시"
+    },
+    {
+      "key": "runtime.literal.-36451279",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "本人チェック",
+      "en": "Self Check",
+      "zh": "本人检查",
+      "ko": "본인 체크"
+    },
+    {
+      "key": "runtime.literal.-1840831522",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ヘルパー表示 ON/OFF",
+      "en": "Helper Display ON/OFF",
+      "zh": "助手显示 开/关",
+      "ko": "헬퍼 표시 ON/OFF"
+    },
+    {
+      "key": "runtime.literal.-1457099218",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "Discord確認",
+      "en": "Discord Check",
+      "zh": "Discord确认",
+      "ko": "Discord 확인"
+    },
+    {
+      "key": "runtime.literal.665056087",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "出席確認",
+      "en": "Attendance Check",
+      "zh": "出席确认",
+      "ko": "출석 확인"
+    },
+    {
+      "key": "runtime.literal.799391374",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "接客開始",
+      "en": "Start Service",
+      "zh": "开始接待",
+      "ko": "접객 시작"
+    },
+    {
+      "key": "runtime.literal.-1703161240",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "状態を更新",
+      "en": "Refresh Status",
+      "zh": "更新状态",
+      "ko": "상태 새로고침"
+    },
+    {
+      "key": "runtime.literal.1524490195",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "部屋・担当・スタッフ状態をまとめて管理",
+      "en": "Manage rooms, assignments and staff status",
+      "zh": "统一管理房间、负责人与工作人员状态",
+      "ko": "방·담당·스태프 상태 통합 관리"
+    },
+    {
+      "key": "runtime.literal.1144470527",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "部屋状況",
+      "en": "Room Status",
+      "zh": "房间状态",
+      "ko": "방 상태"
+    },
+    {
+      "key": "runtime.literal.304566086",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "◀ 状態",
+      "en": "◀ Status",
+      "zh": "◀ 状态",
+      "ko": "◀ 상태"
+    },
+    {
+      "key": "runtime.literal.914488636",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "状態 ▶",
+      "en": "Status ▶",
+      "zh": "状态 ▶",
+      "ko": "상태 ▶"
+    },
+    {
+      "key": "runtime.literal.1396307676",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "部屋状態を反映",
+      "en": "Apply Room Status",
+      "zh": "应用房间状态",
+      "ko": "방 상태 적용"
+    },
+    {
+      "key": "runtime.literal.-1172724407",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "担当者候補",
+      "en": "Assignment Candidate",
+      "zh": "负责人候选",
+      "ko": "담당자 후보"
+    },
+    {
+      "key": "runtime.literal.304301524",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "◀ 候補",
+      "en": "◀ Candidate",
+      "zh": "◀ 候选",
+      "ko": "◀ 후보"
+    },
+    {
+      "key": "runtime.literal.660244554",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "候補 ▶",
+      "en": "Candidate ▶",
+      "zh": "候选 ▶",
+      "ko": "후보 ▶"
+    },
+    {
+      "key": "runtime.literal.-994828020",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "候補を担当",
+      "en": "Assign Candidate",
+      "zh": "指派候选人",
+      "ko": "후보 담당 지정"
+    },
+    {
+      "key": "runtime.literal.842924478",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "◀ 人状態",
+      "en": "◀ Person Status",
+      "zh": "◀ 人员状态",
+      "ko": "◀ 사람 상태"
+    },
+    {
+      "key": "runtime.literal.-1476709900",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "人状態 ▶",
+      "en": "Person Status ▶",
+      "zh": "人员状态 ▶",
+      "ko": "사람 상태 ▶"
+    },
+    {
+      "key": "runtime.literal.-2064551062",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "担当者状態を反映",
+      "en": "Apply Assignee Status",
+      "zh": "应用负责人状态",
+      "ko": "담당자 상태 적용"
+    },
+    {
+      "key": "runtime.literal.799119801",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "接客状況",
+      "en": "Service Status",
+      "zh": "接待状态",
+      "ko": "접객 상황"
+    },
+    {
+      "key": "runtime.literal.-1326746486",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "自分の状態・担当を変更",
+      "en": "Change your status and assignment",
+      "zh": "更改自己的状态和负责房间",
+      "ko": "내 상태·담당 변경"
+    },
+    {
+      "key": "runtime.literal.-1563706561",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "接客状況を読み込み中",
+      "en": "Loading service status",
+      "zh": "正在读取接待状态",
+      "ko": "접객 상황 불러오는 중"
+    },
+    {
+      "key": "runtime.literal.1646590543",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "自分の状態を反映",
+      "en": "Apply My Status",
+      "zh": "应用自己的状态",
+      "ko": "내 상태 적용"
+    },
+    {
+      "key": "runtime.literal.-156229389",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "今いる部屋の担当になる",
+      "en": "Assign Me to Current Room",
+      "zh": "负责当前房间",
+      "ko": "현재 방 담당이 되기"
+    },
+    {
+      "key": "runtime.literal.-2136871740",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "自分の担当を解除",
+      "en": "Release My Assignment",
+      "zh": "解除自己的负责",
+      "ko": "내 담당 해제"
+    },
+    {
+      "key": "runtime.literal.171457698",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "今の希望・過ごし方を複数選択",
+      "en": "Select multiple current preferences",
+      "zh": "可多选当前需求和希望的相处方式",
+      "ko": "현재 희망·보내는 방식을 여러 개 선택"
+    },
+    {
+      "key": "runtime.literal.74225064",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "現在の希望を読み込み中",
+      "en": "Loading current preferences",
+      "zh": "正在读取当前需求",
+      "ko": "현재 희망 불러오는 중"
+    },
+    {
+      "key": "runtime.literal.872023039",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "注文希望",
+      "en": "Wants to Order",
+      "zh": "希望点单",
+      "ko": "주문 희망"
+    },
+    {
+      "key": "runtime.literal.1327941073",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "会話してほしい",
+      "en": "Wants Conversation",
+      "zh": "希望聊天",
+      "ko": "대화 희망"
+    },
+    {
+      "key": "runtime.literal.1600396047",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "沈黙が苦手",
+      "en": "Needs Conversation Support",
+      "zh": "不擅长沉默",
+      "ko": "침묵이 어려움"
+    },
+    {
+      "key": "runtime.literal.424059630",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "静かに過ごしたい",
+      "en": "Prefers Quiet",
+      "zh": "想安静度过",
+      "ko": "조용히 있고 싶음"
+    },
+    {
+      "key": "runtime.literal.-1513847887",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ゆっくり話してほしい",
+      "en": "Please Speak Slowly",
+      "zh": "希望慢慢聊",
+      "ko": "천천히 이야기해 주세요"
+    },
+    {
+      "key": "runtime.literal.-1640947203",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "困っています",
+      "en": "Needs Help",
+      "zh": "需要帮助",
+      "ko": "도움이 필요함"
+    },
+    {
+      "key": "runtime.literal.1513045649",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "自分の状態と現在のスタッフ一覧",
+      "en": "Your status and current staff list",
+      "zh": "自己的状态和当前工作人员列表",
+      "ko": "내 상태와 현재 스태프 목록"
+    },
+    {
+      "key": "runtime.literal.-485907298",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "自分の状態を確認中",
+      "en": "Checking your status",
+      "zh": "正在检查自己的状态",
+      "ko": "내 상태 확인 중"
+    },
+    {
+      "key": "runtime.literal.809178756",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "スタッフ状態を読み込み中",
+      "en": "Loading staff status",
+      "zh": "正在读取工作人员状态",
+      "ko": "스태프 상태 불러오는 중"
+    },
+    {
+      "key": "runtime.literal.668809",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "休憩",
+      "en": "Break",
+      "zh": "休息",
+      "ko": "휴식"
+    },
+    {
+      "key": "runtime.literal.1237852",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "離席",
+      "en": "Away",
+      "zh": "离席",
+      "ko": "자리 비움"
+    },
+    {
+      "key": "runtime.literal.777840252",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "応答困難",
+      "en": "Unavailable",
+      "zh": "难以回应",
+      "ko": "응답 어려움"
+    },
+    {
+      "key": "runtime.literal.1584348835",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "手動状態を解除",
+      "en": "Clear Manual Status",
+      "zh": "解除手动状态",
+      "ko": "수동 상태 해제"
+    },
+    {
+      "key": "runtime.literal.-934430107",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "0 / 5 / 10 / … / 100% の5%刻み",
+      "en": "5% steps: 0 / 5 / 10 / … / 100%",
+      "zh": "以5%为单位：0 / 5 / 10 / … / 100%",
+      "ko": "5% 단위: 0 / 5 / 10 / … / 100%"
+    },
+    {
+      "key": "runtime.literal.1172939037",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "緊急時のみ使用。準備後、制限時間内に「実行」を押した場合だけ動作します。",
+      "en": "Emergency use only. After arming, it runs only if Execute is pressed within the time limit.",
+      "zh": "仅限紧急情况。准备后，只有在限制时间内按下“执行”才会运行。",
+      "ko": "긴급 상황에서만 사용하세요. 준비 후 제한 시간 안에 ‘실행’을 눌러야 동작합니다."
+    },
+    {
+      "key": "runtime.literal.729881690",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "現在の許可状態は個人設定として保存できます。\n「確認」は撮影前に声をかけてほしい場合に使用します。",
+      "en": "Your current permission can be saved as a personal setting.\nUse Ask when you want people to check with you before taking photos.",
+      "zh": "当前许可状态可保存为个人设置。\n如希望拍摄前先征求确认，请选择“确认”。",
+      "ko": "현재 허용 상태는 개인 설정으로 저장할 수 있습니다.\n촬영 전에 먼저 확인해 주길 원하면 ‘확인’을 사용하세요."
+    },
+    {
+      "key": "runtime.literal.-1921361991",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "通常距離 -5m",
+      "en": "Normal Range -5m",
+      "zh": "通常距离 -5m",
+      "ko": "일반 거리 -5m"
+    },
+    {
+      "key": "runtime.literal.-1921363913",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "通常距離 +5m",
+      "en": "Normal Range +5m",
+      "zh": "通常距离 +5m",
+      "ko": "일반 거리 +5m"
+    },
+    {
+      "key": "runtime.literal.421755016",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "音漏れ -1m",
+      "en": "Leak Range -1m",
+      "zh": "漏音距离 -1m",
+      "ko": "소리 누출 -1m"
+    },
+    {
+      "key": "runtime.literal.421753094",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "音漏れ +1m",
+      "en": "Leak Range +1m",
+      "zh": "漏音距离 +1m",
+      "ko": "소리 누출 +1m"
+    },
+    {
+      "key": "runtime.literal.127950226",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "放送音量 -1dB",
+      "en": "Broadcast Volume -1dB",
+      "zh": "广播音量 -1dB",
+      "ko": "방송 음량 -1dB"
+    },
+    {
+      "key": "runtime.literal.127890644",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "放送音量 +1dB",
+      "en": "Broadcast Volume +1dB",
+      "zh": "广播音量 +1dB",
+      "ko": "방송 음량 +1dB"
+    },
+    {
+      "key": "runtime.literal.38594226",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "音声 ",
+      "en": "Audio ",
+      "zh": "音频 ",
+      "ko": "음성 "
+    },
+    {
+      "key": "runtime.literal.-657845663",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "初回受付順\n読み込み中",
+      "en": "Initial entry order\nLoading",
+      "zh": "首次接待顺序\n读取中",
+      "ko": "최초 접수 순서\n불러오는 중"
+    },
+    {
+      "key": "runtime.literal.21758126",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "受付 ",
+      "en": "Entry ",
+      "zh": "接待 ",
+      "ko": "접수 "
+    },
+    {
+      "key": "runtime.literal.-485509517",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ObjectControl Runtime / Pool を準備しています…",
+      "en": "Preparing ObjectControl Runtime / Pool…",
+      "zh": "正在准备ObjectControl Runtime / Pool…",
+      "ko": "ObjectControl Runtime / Pool 준비 중…"
+    },
+    {
+      "key": "runtime.literal.-903420594",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "メニューを閉じている間もプレート本体の状態・同期は継続します。再表示時は現在値を読み直します。",
+      "en": "The plate keeps its state and sync while the menu is closed. Current values are refreshed when shown again.",
+      "zh": "菜单关闭期间，指示牌本体的状态和同步仍会继续。再次显示时会重新读取当前值。",
+      "ko": "메뉴를 닫아도 플레이트 상태와 동기화는 계속됩니다. 다시 표시할 때 현재 값을 읽습니다."
+    },
+    {
+      "key": "runtime.literal.35517392",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "部屋ごとの希望・撮影許可は左欄\n長い一覧はスクロールできます",
+      "en": "Room preferences and photo permission are shown on the left.\nLong lists can be scrolled.",
+      "zh": "各房间的需求和拍摄许可显示在左栏。\n较长列表可以滚动。",
+      "ko": "방별 희망과 촬영 허용은 왼쪽에 표시됩니다.\n긴 목록은 스크롤할 수 있습니다."
+    },
+    {
+      "key": "runtime.literal.215516084",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "自己取得・自己解除はModule設定で許可されている場合だけ利用できます",
+      "en": "Self-assign and self-release are available only when enabled by the module settings.",
+      "zh": "只有模块设置允许时，才能自行领取或解除负责。",
+      "ko": "자기 담당 지정·해제는 Module 설정에서 허용한 경우에만 사용할 수 있습니다."
+    },
+    {
+      "key": "runtime.literal.-959337358",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "複数選択できます。現在のインスタンス内だけ共有され、退出時に解除されます。",
+      "en": "Multiple selections are allowed. They are shared only in the current instance and clear when you leave.",
+      "zh": "可以多选。仅在当前实例内共享，离开时会自动解除。",
+      "ko": "여러 개를 선택할 수 있습니다. 현재 인스턴스에서만 공유되며 퇴장하면 해제됩니다."
+    },
+    {
+      "key": "runtime.literal.-507717794",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "カテゴリ ",
+      "en": "Category ",
+      "zh": "分类 ",
+      "ko": "카테고리 "
+    },
+    {
+      "key": "runtime.literal.714764",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "商品",
+      "en": "Item",
+      "zh": "商品",
+      "ko": "상품"
+    },
+    {
+      "key": "runtime.literal.640321827",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "場所未判定",
+      "en": "Unknown area",
+      "zh": "地点未确定",
+      "ko": "장소 미확인"
+    },
+    {
+      "key": "runtime.literal.872135911",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "注文済み",
+      "en": "Ordered",
+      "zh": "已下单",
+      "ko": "주문 완료"
+    },
+    {
+      "key": "runtime.literal.-504935236",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "キャンセル",
+      "en": "Cancelled",
+      "zh": "已取消",
+      "ko": "취소"
+    },
+    {
+      "key": "runtime.literal.26547330",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "未使用",
+      "en": "Unused",
+      "zh": "未使用",
+      "ko": "미사용"
+    },
+    {
+      "key": "runtime.literal.-1192519103",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "担当エリア",
+      "en": "Assigned Area",
+      "zh": "负责区域",
+      "ko": "담당 구역"
+    },
+    {
+      "key": "runtime.literal.-1644377364",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "選択をすべて解除",
+      "en": "Clear selections",
+      "zh": "清除选择",
+      "ko": "선택 모두 해제"
+    },
+    {
+      "key": "runtime.literal.27058207",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "未選択",
+      "en": "None selected",
+      "zh": "未选择",
+      "ko": "선택 없음"
+    },
+    {
+      "key": "runtime.literal.-1673087789",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "（＊必須）",
+      "en": " (*Required)",
+      "zh": "（＊必需）",
+      "ko": " (＊필수)"
+    },
+    {
+      "key": "runtime.literal.738664543",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "導入済み",
+      "en": "Installed",
+      "zh": "已安装",
+      "ko": "설치됨"
+    },
+    {
+      "key": "runtime.literal.682822880",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "同期待ち",
+      "en": "Waiting for sync",
+      "zh": "等待同步",
+      "ko": "동기화 대기"
+    },
+    {
+      "key": "runtime.literal.646218328",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "一部ON",
+      "en": "Partially ON",
+      "zh": "部分开启",
+      "ko": "일부 ON"
+    },
+    {
+      "key": "runtime.literal.26637840",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "未導入",
+      "en": "Not installed",
+      "zh": "未安装",
+      "ko": "미설치"
+    },
+    {
+      "key": "runtime.literal.18842000",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ON固定",
+      "en": "Always ON",
+      "zh": "固定开启",
+      "ko": "ON 고정"
+    },
+    {
+      "key": "runtime.literal.29734085",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "現在 ",
+      "en": "Current ",
+      "zh": "当前 ",
+      "ko": "현재 "
+    },
+    {
+      "key": "runtime.literal.22044",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "名",
+      "en": " people",
+      "zh": "人",
+      "ko": "명"
+    },
+    {
+      "key": "runtime.literal.707119680",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "参加者の権限情報を準備しています…",
+      "en": "Preparing your permission information…",
+      "zh": "正在准备您的权限信息…",
+      "ko": "참가자의 권한 정보를 준비하고 있습니다…"
+    },
+    {
+      "key": "runtime.literal.-7649523",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "準備が完了しない場合は、ワールド管理者へお知らせください。",
+      "en": "If preparation does not complete, contact the world administrator.",
+      "zh": "如果准备一直未完成，请联系世界管理员。",
+      "ko": "준비가 완료되지 않으면 월드 관리자에게 알려 주세요."
+    },
+    {
+      "key": "runtime.literal.-288844938",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "外部名簿の取得先が設定されていません",
+      "en": "The external roster address is not configured.",
+      "zh": "尚未设置外部名单的获取地址。",
+      "ko": "외부 명단의 주소가 설정되지 않았습니다."
+    },
+    {
+      "key": "runtime.literal.-718140777",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ワールド管理者に名簿の設定確認を依頼してください。",
+      "en": "Ask the world administrator to check the roster settings.",
+      "zh": "请联系世界管理员检查名单设置。",
+      "ko": "월드 관리자에게 명단 설정 확인을 요청해 주세요."
+    },
+    {
+      "key": "runtime.literal.1519678740",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "外部名簿を取得しています…",
+      "en": "Loading the external roster…",
+      "zh": "正在获取外部名单…",
+      "ko": "외부 명단을 불러오고 있습니다…"
+    },
+    {
+      "key": "runtime.literal.353291761",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "名簿の取得完了後に参加受付を確認します。",
+      "en": "Registration will be checked after the roster loads.",
+      "zh": "名单获取完成后将确认参加登记。",
+      "ko": "명단을 불러온 후 참가 접수를 확인합니다."
+    },
+    {
+      "key": "runtime.literal.1166850194",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "外部名簿の再取得を待っています…",
+      "en": "Waiting to retry the external roster…",
+      "zh": "正在等待重新获取外部名单…",
+      "ko": "외부 명단을 다시 불러오기를 기다리고 있습니다…"
+    },
+    {
+      "key": "runtime.literal.802768819",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "名簿を取得できなかったため、自動で再試行します。",
+      "en": "The roster could not be loaded. It will be retried automatically.",
+      "zh": "未能获取名单，将自动重试。",
+      "ko": "명단을 불러오지 못해 자동으로 다시 시도합니다."
+    },
+    {
+      "key": "runtime.literal.871427557",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "外部名簿の取得を確認できません",
+      "en": "The external roster could not be loaded.",
+      "zh": "无法确认外部名单的获取。",
+      "ko": "외부 명단을 불러왔는지 확인할 수 없습니다."
+    },
+    {
+      "key": "runtime.literal.-467120840",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ワールド管理者に名簿の読み込み状況をご確認ください。",
+      "en": "Ask the world administrator to check roster loading.",
+      "zh": "请联系世界管理员检查名单的加载状态。",
+      "ko": "월드 관리자에게 명단 불러오기 상태를 확인해 주세요."
+    },
+    {
+      "key": "runtime.literal.1312588062",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "保存された権限データの復元を待っています…",
+      "en": "Waiting for saved permission data…",
+      "zh": "正在等待已保存的权限数据恢复…",
+      "ko": "저장된 권한 데이터의 복원을 기다리고 있습니다…"
+    },
+    {
+      "key": "runtime.literal.175466896",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "復元完了後に参加受付を確認します",
+      "en": "Registration will be checked after restore completes.",
+      "zh": "恢复完成后将确认参加登记。",
+      "ko": "복원 완료 후 참가 접수를 확인합니다."
+    },
+    {
+      "key": "runtime.literal.1273115228",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "了承はこのインスタンスにつき1回。同じインスタンスへの再Joinでは再了承不要です。",
+      "en": "Consent is required once per instance. Rejoining the same instance does not require consent again.",
+      "zh": "每个实例只需确认一次。重新加入同一实例时无需再次确认。",
+      "ko": "동의는 인스턴스당 한 번만 필요합니다. 같은 인스턴스에 다시 참가해도 재동의할 필요가 없습니다."
+    },
+    {
+      "key": "runtime.literal.1827918648",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "個人データを復元しています…",
+      "en": "Restoring personal data…",
+      "zh": "正在恢复个人数据…",
+      "ko": "개인 데이터를 복원하고 있습니다…"
+    },
+    {
+      "key": "runtime.literal.-746403069",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "インスタンス情報を同期しています…",
+      "en": "Synchronizing instance information…",
+      "zh": "正在同步实例信息…",
+      "ko": "인스턴스 정보를 동기화하고 있습니다…"
+    },
+    {
+      "key": "runtime.literal.1085140948",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "同期完了後に初回確認を行います",
+      "en": "The first-entry check will run after synchronization.",
+      "zh": "同步完成后将进行首次确认。",
+      "ko": "동기화 완료 후 첫 참가 확인을 진행합니다."
+    },
+    {
+      "key": "runtime.literal.851420893",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "FirstComeが未接続です。Wizardで受付を適用してください",
+      "en": "FirstCome is not connected. Apply the reception setup in the Wizard.",
+      "zh": "FirstCome未连接。请在Wizard中应用接待设置。",
+      "ko": "FirstCome이 연결되지 않았습니다. Wizard에서 접수 설정을 적용해 주세요."
+    },
+    {
+      "key": "runtime.literal.618205931",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "VIPは注意事項の確認チェックなしでFirstComeへ自動受付します。",
+      "en": "VIP guests are registered through FirstCome automatically without the notice checkbox.",
+      "zh": "VIP无需勾选注意事项，将自动通过FirstCome登记。",
+      "ko": "VIP는 안내 사항 확인 체크 없이 FirstCome에 자동 접수됩니다."
+    },
+    {
+      "key": "runtime.literal.-1366936517",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "VIP受付を再確認",
+      "en": "Retry VIP registration",
+      "zh": "重新确认VIP登记",
+      "ko": "VIP 접수 다시 확인"
+    },
+    {
+      "key": "runtime.literal.-1278373146",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "このインスタンスの受付状態へ切り替えています…",
+      "en": "Switching to this instance's reception state…",
+      "zh": "正在切换到此实例的登记状态…",
+      "ko": "이 인스턴스의 접수 상태로 전환하고 있습니다…"
+    },
+    {
+      "key": "runtime.literal.-626041918",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "前回の受付情報を確認しています…",
+      "en": "Checking previous registration…",
+      "zh": "正在确认上次的登记信息…",
+      "ko": "이전 접수 정보를 확인하고 있습니다…"
+    },
+    {
+      "key": "runtime.literal.1860524901",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "[確認済] 注意事項を確認しました",
+      "en": "[Done] I reviewed the notices",
+      "zh": "[已确认] 已确认注意事项",
+      "ko": "[확인] 안내 사항을 확인했습니다"
+    },
+    {
+      "key": "runtime.literal.-713228803",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "[未確認] 注意事項を確認しました",
+      "en": "[ ] I reviewed the notices",
+      "zh": "[ ] 已确认注意事项",
+      "ko": "[ ] 안내 사항을 확인했습니다"
+    },
+    {
+      "key": "runtime.literal.-2090646679",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "了承して参加する",
+      "en": "Accept and join",
+      "zh": "同意并参加",
+      "ko": "동의하고 참가"
+    },
+    {
+      "key": "runtime.literal.1724154324",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "確認チェック後に参加できます",
+      "en": "Check the notice box to join",
+      "zh": "勾选确认后即可参加",
+      "ko": "확인 체크 후 참가할 수 있습니다"
+    },
+    {
+      "key": "runtime.literal.202571305",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "今回は参加しない",
+      "en": "Do not join this time",
+      "zh": "本次不参加",
+      "ko": "이번에는 참가하지 않기"
+    },
+    {
+      "key": "runtime.literal.1139713293",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "このワールドインスタンスの初回来場受付",
+      "en": "First-entry registration for this world instance",
+      "zh": "此世界实例的首次进入登记",
+      "ko": "이 월드 인스턴스의 첫 참가 접수"
+    },
+    {
+      "key": "runtime.literal.400555296",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "フード1",
+      "en": "Food1",
+      "zh": "餐点1",
+      "ko": "음식1"
+    },
+    {
+      "key": "runtime.literal.400555297",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "フード2",
+      "en": "Food2",
+      "zh": "餐点2",
+      "ko": "음식2"
+    },
+    {
+      "key": "runtime.literal.1324869240",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "カテゴリが設定されていません。",
+      "en": "No category is configured.",
+      "zh": "未设置分类。",
+      "ko": "카테고리가 설정되지 않았습니다."
+    },
+    {
+      "key": "runtime.literal.924038301",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "このカテゴリには現在表示できる商品がありません。",
+      "en": "No items are currently available in this category.",
+      "zh": "此分类当前没有可显示的商品。",
+      "ko": "이 카테고리에 현재 표시할 상품이 없습니다."
+    },
+    {
+      "key": "runtime.literal.-1708348082",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "商品がありません",
+      "en": "No items",
+      "zh": "没有商品",
+      "ko": "상품이 없습니다"
+    },
+    {
+      "key": "runtime.literal.272951459",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "★ おすすめ  ",
+      "en": "★ Recommended  ",
+      "zh": "★ 推荐  ",
+      "ko": "★ 추천  "
+    },
+    {
+      "key": "runtime.literal.666045707",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "売切 / ",
+      "en": "Sold out / ",
+      "zh": "售罄 / ",
+      "ko": "품절 / "
+    },
+    {
+      "key": "runtime.literal.-457616170",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "メニュー表",
+      "en": "Menu",
+      "zh": "菜单",
+      "ko": "메뉴"
+    },
+    {
+      "key": "runtime.literal.36830729",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "選択 ",
+      "en": "Selected ",
+      "zh": "选择 ",
+      "ko": "선택 "
+    },
+    {
+      "key": "runtime.literal.337002304",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "カードを選択してください",
+      "en": "Select a card",
+      "zh": "请选择卡片",
+      "ko": "카드를 선택해 주세요"
+    },
+    {
+      "key": "runtime.literal.888661213",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "履歴はまだありません",
+      "en": "No history yet",
+      "zh": "暂无记录",
+      "ko": "아직 기록이 없습니다"
+    },
+    {
+      "key": "runtime.literal.640659210",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "交換不可",
+      "en": "Not exchangeable",
+      "zh": "不可交换",
+      "ko": "교환 불가"
+    },
+    {
+      "key": "runtime.literal.790245257",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "所持済み",
+      "en": "Owned",
+      "zh": "已拥有",
+      "ko": "보유 중"
+    },
+    {
+      "key": "runtime.literal.-553960570",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ClubCardSystem 接続済み",
+      "en": "ClubCardSystem Connected",
+      "zh": "ClubCardSystem 已连接",
+      "ko": "ClubCardSystem 연결됨"
+    },
+    {
+      "key": "runtime.literal.1027703311",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "セーブ読込待ち",
+      "en": "Waiting for save data",
+      "zh": "等待读取存档",
+      "ko": "세이브 불러오기 대기"
+    },
+    {
+      "key": "runtime.literal.26576250",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "未取得",
+      "en": "Not owned",
+      "zh": "未获得",
+      "ko": "미획득"
+    },
+    {
+      "key": "runtime.literal.-276211596",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "コレクション {owned} / {total}",
+      "en": "Collection {owned} / {total}",
+      "zh": "收藏 {owned} / {total}",
+      "ko": "컬렉션 {owned} / {total}"
+    },
+    {
+      "key": "runtime.literal.1155110755",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "1連 {single}pt / 10+1 {multi}pt / {bulk}",
+      "en": "1 pull {single}pt / 10+1 {multi}pt / {bulk}",
+      "zh": "单抽 {single}pt / 10+1 {multi}pt / {bulk}",
+      "ko": "1회 {single}pt / 10+1 {multi}pt / {bulk}"
+    },
+    {
+      "key": "runtime.literal.-387702079",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "S天井 {current} / {limit}（残り {remain}）",
+      "en": "S Pity {current} / {limit} ({remain} left)",
+      "zh": "S保底 {current} / {limit}（剩余 {remain}）",
+      "ko": "S 천장 {current} / {limit} (남은 {remain})"
+    },
+    {
+      "key": "runtime.literal.-1610640117",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "総排出 {count}枚",
+      "en": "Total pulls {count}",
+      "zh": "总抽取 {count}张",
+      "ko": "총 배출 {count}장"
+    },
+    {
+      "key": "runtime.literal.-899160690",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "無料10+1チケット {count}枚",
+      "en": "Free 10+1 Ticket ×{count}",
+      "zh": "免费10+1券 ×{count}",
+      "ko": "무료 10+1 티켓 ×{count}"
+    },
+    {
+      "key": "runtime.literal.1062234451",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "表示できるゲームはありません",
+      "en": "No games are available",
+      "zh": "没有可显示的游戏",
+      "ko": "표시할 수 있는 게임이 없습니다"
+    },
+    {
+      "key": "runtime.literal.-432839387",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "現在表示できるゲームはありません。",
+      "en": "There are currently no games available.",
+      "zh": "当前没有可显示的游戏。",
+      "ko": "현재 표시할 수 있는 게임이 없습니다."
+    },
+    {
+      "key": "runtime.literal.-1138856849",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "このゲームの説明ページはまだ設定されていません。",
+      "en": "No description page has been configured for this game yet.",
+      "zh": "此游戏尚未设置说明页面。",
+      "ko": "이 게임의 설명 페이지가 아직 설정되지 않았습니다."
+    },
+    {
+      "key": "runtime.literal.-17190949",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "遊び方を開ける権限がありません",
+      "en": "You do not have permission to open the guide.",
+      "zh": "没有打开玩法指南的权限",
+      "ko": "이용 안내를 열 권한이 없습니다"
+    },
+    {
+      "key": "runtime.literal.-322011038",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "意思表示（店員用）",
+      "en": "Staff Intent Board",
+      "zh": "员工意向板",
+      "ko": "직원 의사표시 보드"
+    },
+    {
+      "key": "runtime.literal.-772641967",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "おかえりなさい、{name}さん",
+      "en": "Welcome back, {name}",
+      "zh": "欢迎回来，{name}",
+      "ko": "돌아오신 것을 환영합니다, {name}"
+    },
+    {
+      "key": "runtime.literal.-872887507",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ルミナスソーダ",
+      "en": "Luminous Soda",
+      "zh": "流光苏打",
+      "ko": "루미너스 소다"
+    },
+    {
+      "key": "runtime.literal.177393943",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ミッドナイトラテ",
+      "en": "Midnight Latte",
+      "zh": "午夜拿铁",
+      "ko": "미드나이트 라테"
+    },
+    {
+      "key": "runtime.literal.1692272059",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "スターライトパフェ",
+      "en": "Starlight Parfait",
+      "zh": "星光芭菲",
+      "ko": "스타라이트 파르페"
+    },
+    {
+      "key": "runtime.literal.1374757170",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ナイトテラスサンド",
+      "en": "Night Terrace Sandwich",
+      "zh": "夜露台三明治",
+      "ko": "나이트 테라스 샌드위치"
+    },
+    {
+      "key": "runtime.literal.-1375011120",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "きらめきフォトチケット",
+      "en": "Sparkle Photo Ticket",
+      "zh": "闪耀拍照券",
+      "ko": "반짝임 포토 티켓"
+    },
+    {
+      "key": "runtime.literal.26576401",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "未分類",
+      "en": "Uncategorized",
+      "zh": "未分类",
+      "ko": "미분류"
+    },
+    {
+      "key": "runtime.literal.-1417566767",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "在庫状態を確認中",
+      "en": "Checking stock status",
+      "zh": "正在确认库存状态",
+      "ko": "재고 상태 확인 중"
+    },
+    {
+      "key": "runtime.literal.-1982764445",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "注文状況を確認中",
+      "en": "Checking order status",
+      "zh": "正在确认订单状态",
+      "ko": "주문 상태 확인 중"
+    },
+    {
+      "key": "runtime.literal.48639907",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "1組出す",
+      "en": "Serve One Set",
+      "zh": "提供一组",
+      "ko": "한 세트 제공"
+    },
+    {
+      "key": "runtime.literal.37643401",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "1個戻す",
+      "en": "Return One",
+      "zh": "归还一个",
+      "ko": "한 개 반환"
+    },
+    {
+      "key": "runtime.literal.-441772074",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "1ローテの分数（1～1440）",
+      "en": "Minutes per rotation (1–1440)",
+      "zh": "每轮分钟数（1～1440）",
+      "ko": "로테이션당 시간(1~1440분)"
+    },
+    {
+      "key": "runtime.literal.-1422767509",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "AVPro（低遅延）",
+      "en": "AVPro (Low Latency)",
+      "zh": "AVPro（低延迟）",
+      "ko": "AVPro(저지연)"
+    },
+    {
+      "key": "runtime.literal.-559377465",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "Coreの必須機能はONを維持します。\nその他の導入済み機能をパックごとに切り替えます。",
+      "en": "Required Core features remain ON.\nToggle other installed features by pack.",
+      "zh": "Core必需功能保持开启。\n其他已安装功能可按包切换。",
+      "ko": "Core 필수 기능은 ON을 유지합니다.\n다른 설치된 기능은 팩별로 전환합니다."
+    },
+    {
+      "key": "runtime.literal.1395089894",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "DENYにする…",
+      "en": "Set DENY…",
+      "zh": "设为DENY…",
+      "ko": "DENY 설정…"
+    },
+    {
+      "key": "runtime.literal.1419088048",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "DENYを解除…",
+      "en": "Remove DENY…",
+      "zh": "解除DENY…",
+      "ko": "DENY 해제…"
+    },
+    {
+      "key": "runtime.literal.65918288",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "Discord通話参加",
+      "en": "Join Discord Call",
+      "zh": "加入Discord通话",
+      "ko": "Discord 통화 참여"
+    },
+    {
+      "key": "runtime.literal.-1822554093",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "OFF → 弱 → 標準 → 強",
+      "en": "OFF → Low → Normal → High",
+      "zh": "关闭 → 低 → 标准 → 高",
+      "ko": "OFF → 약 → 표준 → 강"
+    },
+    {
+      "key": "runtime.literal.666924297",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ON（元の状態へ）",
+      "en": "ON (Restore Original State)",
+      "zh": "开启（恢复原状态）",
+      "ko": "ON(원래 상태로)"
+    },
+    {
+      "key": "runtime.literal.625073",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "PV風",
+      "en": "Music Video Style",
+      "zh": "音乐视频风格",
+      "ko": "뮤직비디오 스타일"
+    },
+    {
+      "key": "runtime.literal.684293146",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "Pack単位の一括ON/OFF",
+      "en": "Toggle All by Pack",
+      "zh": "按包全部开关",
+      "ko": "팩별 일괄 ON/OFF"
+    },
+    {
+      "key": "runtime.literal.724299366",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "Sit / Avatar Light / 軽量化",
+      "en": "Sit / Avatar Light / Performance",
+      "zh": "坐姿／虚拟形象灯光／性能优化",
+      "ko": "앉기 / 아바타 조명 / 성능 최적화"
+    },
+    {
+      "key": "runtime.literal.-1309149670",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "Sit判定 ON / OFF",
+      "en": "Sit Detection ON / OFF",
+      "zh": "坐姿检测 开／关",
+      "ko": "앉기 감지 ON / OFF"
+    },
+    {
+      "key": "runtime.literal.-1285123811",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "Timeline自動",
+      "en": "Automatic Timeline",
+      "zh": "自动时间线",
+      "ko": "자동 타임라인"
+    },
+    {
+      "key": "runtime.literal.568481178",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "URL待ち",
+      "en": "Waiting for URL",
+      "zh": "等待URL",
+      "ko": "URL 대기 중"
+    },
+    {
+      "key": "runtime.literal.122069810",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "VRChat標準PhotoCameraをEBK Camera Jackが自動検出します。\n外部Camera Jackや外部撮影Prefabは不要です。",
+      "en": "EBK Camera Jack automatically detects VRChat's standard PhotoCamera.\nNo external Camera Jack or camera prefab is needed.",
+      "zh": "EBK Camera Jack会自动检测VRChat标准PhotoCamera。\n无需外部Camera Jack或摄影Prefab。",
+      "ko": "EBK Camera Jack이 VRChat 기본 PhotoCamera를 자동 감지합니다.\n외부 Camera Jack이나 촬영 프리팹은 필요하지 않습니다."
+    },
+    {
+      "key": "runtime.literal.-150799106",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "https://... 画像 / 動画URL",
+      "en": "https://... Image / Video URL",
+      "zh": "https://... 图片／视频URL",
+      "ko": "https://... 이미지 / 동영상 URL"
+    },
+    {
+      "key": "runtime.literal.-723907904",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "← 一つ前へ戻る",
+      "en": "← Go Back One Step",
+      "zh": "← 返回上一步",
+      "ko": "← 이전 단계로"
+    },
+    {
+      "key": "runtime.literal.-1182914736",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "□ ゆっくり話してほしい",
+      "en": "□ Please Speak Slowly",
+      "zh": "□ 请慢慢说",
+      "ko": "□ 천천히 말해 주세요"
+    },
+    {
+      "key": "runtime.literal.-1051861358",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "□ 会話してほしい",
+      "en": "□ Please Chat with Me",
+      "zh": "□ 想聊天",
+      "ko": "□ 대화해 주세요"
+    },
+    {
+      "key": "runtime.literal.1884515612",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "□ 困っています",
+      "en": "□ I Need Help",
+      "zh": "□ 需要帮助",
+      "ko": "□ 도움이 필요해요"
+    },
+    {
+      "key": "runtime.literal.-364089328",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "□ 沈黙が苦手",
+      "en": "□ Silence Makes Me Uncomfortable",
+      "zh": "□ 不太适应沉默",
+      "ko": "□ 침묵이 불편해요"
+    },
+    {
+      "key": "runtime.literal.-299726114",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "□ 注文希望",
+      "en": "□ I'd Like to Order",
+      "zh": "□ 想点单",
+      "ko": "□ 주문하고 싶어요"
+    },
+    {
+      "key": "runtime.literal.-335371699",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "□ 静かに過ごしたい",
+      "en": "□ I'd Like Some Quiet Time",
+      "zh": "□ 想安静地待着",
+      "ko": "□ 조용히 쉬고 싶어요"
+    },
+    {
+      "key": "runtime.literal.371689689",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "◀ 前の一覧",
+      "en": "◀ Previous List",
+      "zh": "◀ 上一列表",
+      "ko": "◀ 이전 목록"
+    },
+    {
+      "key": "runtime.literal.-1551105712",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "お客様メニュー",
+      "en": "Guest Menu",
+      "zh": "来宾菜单",
+      "ko": "손님 메뉴"
+    },
+    {
+      "key": "runtime.literal.593090303",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "このスイッチは押した本人だけに反映します。ONに戻すと元の権限状態へ復元します。もともと権限でOFFならOFFのままです。",
+      "en": "This switch affects only the person who presses it. Turning it ON restores the original permission state. Objects originally disabled by permissions stay OFF.",
+      "zh": "此开关仅对按下的人生效。重新开启时恢复原权限状态。原本因权限关闭的对象仍保持关闭。",
+      "ko": "누른 사람에게만 적용됩니다. ON으로 돌리면 원래 권한 상태로 복원됩니다. 권한 때문에 OFF였던 대상은 OFF를 유지합니다."
+    },
+    {
+      "key": "runtime.literal.1494398798",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "この予定を削除",
+      "en": "Delete This Event",
+      "zh": "删除此日程",
+      "ko": "이 일정 삭제"
+    },
+    {
+      "key": "runtime.literal.426812556",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "アバター/表示内容確認",
+      "en": "Check Avatar / Display",
+      "zh": "确认虚拟形象／显示内容",
+      "ko": "아바타 / 표시 내용 확인"
+    },
+    {
+      "key": "runtime.literal.1260617727",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "イベント終了",
+      "en": "Event Ends",
+      "zh": "活动结束",
+      "ko": "행사 종료"
+    },
+    {
+      "key": "runtime.literal.141550882",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "イベント運営へ戻る",
+      "en": "Back to Event Operations",
+      "zh": "返回活动运营",
+      "ko": "행사 운영으로 돌아가기"
+    },
+    {
+      "key": "runtime.literal.1260813339",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "イベント開始",
+      "en": "Event Starts",
+      "zh": "活动开始",
+      "ko": "행사 시작"
+    },
+    {
+      "key": "runtime.literal.1084300755",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "インカムへ戻る",
+      "en": "Back to Intercom",
+      "zh": "返回对讲",
+      "ko": "인터컴으로 돌아가기"
+    },
+    {
+      "key": "runtime.literal.644933206",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "オブジェクト復旧確認",
+      "en": "Check Object Recovery",
+      "zh": "确认物体恢复",
+      "ko": "오브젝트 복구 확인"
+    },
+    {
+      "key": "runtime.literal.399286805",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "オーナー",
+      "en": "Owner",
+      "zh": "所有者",
+      "ko": "오너"
+    },
+    {
+      "key": "runtime.literal.-1093573009",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "キャストスタッフ配置",
+      "en": "Assign Cast and Staff",
+      "zh": "安排接待员及工作人员",
+      "ko": "캐스트·스태프 배치"
+    },
+    {
+      "key": "runtime.literal.1031615571",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "キャスト・スタッフ・運営向けの送受信設定",
+      "en": "Transmit and receive settings for cast, staff, and organizers",
+      "zh": "接待员、工作人员及运营人员的收发设置",
+      "ko": "캐스트·스태프·운영진 송수신 설정"
+    },
+    {
+      "key": "runtime.literal.-228563732",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "キュー 0/8",
+      "en": "Queue 0/8",
+      "zh": "队列 0/8",
+      "ko": "대기열 0/8"
+    },
+    {
+      "key": "runtime.literal.312306356",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "グループ/ステータス確認",
+      "en": "Check Group / Status",
+      "zh": "确认群组／状态",
+      "ko": "그룹 / 상태 확인"
+    },
+    {
+      "key": "runtime.literal.-501340897",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ゲスト入場",
+      "en": "Guest Entry",
+      "zh": "来宾入场",
+      "ko": "손님 입장"
+    },
+    {
+      "key": "runtime.literal.-499291111",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "コライダー",
+      "en": "Collider",
+      "zh": "碰撞体",
+      "ko": "콜라이더"
+    },
+    {
+      "key": "runtime.literal.567474079",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "サンプルメンバー / プロフィール・権限体験",
+      "en": "Sample Members / Profile and Permission Preview",
+      "zh": "示例成员／个人资料与权限体验",
+      "ko": "샘플 멤버 / 프로필·권한 체험"
+    },
+    {
+      "key": "runtime.literal.1836380284",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "スタッフ確認",
+      "en": "Staff Check",
+      "zh": "工作人员确认",
+      "ko": "스태프 확인"
+    },
+    {
+      "key": "runtime.literal.-1211652191",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ステータスをオレンジ",
+      "en": "Set Status to Orange",
+      "zh": "将状态设为橙色",
+      "ko": "상태를 주황색으로"
+    },
+    {
+      "key": "runtime.literal.-1746122718",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "タイトル・日時・分数の変更でローテは停止します。",
+      "en": "Changing the title, date, time, or duration stops the rotation.",
+      "zh": "修改标题、日期、时间或时长将停止轮换。",
+      "ko": "제목, 날짜, 시간 또는 분수를 바꾸면 로테이션이 중지됩니다."
+    },
+    {
+      "key": "runtime.literal.-923827427",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "テレポート / ボタンごとの権限設定",
+      "en": "Teleport / Per-Button Permissions",
+      "zh": "传送／各按钮权限设置",
+      "ko": "텔레포트 / 버튼별 권한 설정"
+    },
+    {
+      "key": "runtime.literal.12906743",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "テーマ",
+      "en": "Theme",
+      "zh": "主题",
+      "ko": "테마"
+    },
+    {
+      "key": "runtime.literal.-2028603432",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ドアオープン",
+      "en": "Doors Open",
+      "zh": "开门",
+      "ko": "문 열기"
+    },
+    {
+      "key": "runtime.literal.-472171135",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "パック状態",
+      "en": "Pack Status",
+      "zh": "包状态",
+      "ko": "팩 상태"
+    },
+    {
+      "key": "runtime.literal.-1746863558",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "パック表示へ",
+      "en": "Show Packs",
+      "zh": "显示包",
+      "ko": "팩 보기"
+    },
+    {
+      "key": "runtime.literal.-1428288102",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ホームへ戻る",
+      "en": "Back to Home",
+      "zh": "返回主页",
+      "ko": "홈으로 돌아가기"
+    },
+    {
+      "key": "runtime.literal.-1083887890",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ポストプロセス ON / OFF",
+      "en": "Post-Processing ON / OFF",
+      "zh": "后处理 开／关",
+      "ko": "포스트 프로세싱 ON / OFF"
+    },
+    {
+      "key": "runtime.literal.1467979380",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ポストプロセス: ON",
+      "en": "Post-Processing: ON",
+      "zh": "后处理：开启",
+      "ko": "포스트 프로세싱: ON"
+    },
+    {
+      "key": "runtime.literal.-1371565187",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ポータル設置",
+      "en": "Place Portal",
+      "zh": "放置传送门",
+      "ko": "포털 설치"
+    },
+    {
+      "key": "runtime.literal.-216667846",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ミーティングスタート",
+      "en": "Meeting Starts",
+      "zh": "会议开始",
+      "ko": "미팅 시작"
+    },
+    {
+      "key": "runtime.literal.12929983",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "メイン",
+      "en": "Main",
+      "zh": "主区",
+      "ko": "메인"
+    },
+    {
+      "key": "runtime.literal.400873078",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "メディア",
+      "en": "Media",
+      "zh": "媒体",
+      "ko": "미디어"
+    },
+    {
+      "key": "runtime.literal.-1702951662",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "メニューの追従",
+      "en": "Menu Following",
+      "zh": "菜单跟随",
+      "ko": "메뉴 따라오기"
+    },
+    {
+      "key": "runtime.literal.-167933849",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "メニュー・ボード・名札の見た目",
+      "en": "Menu, Board, and Nameplate Appearance",
+      "zh": "菜单、看板与名牌外观",
+      "ko": "메뉴·보드·명찰 외형"
+    },
+    {
+      "key": "runtime.literal.-1359438062",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "モジュール管理",
+      "en": "Module Management",
+      "zh": "模块管理",
+      "ko": "모듈 관리"
+    },
+    {
+      "key": "runtime.literal.-447413197",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ログクリア",
+      "en": "Clear Log",
+      "zh": "清空日志",
+      "ko": "로그 지우기"
+    },
+    {
+      "key": "runtime.literal.-925733004",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ローテ3分前",
+      "en": "3 Minutes Before Rotation",
+      "zh": "轮换前3分钟",
+      "ko": "로테이션 3분 전"
+    },
+    {
+      "key": "runtime.literal.-444538368",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ローテ移動",
+      "en": "Change Rotation",
+      "zh": "轮换移动",
+      "ko": "로테이션 이동"
+    },
+    {
+      "key": "runtime.literal.-444513462",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "ローテ終了",
+      "en": "Rotation Ends",
+      "zh": "轮换结束",
+      "ko": "로테이션 종료"
+    },
+    {
+      "key": "runtime.literal.1716309336",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "主役：今日だけOFF",
+      "en": "Featured Guest: OFF Today",
+      "zh": "主角：仅今日关闭",
+      "ko": "주인공: 오늘만 OFF"
+    },
+    {
+      "key": "runtime.literal.-1053013834",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "主役：今日だけON",
+      "en": "Featured Guest: ON Today",
+      "zh": "主角：仅今日开启",
+      "ko": "주인공: 오늘만 ON"
+    },
+    {
+      "key": "runtime.literal.1932705651",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "主役：自動に戻す",
+      "en": "Featured Guest: Restore Auto",
+      "zh": "主角：恢复自动",
+      "ko": "주인공: 자동으로 복귀"
+    },
+    {
+      "key": "runtime.literal.-208429864",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "予定を追加・同日時を更新して保存",
+      "en": "Add Event / Update Matching Date and Save",
+      "zh": "添加日程／更新相同时间并保存",
+      "ko": "일정 추가·같은 일시 갱신 후 저장"
+    },
+    {
+      "key": "runtime.literal.-1599950380",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "予定タイトル（32文字まで）",
+      "en": "Event Title (up to 32 characters)",
+      "zh": "日程标题（最多32字）",
+      "ko": "일정 제목(32자 이내)"
+    },
+    {
+      "key": "runtime.literal.-1490948426",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "予定・カレンダー",
+      "en": "Schedule / Calendar",
+      "zh": "日程／日历",
+      "ko": "일정 / 달력"
+    },
+    {
+      "key": "runtime.literal.667983",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "今月",
+      "en": "This Month",
+      "zh": "本月",
+      "ko": "이번 달"
+    },
+    {
+      "key": "runtime.literal.-160911404",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "伝えたいことを入力…",
+      "en": "Enter your message…",
+      "zh": "输入想说的话…",
+      "ko": "전하고 싶은 말을 입력…"
+    },
+    {
+      "key": "runtime.literal.-182605003",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "保存一覧を呼び出す",
+      "en": "Load Saved List",
+      "zh": "读取已保存列表",
+      "ko": "저장된 목록 불러오기"
+    },
+    {
+      "key": "runtime.literal.786057552",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "保存分で全員の一覧を置換",
+      "en": "Replace Everyone's List with Saved Data",
+      "zh": "用保存内容替换所有人的列表",
+      "ko": "저장 내용으로 모두의 목록 교체"
+    },
+    {
+      "key": "runtime.literal.994977307",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "個人設定へ戻る",
+      "en": "Back to Personal Settings",
+      "zh": "返回个人设置",
+      "ko": "개인 설정으로 돌아가기"
+    },
+    {
+      "key": "runtime.literal.1875179322",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "個別の相手を選ぶ",
+      "en": "Choose an Individual Recipient",
+      "zh": "选择单独接收者",
+      "ko": "개별 수신자 선택"
+    },
+    {
+      "key": "runtime.literal.-1238640529",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "個別インカム",
+      "en": "Private Intercom",
+      "zh": "个人对讲",
+      "ko": "개별 인터컴"
+    },
+    {
+      "key": "runtime.literal.1095067653",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "個別モジュールへ",
+      "en": "Show Individual Modules",
+      "zh": "显示单独模块",
+      "ko": "개별 모듈 보기"
+    },
+    {
+      "key": "runtime.literal.-1994110832",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "元の展示権限へ",
+      "en": "Restore Original Preview Permissions",
+      "zh": "恢复原展示权限",
+      "ko": "원래 전시 권한으로"
+    },
+    {
+      "key": "runtime.literal.683759",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "入口",
+      "en": "Entrance",
+      "zh": "入口",
+      "ko": "입구"
+    },
+    {
+      "key": "runtime.literal.1434816304",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "全員にスイッチ状態を同期します。ONに戻すと元の権限状態へ復元します。もともと権限でOFFならOFFのままです。",
+      "en": "The switch state is synchronized for everyone. Turning it ON restores the original permission state. Objects originally disabled by permissions stay OFF.",
+      "zh": "开关状态同步给所有人。重新开启时恢复原权限状态。原本因权限关闭的对象仍保持关闭。",
+      "ko": "모두에게 스위치 상태를 동기화합니다. ON으로 돌리면 원래 권한 상태로 복원됩니다. 권한 때문에 OFF였던 대상은 OFF를 유지합니다."
+    },
+    {
+      "key": "runtime.literal.-1969234565",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "全員に同期 / ボタンごとの権限設定",
+      "en": "Sync for Everyone / Per-Button Permissions",
+      "zh": "全员同步／各按钮权限设置",
+      "ko": "모두에게 동기화 / 버튼별 권한 설정"
+    },
+    {
+      "key": "runtime.literal.-1544053056",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "公開中の一覧へ",
+      "en": "Show Published List",
+      "zh": "查看已公开列表",
+      "ko": "공개 중인 목록 보기"
+    },
+    {
+      "key": "runtime.literal.21262639",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "再同期",
+      "en": "Resync",
+      "zh": "重新同步",
+      "ko": "재동기화"
+    },
+    {
+      "key": "runtime.literal.693507",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "再生",
+      "en": "Play",
+      "zh": "播放",
+      "ko": "재생"
+    },
+    {
+      "key": "runtime.literal.-1199206194",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "切り替える",
+      "en": "Toggle",
+      "zh": "切换",
+      "ko": "전환"
+    },
+    {
+      "key": "runtime.literal.-239051085",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "利用条件を再確認",
+      "en": "Recheck Requirements",
+      "zh": "重新确认使用条件",
+      "ko": "이용 조건 다시 확인"
+    },
+    {
+      "key": "runtime.literal.-1148747068",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "前のゲーム",
+      "en": "Previous Game",
+      "zh": "上一个游戏",
+      "ko": "이전 게임"
+    },
+    {
+      "key": "runtime.literal.-1148708668",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "前のページ",
+      "en": "Previous Page",
+      "zh": "上一页",
+      "ko": "이전 페이지"
+    },
+    {
+      "key": "runtime.literal.655927588",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "前の予定",
+      "en": "Previous Event",
+      "zh": "上一个日程",
+      "ko": "이전 일정"
+    },
+    {
+      "key": "runtime.literal.-1139833899",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "前の参加者",
+      "en": "Previous Participant",
+      "zh": "上一位参与者",
+      "ko": "이전 참가자"
+    },
+    {
+      "key": "runtime.literal.656071472",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "前の役職",
+      "en": "Previous Role",
+      "zh": "上一个职位",
+      "ko": "이전 역할"
+    },
+    {
+      "key": "runtime.literal.21164470",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "前の月",
+      "en": "Previous Month",
+      "zh": "上个月",
+      "ko": "이전 달"
+    },
+    {
+      "key": "runtime.literal.655785914",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "前ページ",
+      "en": "Previous Page",
+      "zh": "上一页",
+      "ko": "이전 페이지"
+    },
+    {
+      "key": "runtime.literal.1749959498",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "受付・注意事項",
+      "en": "Entry / Notices",
+      "zh": "入场登记／注意事项",
+      "ko": "접수 / 안내 사항"
+    },
+    {
+      "key": "runtime.literal.630906441",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "受付終了確認",
+      "en": "Check Registration Closed",
+      "zh": "确认登记结束",
+      "ko": "접수 종료 확인"
+    },
+    {
+      "key": "runtime.literal.1666809359",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "受信：● ON",
+      "en": "Receive: ● ON",
+      "zh": "接收：● 开启",
+      "ko": "수신: ● ON"
+    },
+    {
+      "key": "runtime.literal.859775446",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "変更を確定",
+      "en": "Confirm Changes",
+      "zh": "确认更改",
+      "ko": "변경 확정"
+    },
+    {
+      "key": "runtime.literal.283446021",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "外部データを一括再読込",
+      "en": "Reload All External Data",
+      "zh": "重新加载全部外部数据",
+      "ko": "외부 데이터 일괄 다시 읽기"
+    },
+    {
+      "key": "runtime.literal.522447007",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "外部データ一括再読込・現在状態の再取得・安全な再反映",
+      "en": "Reload external data, refresh current state, and safely reapply",
+      "zh": "重新加载外部数据、获取当前状态并安全重新应用",
+      "ko": "외부 데이터 다시 읽기·현재 상태 갱신·안전하게 재적용"
+    },
+    {
+      "key": "runtime.literal.23872774",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "定期ボ",
+      "en": "Periodic Bonus",
+      "zh": "定期奖励",
+      "ko": "정기 보너스"
+    },
+    {
+      "key": "runtime.literal.766403",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "室外",
+      "en": "Outside Room",
+      "zh": "室外",
+      "ko": "방 밖"
+    },
+    {
+      "key": "runtime.literal.1935146684",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "対象者全体へ",
+      "en": "All Target Users",
+      "zh": "所有目标用户",
+      "ko": "대상자 전체"
+    },
+    {
+      "key": "runtime.literal.-100710456",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "展示権限：Owner\n変更は自分の画面のサンプルだけに反映されます",
+      "en": "Preview Permission: Owner\nChanges affect only the sample on your screen.",
+      "zh": "展示权限：Owner\n更改仅影响您画面中的示例。",
+      "ko": "전시 권한: Owner\n변경은 내 화면의 샘플에만 적용됩니다."
+    },
+    {
+      "key": "runtime.literal.24636",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "席",
+      "en": "Seat",
+      "zh": "座位",
+      "ko": "좌석"
+    },
+    {
+      "key": "runtime.literal.-1199602726",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "席 / Seat",
+      "en": "Seat",
+      "zh": "座位",
+      "ko": "좌석"
+    },
+    {
+      "key": "runtime.literal.800956",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "常連",
+      "en": "Regular Guest",
+      "zh": "常客",
+      "ko": "단골"
+    },
+    {
+      "key": "runtime.literal.1187485437",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "押した本人だけ / ボタンごとの権限設定",
+      "en": "Only the User Who Presses / Per-Button Permissions",
+      "zh": "仅按下者／各按钮权限设置",
+      "ko": "누른 사람만 / 버튼별 권한 설정"
+    },
+    {
+      "key": "runtime.literal.-241643650",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "押した本人だけを移動します。ON条件は親を含む有効状態です。ONになった瞬間の自動移動は行いません。",
+      "en": "Only the user who presses is teleported. The ON condition includes the active state of parent objects. Turning it ON does not automatically teleport anyone.",
+      "zh": "仅传送按下按钮的人。开启条件包含父对象的启用状态。开启瞬间不会自动传送。",
+      "ko": "누른 사람만 이동합니다. ON 조건에는 부모 오브젝트의 활성 상태도 포함됩니다. ON이 되는 순간 자동 이동하지 않습니다."
+    },
+    {
+      "key": "runtime.literal.1227136653",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "指定位置へ移動",
+      "en": "Move to Destination",
+      "zh": "移动至指定位置",
+      "ko": "지정 위치로 이동"
+    },
+    {
+      "key": "runtime.literal.839764",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "撮影",
+      "en": "Photography",
+      "zh": "拍摄",
+      "ko": "촬영"
+    },
+    {
+      "key": "runtime.literal.807015693",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "撮影NG",
+      "en": "No Photos",
+      "zh": "禁止拍摄",
+      "ko": "촬영 불가"
+    },
+    {
+      "key": "runtime.literal.807015728",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "撮影OK",
+      "en": "Photos OK",
+      "zh": "允许拍摄",
+      "ko": "촬영 가능"
+    },
+    {
+      "key": "runtime.literal.-473410393",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "撮影モードOFF確認",
+      "en": "Check Photo Mode OFF",
+      "zh": "确认拍摄模式关闭",
+      "ko": "촬영 모드 OFF 확인"
+    },
+    {
+      "key": "runtime.literal.-216767122",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "撮影時に名札を隠す",
+      "en": "Hide Nameplate in Photos",
+      "zh": "拍摄时隐藏名牌",
+      "ko": "촬영 시 명찰 숨기기"
+    },
+    {
+      "key": "runtime.literal.807861649",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "撮影案内",
+      "en": "Photography Guide",
+      "zh": "拍摄指南",
+      "ko": "촬영 안내"
+    },
+    {
+      "key": "runtime.literal.808024025",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "撮影管理",
+      "en": "Photography Management",
+      "zh": "拍摄管理",
+      "ko": "촬영 관리"
+    },
+    {
+      "key": "runtime.literal.836608",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "操作",
+      "en": "Actions",
+      "zh": "操作",
+      "ko": "조작"
+    },
+    {
+      "key": "runtime.literal.50738401",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "操作を受け付けました",
+      "en": "Action Accepted",
+      "zh": "操作已受理",
+      "ko": "조작을 접수했습니다"
+    },
+    {
+      "key": "runtime.literal.-1907104951",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "操作状態を確認中…",
+      "en": "Checking Action Status…",
+      "zh": "正在确认操作状态…",
+      "ko": "조작 상태 확인 중…"
+    },
+    {
+      "key": "runtime.literal.26318715",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "既定値",
+      "en": "Default",
+      "zh": "默认值",
+      "ko": "기본값"
+    },
+    {
+      "key": "runtime.literal.320840604",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "日付 YYYYMMDD",
+      "en": "Date YYYYMMDD",
+      "zh": "日期 YYYYMMDD",
+      "ko": "날짜 YYYYMMDD"
+    },
+    {
+      "key": "runtime.literal.831041027",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "日付を選択してください",
+      "en": "Select a Date",
+      "zh": "请选择日期",
+      "ko": "날짜를 선택하세요"
+    },
+    {
+      "key": "runtime.literal.2109382628",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "日時を入力・追加",
+      "en": "Enter / Add Date and Time",
+      "zh": "输入／添加日期时间",
+      "ko": "날짜·시간 입력 및 추가"
+    },
+    {
+      "key": "runtime.literal.-1730099978",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "時刻 HHMM",
+      "en": "Time HHMM",
+      "zh": "时间 HHMM",
+      "ko": "시각 HHMM"
+    },
+    {
+      "key": "runtime.literal.1483408997",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "本日の担当確認",
+      "en": "Check Today's Assignments",
+      "zh": "确认今日分工",
+      "ko": "오늘 담당 확인"
+    },
+    {
+      "key": "runtime.literal.2109700148",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "来店・入退室ログ",
+      "en": "Visits / Join and Leave Log",
+      "zh": "来店／进出日志",
+      "ko": "방문·입퇴장 기록"
+    },
+    {
+      "key": "runtime.literal.-854953216",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "標準名札を非表示（自分のみ）",
+      "en": "Hide Default Nameplates (Local Only)",
+      "zh": "隐藏标准名牌（仅自己）",
+      "ko": "기본 명찰 숨기기(자신만)"
+    },
+    {
+      "key": "runtime.literal.254372817",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "権限の標準役職",
+      "en": "Default Permission Role",
+      "zh": "默认权限职位",
+      "ko": "기본 권한 역할"
+    },
+    {
+      "key": "runtime.literal.862986051",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "権限制御",
+      "en": "Access Control",
+      "zh": "权限控制",
+      "ko": "권한 제어"
+    },
+    {
+      "key": "runtime.literal.1623354402",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "機能をModule単位でON/OFF",
+      "en": "Toggle Features by Module",
+      "zh": "按模块开关功能",
+      "ko": "모듈별 기능 ON/OFF"
+    },
+    {
+      "key": "runtime.literal.426185112",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "次のゲーム",
+      "en": "Next Game",
+      "zh": "下一个游戏",
+      "ko": "다음 게임"
+    },
+    {
+      "key": "runtime.literal.426223512",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "次のページ",
+      "en": "Next Page",
+      "zh": "下一页",
+      "ko": "다음 페이지"
+    },
+    {
+      "key": "runtime.literal.571765179",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "次の一覧 ▶",
+      "en": "Next List ▶",
+      "zh": "下一列表 ▶",
+      "ko": "다음 목록 ▶"
+    },
+    {
+      "key": "runtime.literal.845279184",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "次の予定",
+      "en": "Next Event",
+      "zh": "下一个日程",
+      "ko": "다음 일정"
+    },
+    {
+      "key": "runtime.literal.435098281",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "次の参加者",
+      "en": "Next Participant",
+      "zh": "下一位参与者",
+      "ko": "다음 참가자"
+    },
+    {
+      "key": "runtime.literal.845423068",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "次の役職",
+      "en": "Next Role",
+      "zh": "下一个职位",
+      "ko": "다음 역할"
+    },
+    {
+      "key": "runtime.literal.27272586",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "次の月",
+      "en": "Next Month",
+      "zh": "下个月",
+      "ko": "다음 달"
+    },
+    {
+      "key": "runtime.literal.878920",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "次へ",
+      "en": "Next",
+      "zh": "下一步",
+      "ko": "다음"
+    },
+    {
+      "key": "runtime.literal.845137510",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "次ページ",
+      "en": "Next Page",
+      "zh": "下一页",
+      "ko": "다음 페이지"
+    },
+    {
+      "key": "runtime.literal.1908391550",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "沈黙に耐えられない",
+      "en": "Silence Makes Me Uncomfortable",
+      "zh": "不适应沉默",
+      "ko": "침묵이 불편해요"
+    },
+    {
+      "key": "runtime.literal.422872626",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "沈黙に耐えられないです。",
+      "en": "I feel uncomfortable with silence.",
+      "zh": "我不太适应沉默。",
+      "ko": "침묵이 불편해요."
+    },
+    {
+      "key": "runtime.literal.883660078",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "沈黙過多",
+      "en": "Too Much Silence",
+      "zh": "沉默太久",
+      "ko": "침묵이 너무 길어요"
+    },
+    {
+      "key": "runtime.literal.-666348657",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "注意事項案内",
+      "en": "Notices Announcement",
+      "zh": "注意事项说明",
+      "ko": "주의 사항 안내"
+    },
+    {
+      "key": "runtime.literal.-1592554831",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "状態を確認しています",
+      "en": "Checking Status",
+      "zh": "正在确认状态",
+      "ko": "상태 확인 중"
+    },
+    {
+      "key": "runtime.literal.971375",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "玄関",
+      "en": "Entry Hall",
+      "zh": "门厅",
+      "ko": "현관"
+    },
+    {
+      "key": "runtime.literal.934176912",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "玄関受付",
+      "en": "Entry Hall Reception",
+      "zh": "门厅接待",
+      "ko": "현관 접수"
+    },
+    {
+      "key": "runtime.literal.934618001",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "玄関説明",
+      "en": "Entry Hall Briefing",
+      "zh": "门厅说明",
+      "ko": "현관 안내"
+    },
+    {
+      "key": "runtime.literal.235890894",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "現在受付できません。",
+      "en": "Registration Is Currently Unavailable.",
+      "zh": "目前无法登记。",
+      "ko": "현재 접수할 수 없습니다."
+    },
+    {
+      "key": "runtime.literal.-996051234",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "現在状態を再確認",
+      "en": "Recheck Current State",
+      "zh": "重新确认当前状态",
+      "ko": "현재 상태 다시 확인"
+    },
+    {
+      "key": "runtime.literal.-510129106",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "現在状態を確認中…",
+      "en": "Checking Current State…",
+      "zh": "正在确认当前状态…",
+      "ko": "현재 상태 확인 중…"
+    },
+    {
+      "key": "runtime.literal.-260371068",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "相互ポスター",
+      "en": "Alternating Posters",
+      "zh": "交替海报",
+      "ko": "교차 전환 포스터"
+    },
+    {
+      "key": "runtime.literal.1051744401",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "相手を選択後、送話ONで話してください",
+      "en": "Select a recipient, then turn transmit ON to speak.",
+      "zh": "选择接收者后开启发送再说话。",
+      "ko": "상대를 선택한 후 송신을 ON으로 켜고 말해 주세요."
+    },
+    {
+      "key": "runtime.literal.149693106",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "第一ローテ",
+      "en": "First Rotation",
+      "zh": "第一轮",
+      "ko": "첫 번째 로테이션"
+    },
+    {
+      "key": "runtime.literal.149961225",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "第三ローテ",
+      "en": "Third Rotation",
+      "zh": "第三轮",
+      "ko": "세 번째 로테이션"
+    },
+    {
+      "key": "runtime.literal.153863846",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "第二ローテ",
+      "en": "Second Rotation",
+      "zh": "第二轮",
+      "ko": "두 번째 로테이션"
+    },
+    {
+      "key": "runtime.literal.1030162",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "筆談",
+      "en": "Written Conversation",
+      "zh": "笔谈",
+      "ko": "필담"
+    },
+    {
+      "key": "runtime.literal.31874671",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "管理者",
+      "en": "Administrator",
+      "zh": "管理员",
+      "ko": "관리자"
+    },
+    {
+      "key": "runtime.literal.2030721903",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "自分だけに再生・閉じても音声を継続",
+      "en": "Plays only for you; audio continues when closed",
+      "zh": "仅自己播放；关闭菜单后继续播放声音",
+      "ko": "나에게만 재생하며 닫아도 소리 유지"
+    },
+    {
+      "key": "runtime.literal.-578312096",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "自分の希望や会話スタイルを選択",
+      "en": "Choose your preferences and conversation style",
+      "zh": "选择您的意愿与聊天风格",
+      "ko": "희망 사항과 대화 스타일 선택"
+    },
+    {
+      "key": "runtime.literal.1055006781",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "自動はVRChatの表示言語へ追従します。初回のVRChat表示言語はPC/端末側の言語設定を基準に選択できます。\n手動選択はPlayerDataへ保存します。",
+      "en": "Auto follows VRChat's display language. The initial VRChat language can be selected based on your PC or device language.\nManual selections are saved in PlayerData.",
+      "zh": "自动模式跟随VRChat显示语言。VRChat初始显示语言可按电脑或设备语言选择。\n手动选择会保存到PlayerData。",
+      "ko": "자동 모드는 VRChat 표시 언어를 따릅니다. 최초 VRChat 언어는 PC나 기기 언어 설정을 기준으로 선택할 수 있습니다.\n수동 선택은 PlayerData에 저장됩니다."
+    },
+    {
+      "key": "runtime.literal.1829702592",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "表示言語を選択 / Select display language",
+      "en": "Select Display Language",
+      "zh": "选择显示语言",
+      "ko": "표시 언어 선택"
+    },
+    {
+      "key": "runtime.literal.70407502",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "見上げて自分の名札",
+      "en": "Look Up to See Your Nameplate",
+      "zh": "抬头查看自己的名牌",
+      "ko": "위를 올려다보면 내 명찰"
+    },
+    {
+      "key": "runtime.literal.1153664",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "読込",
+      "en": "Load",
+      "zh": "读取",
+      "ko": "불러오기"
+    },
+    {
+      "key": "runtime.literal.-1516693334",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "軽量化 ON / OFF",
+      "en": "Performance Mode ON / OFF",
+      "zh": "性能优化 开／关",
+      "ko": "성능 최적화 ON / OFF"
+    },
+    {
+      "key": "runtime.literal.1500167539",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "追加・座り・軽量化",
+      "en": "Additional Settings / Sitting / Performance",
+      "zh": "附加设置／坐姿／性能优化",
+      "ko": "추가 설정 / 앉기 / 성능 최적화"
+    },
+    {
+      "key": "runtime.literal.-235785818",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "送話ON後は同期を少し待ってから話してください。",
+      "en": "After turning transmit ON, wait briefly for sync before speaking.",
+      "zh": "开启发送后，请稍等同步完成再说话。",
+      "ko": "송신을 ON으로 켠 후 잠시 동기화를 기다렸다가 말해 주세요."
+    },
+    {
+      "key": "runtime.literal.1329420295",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "送話中の一般・VIPへの通常音声：遮断 ON",
+      "en": "Normal Voice to Guests / VIPs While Transmitting: Block ON",
+      "zh": "发送期间向普通来宾／VIP的正常语音：屏蔽开启",
+      "ko": "송신 중 일반 손님·VIP에게 일반 음성: 차단 ON"
+    },
+    {
+      "key": "runtime.literal.-471852646",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "送話先：対象者全体",
+      "en": "Transmit To: All Target Users",
+      "zh": "发送至：所有目标用户",
+      "ko": "송신 대상: 대상자 전체"
+    },
+    {
+      "key": "runtime.literal.-1006529471",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "送話：○ OFF",
+      "en": "Transmit: ○ OFF",
+      "zh": "发送：○ 关闭",
+      "ko": "송신: ○ OFF"
+    },
+    {
+      "key": "runtime.literal.-1937852494",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "透過：URL設定",
+      "en": "Transparency: URL Settings",
+      "zh": "透明效果：URL设置",
+      "ko": "투명 효과: URL 설정"
+    },
+    {
+      "key": "runtime.literal.36728915",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "通常客",
+      "en": "Guest",
+      "zh": "普通来宾",
+      "ko": "일반 손님"
+    },
+    {
+      "key": "runtime.literal.1296532034",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "進行終了確認",
+      "en": "Check Event Completion",
+      "zh": "确认流程结束",
+      "ko": "진행 종료 확인"
+    },
+    {
+      "key": "runtime.literal.-1947812131",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "運営メニュー",
+      "en": "Staff Menu",
+      "zh": "运营菜单",
+      "ko": "운영 메뉴"
+    },
+    {
+      "key": "runtime.literal.-1072297134",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "遮断OFFでは近くの一般・VIPにも通常の声が聞こえます。",
+      "en": "With blocking OFF, nearby guests and VIPs can also hear your normal voice.",
+      "zh": "关闭屏蔽时，附近的普通来宾和VIP也能听到您的正常声音。",
+      "ko": "차단이 OFF이면 가까운 일반 손님과 VIP도 평소 목소리를 들을 수 있습니다."
+    },
+    {
+      "key": "runtime.literal.-1903041875",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "部屋一覧: 確認中…",
+      "en": "Room List: Checking…",
+      "zh": "房间列表：确认中…",
+      "ko": "방 목록: 확인 중…"
+    },
+    {
+      "key": "runtime.literal.1176681956",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "開催予定",
+      "en": "Upcoming Events",
+      "zh": "活动日程",
+      "ko": "개최 예정"
+    },
+    {
+      "key": "runtime.literal.-2010263158",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "開始 / 次のローテ",
+      "en": "Start / Next Rotation",
+      "zh": "开始／下一轮",
+      "ko": "시작 / 다음 로테이션"
+    },
+    {
+      "key": "runtime.literal.1243220",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "面接",
+      "en": "Interview",
+      "zh": "面试",
+      "ko": "면접"
+    },
+    {
+      "key": "runtime.literal.1196422541",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "音声ON",
+      "en": "Audio ON",
+      "zh": "声音开启",
+      "ko": "음성 ON"
+    },
+    {
+      "key": "runtime.literal.-1553967418",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "黒白ペア形式の動画に対応",
+      "en": "Supports black-and-white paired videos",
+      "zh": "支持黑白成对格式视频",
+      "ko": "흑백 쌍 형식 동영상 지원"
+    },
+    {
+      "key": "runtime.literal.-1560262337",
+      "category": "Shared UI",
+      "enabled": true,
+      "ja": "（＊必須）はCoreの基本機能です。\nOFF操作・パック一括OFFでも維持します。",
+      "en": "(* Required) marks essential Core features.\nThey remain ON even when disabling a pack or all features.",
+      "zh": "（＊必需）表示Core基本功能。\n单独关闭或整包关闭时仍保持开启。",
+      "ko": "(* 필수)는 Core 기본 기능입니다.\nOFF 조작이나 팩 전체 OFF에도 유지됩니다."
     }
-  ]
+  ],
+  "updatedAt": "2026-10-23T10:00:00Z"
 }
