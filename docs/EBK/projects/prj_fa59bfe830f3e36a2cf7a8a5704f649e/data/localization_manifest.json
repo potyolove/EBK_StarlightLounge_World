@@ -6905,6 +6905,564 @@
       "en": "(* Required) marks essential Core features.\nThey remain ON even when disabling a pack or all features.",
       "zh": "（＊必需）表示Core基本功能。\n单独关闭或整包关闭时仍保持开启。",
       "ko": "(* 필수)는 Core 기본 기능입니다.\nOFF 조작이나 팩 전체 OFF에도 유지됩니다."
+    },
+    {
+      "key": "room.outside.name",
+      "category": "Rooms",
+      "ja": "室外",
+      "en": "Outside",
+      "zh": "室外",
+      "ko": "실외",
+      "enabled": true
+    },
+    {
+      "key": "intent.none",
+      "category": "Intent",
+      "ja": "未選択",
+      "en": "None selected",
+      "zh": "未选择",
+      "ko": "선택 없음",
+      "enabled": true
+    },
+    {
+      "key": "catalog.empty.item",
+      "category": "Catalog",
+      "ja": "商品がありません",
+      "en": "No items",
+      "zh": "没有商品",
+      "ko": "상품이 없습니다",
+      "enabled": true
+    },
+    {
+      "key": "catalog.empty.category_description",
+      "category": "Catalog",
+      "ja": "カテゴリが設定されていません。",
+      "en": "No category is configured.",
+      "zh": "未设置分类。",
+      "ko": "카테고리가 설정되지 않았습니다.",
+      "enabled": true
+    },
+    {
+      "key": "catalog.empty.category_item",
+      "category": "Catalog",
+      "ja": "このカテゴリには現在表示できる商品がありません。",
+      "en": "No items are currently available in this category.",
+      "zh": "此分类当前没有可显示的商品。",
+      "ko": "이 카테고리에 현재 표시할 상품이 없습니다.",
+      "enabled": true
+    },
+    {
+      "key": "catalog.recommended_prefix",
+      "category": "Catalog",
+      "ja": "★ おすすめ  ",
+      "en": "★ Recommended  ",
+      "zh": "★ 推荐  ",
+      "ko": "★ 추천  ",
+      "enabled": true
+    },
+    {
+      "key": "catalog.soldout_prefix",
+      "category": "Catalog",
+      "ja": "売切 / ",
+      "en": "Sold out / ",
+      "zh": "售罄 / ",
+      "ko": "품절 / ",
+      "enabled": true
+    },
+    {
+      "key": "guide.permission.denied",
+      "category": "Guide",
+      "ja": "遊び方を開ける権限がありません",
+      "en": "You do not have permission to open the guide.",
+      "zh": "没有打开玩法指南的权限",
+      "ko": "이용 안내를 열 권한이 없습니다",
+      "enabled": true
+    },
+    {
+      "key": "guide.empty.game",
+      "category": "Guide",
+      "ja": "表示できるゲームはありません",
+      "en": "No games are available",
+      "zh": "没有可显示的游戏",
+      "ko": "표시할 수 있는 게임이 없습니다",
+      "enabled": true
+    },
+    {
+      "key": "guide.empty.game_body",
+      "category": "Guide",
+      "ja": "現在表示できるゲームはありません。",
+      "en": "There are currently no games available.",
+      "zh": "当前没有可显示的游戏。",
+      "ko": "현재 표시할 수 있는 게임이 없습니다.",
+      "enabled": true
+    },
+    {
+      "key": "guide.empty.page_body",
+      "category": "Guide",
+      "ja": "このゲームの説明ページはまだ設定されていません。",
+      "en": "No description page has been configured for this game yet.",
+      "zh": "此游戏尚未设置说明页面。",
+      "ko": "이 게임의 설명 페이지가 아직 설정되지 않았습니다.",
+      "enabled": true
+    },
+    {
+      "key": "clubcard.summary.points",
+      "category": "ClubCard",
+      "ja": "{points} pt",
+      "en": "{points} pt",
+      "zh": "{points} pt",
+      "ko": "{points} pt",
+      "enabled": true
+    },
+    {
+      "key": "clubcard.summary.collection",
+      "category": "ClubCard",
+      "ja": "コレクション {owned} / {total}",
+      "en": "Collection {owned} / {total}",
+      "zh": "收藏 {owned} / {total}",
+      "ko": "컬렉션 {owned} / {total}",
+      "enabled": true
+    },
+    {
+      "key": "clubcard.summary.ticket",
+      "category": "ClubCard",
+      "ja": "無料10+1チケット {count}枚",
+      "en": "Free 10+1 Ticket ×{count}",
+      "zh": "免费10+1券 ×{count}",
+      "ko": "무료 10+1 티켓 ×{count}",
+      "enabled": true
+    },
+    {
+      "key": "clubcard.summary.pity",
+      "category": "ClubCard",
+      "ja": "S天井 {current} / {limit}（残り {remain}）",
+      "en": "S Pity {current} / {limit} ({remain} left)",
+      "zh": "S保底 {current} / {limit}（剩余 {remain}）",
+      "ko": "S 천장 {current} / {limit} (남은 {remain})",
+      "enabled": true
+    },
+    {
+      "key": "clubcard.summary.pulls",
+      "category": "ClubCard",
+      "ja": "総排出 {count}枚",
+      "en": "Total pulls {count}",
+      "zh": "总抽取 {count}张",
+      "ko": "총 배출 {count}장",
+      "enabled": true
+    },
+    {
+      "key": "clubcard.summary.cost",
+      "category": "ClubCard",
+      "ja": "1連 {single}pt / 10+1 {multi}pt / {bulk}",
+      "en": "1 pull {single}pt / 10+1 {multi}pt / {bulk}",
+      "zh": "单抽 {single}pt / 10+1 {multi}pt / {bulk}",
+      "ko": "1회 {single}pt / 10+1 {multi}pt / {bulk}",
+      "enabled": true
+    },
+    {
+      "key": "clubcard.status.ready",
+      "category": "ClubCard",
+      "ja": "ClubCardSystem 接続済み",
+      "en": "ClubCardSystem Connected",
+      "zh": "ClubCardSystem 已连接",
+      "ko": "ClubCardSystem 연결됨",
+      "enabled": true
+    },
+    {
+      "key": "clubcard.status.save_loading",
+      "category": "ClubCard",
+      "ja": "セーブ読込待ち",
+      "en": "Waiting for save data",
+      "zh": "等待读取存档",
+      "ko": "세이브 불러오기 대기",
+      "enabled": true
+    },
+    {
+      "key": "clubcard.status.unowned",
+      "category": "ClubCard",
+      "ja": "未取得",
+      "en": "Not owned",
+      "zh": "未获得",
+      "ko": "미획득",
+      "enabled": true
+    },
+    {
+      "key": "clubcard.status.owned",
+      "category": "ClubCard",
+      "ja": "所持済み",
+      "en": "Owned",
+      "zh": "已拥有",
+      "ko": "보유 중",
+      "enabled": true
+    },
+    {
+      "key": "clubcard.status.exchange_disabled",
+      "category": "ClubCard",
+      "ja": "交換不可",
+      "en": "Not exchangeable",
+      "zh": "不可交换",
+      "ko": "교환 불가",
+      "enabled": true
+    },
+    {
+      "key": "clubcard.exchange.select_prompt",
+      "category": "ClubCard",
+      "ja": "カードを選択してください",
+      "en": "Select a card",
+      "zh": "请选择卡片",
+      "ko": "카드를 선택해 주세요",
+      "enabled": true
+    },
+    {
+      "key": "clubcard.exchange.selected_prefix",
+      "category": "ClubCard",
+      "ja": "選択 ",
+      "en": "Selected ",
+      "zh": "选择 ",
+      "ko": "선택 ",
+      "enabled": true
+    },
+    {
+      "key": "clubcard.exchange.not_ready",
+      "category": "ClubCard",
+      "ja": "交換の準備ができていません",
+      "en": "Exchange is not ready",
+      "zh": "兑换尚未准备就绪",
+      "ko": "교환 준비가 되지 않았습니다",
+      "enabled": true
+    },
+    {
+      "key": "clubcard.exchange.loading",
+      "category": "ClubCard",
+      "ja": "セーブデータを読み込み中です",
+      "en": "Loading save data...",
+      "zh": "正在读取存档...",
+      "ko": "저장 데이터를 불러오는 중입니다",
+      "enabled": true
+    },
+    {
+      "key": "clubcard.exchange.reveal_pending",
+      "category": "ClubCard",
+      "ja": "ガチャの開封完了後に交換できます",
+      "en": "Finish opening the cards before exchanging",
+      "zh": "请先完成卡包开封再兑换",
+      "ko": "카드 개봉을 마친 후 교환할 수 있습니다",
+      "enabled": true
+    },
+    {
+      "key": "clubcard.exchange.card_missing",
+      "category": "ClubCard",
+      "ja": "カードが見つかりません",
+      "en": "Card not found",
+      "zh": "未找到卡片",
+      "ko": "카드를 찾을 수 없습니다",
+      "enabled": true
+    },
+    {
+      "key": "clubcard.exchange.invalid_price",
+      "category": "ClubCard",
+      "ja": "交換ポイントの設定を確認してください",
+      "en": "Check the exchange point settings",
+      "zh": "请检查兑换点数设置",
+      "ko": "교환 포인트 설정을 확인해 주세요",
+      "enabled": true
+    },
+    {
+      "key": "clubcard.exchange.insufficient",
+      "category": "ClubCard",
+      "ja": "ポイントが不足しています",
+      "en": "Not enough points",
+      "zh": "点数不足",
+      "ko": "포인트가 부족합니다",
+      "enabled": true
+    },
+    {
+      "key": "clubcard.exchange.refunded",
+      "category": "ClubCard",
+      "ja": "所持済みのため、ポイントを返却しました",
+      "en": "Already owned. Points refunded.",
+      "zh": "已拥有此卡，点数已退还",
+      "ko": "이미 보유한 카드이므로 포인트를 반환했습니다",
+      "enabled": true
+    },
+    {
+      "key": "clubcard.exchange.completed",
+      "category": "ClubCard",
+      "ja": "交換しました",
+      "en": "Exchanged",
+      "zh": "兑换完成",
+      "ko": "교환했습니다",
+      "enabled": true
+    },
+    {
+      "key": "clubcard.exchange.database_missing",
+      "category": "ClubCard",
+      "ja": "カードデータが未設定です",
+      "en": "Card database is not set",
+      "zh": "尚未设置卡片数据",
+      "ko": "카드 데이터가 설정되지 않았습니다",
+      "enabled": true
+    },
+    {
+      "key": "clubcard.exchange.points_summary",
+      "category": "ClubCard",
+      "ja": "必要 {required} pt  /  所持 {available} pt",
+      "en": "Need {required} pt  /  Have {available} pt",
+      "zh": "需要 {required} pt  /  持有 {available} pt",
+      "ko": "필요 {required} pt  /  보유 {available} pt",
+      "enabled": true
+    },
+    {
+      "key": "clubcard.history.empty",
+      "category": "ClubCard",
+      "ja": "履歴はまだありません",
+      "en": "No history yet",
+      "zh": "暂无记录",
+      "ko": "아직 기록이 없습니다",
+      "enabled": true
+    },
+    {
+      "key": "catalog.item.luminous_soda.name",
+      "category": "Catalog",
+      "enabled": true,
+      "ja": "ルミナスソーダ",
+      "en": "Luminous Soda",
+      "zh": "流光苏打",
+      "ko": "루미너스 소다"
+    },
+    {
+      "key": "catalog.item.luminous_soda.description",
+      "category": "Catalog",
+      "enabled": true,
+      "ja": "すっきり爽やかな柑橘風味のソーダ。ほんのり光るような透明感があり、会話のはじまりにぴったりな一杯です。",
+      "en": "A crisp citrus soda with a luminous clarity, perfect for starting a conversation.",
+      "zh": "清爽的柑橘风味苏打，晶莹通透，很适合作为聊天的开场饮品。",
+      "ko": "상쾌한 시트러스 풍미의 소다. 은은하게 빛나는 투명감으로 대화를 시작하기 좋은 한 잔입니다."
+    },
+    {
+      "key": "catalog.item.luminous_soda.price",
+      "category": "Catalog",
+      "enabled": true,
+      "ja": "500pt",
+      "en": "500pt",
+      "zh": "500pt",
+      "ko": "500pt"
+    },
+    {
+      "key": "catalog.item.midnight_latte.name",
+      "category": "Catalog",
+      "enabled": true,
+      "ja": "ミッドナイトラテ",
+      "en": "Midnight Latte",
+      "zh": "午夜拿铁",
+      "ko": "미드나이트 라테"
+    },
+    {
+      "key": "catalog.item.midnight_latte.description",
+      "category": "Catalog",
+      "enabled": true,
+      "ja": "まろやかな甘さのカフェラテ。夜のひとときに寄り添う、ほっと落ち着く味わいです。",
+      "en": "A mellow, gently sweet cafe latte for a calm moment at night.",
+      "zh": "口感柔和、微甜的咖啡拿铁，适合夜晚放松片刻。",
+      "ko": "부드럽고 은은하게 달콤한 카페라떼. 밤의 여유에 잘 어울리는 편안한 맛입니다."
+    },
+    {
+      "key": "catalog.item.midnight_latte.price",
+      "category": "Catalog",
+      "enabled": true,
+      "ja": "650pt",
+      "en": "650pt",
+      "zh": "650pt",
+      "ko": "650pt"
+    },
+    {
+      "key": "catalog.item.starlight_parfait.name",
+      "category": "Catalog",
+      "enabled": true,
+      "ja": "スターライトパフェ",
+      "en": "Starlight Parfait",
+      "zh": "星光芭菲",
+      "ko": "스타라이트 파르페"
+    },
+    {
+      "key": "catalog.item.starlight_parfait.description",
+      "category": "Catalog",
+      "enabled": true,
+      "ja": "フルーツとクリームを重ねた華やかなパフェ。見た目もかわいく、記念撮影にもおすすめです。",
+      "en": "A colorful parfait layered with fruit and cream, also great for commemorative photos.",
+      "zh": "水果与奶油层层堆叠的华丽芭菲，外观可爱，也很适合纪念拍照。",
+      "ko": "과일과 크림을 층층이 쌓은 화려한 파르페. 보기에도 예뻐 기념 촬영에도 추천합니다."
+    },
+    {
+      "key": "catalog.item.starlight_parfait.price",
+      "category": "Catalog",
+      "enabled": true,
+      "ja": "900pt",
+      "en": "900pt",
+      "zh": "900pt",
+      "ko": "900pt"
+    },
+    {
+      "key": "catalog.item.night_terrace_sand.name",
+      "category": "Catalog",
+      "enabled": true,
+      "ja": "ナイトテラスサンド",
+      "en": "Night Terrace Sandwich",
+      "zh": "夜露台三明治",
+      "ko": "나이트 테라스 샌드위치"
+    },
+    {
+      "key": "catalog.item.night_terrace_sand.description",
+      "category": "Catalog",
+      "enabled": true,
+      "ja": "彩り野菜とやわらかな具材を挟んだサンド。会話の合間にも楽しみやすい軽食です。",
+      "en": "A light sandwich with colorful vegetables and tender fillings, easy to enjoy between conversations.",
+      "zh": "夹有彩色蔬菜和柔软馅料的三明治，聊天间隙也能轻松享用。",
+      "ko": "알록달록한 채소와 부드러운 속재료를 넣은 샌드위치. 대화 사이에 즐기기 좋은 가벼운 음식입니다."
+    },
+    {
+      "key": "catalog.item.night_terrace_sand.price",
+      "category": "Catalog",
+      "enabled": true,
+      "ja": "780pt",
+      "en": "780pt",
+      "zh": "780pt",
+      "ko": "780pt"
+    },
+    {
+      "key": "catalog.item.talk_theme_cards.name",
+      "category": "Catalog",
+      "enabled": true,
+      "ja": "トークテーマカード",
+      "en": "Conversation Topic Cards",
+      "zh": "聊天主题卡",
+      "ko": "대화 주제 카드"
+    },
+    {
+      "key": "catalog.item.talk_theme_cards.description",
+      "category": "Catalog",
+      "enabled": true,
+      "ja": "会話のきっかけに使えるテーマカード。何を話そうか迷った時に自然な会話の入口を作れます。",
+      "en": "Topic cards that provide an easy conversation starter when you are unsure what to talk about.",
+      "zh": "可作为聊天契机的主题卡，不知道聊什么时也能自然开启话题。",
+      "ko": "대화의 계기를 만들어 주는 주제 카드. 무슨 이야기를 할지 고민될 때 자연스럽게 대화를 시작할 수 있습니다."
+    },
+    {
+      "key": "catalog.item.talk_theme_cards.price",
+      "category": "Catalog",
+      "enabled": true,
+      "ja": "300pt",
+      "en": "300pt",
+      "zh": "300pt",
+      "ko": "300pt"
+    },
+    {
+      "key": "catalog.item.kirameki_photo_ticket.name",
+      "category": "Catalog",
+      "enabled": true,
+      "ja": "きらめきフォトチケット",
+      "en": "Sparkle Photo Ticket",
+      "zh": "闪耀拍照券",
+      "ko": "반짝임 포토 티켓"
+    },
+    {
+      "key": "catalog.item.kirameki_photo_ticket.description",
+      "category": "Catalog",
+      "enabled": true,
+      "ja": "記念撮影をもっと楽しくするフォト演出用チケット。集合写真や思い出作りにどうぞ。",
+      "en": "A photo-effect ticket that makes commemorative pictures more fun, ideal for group photos and memories.",
+      "zh": "让纪念拍照更有趣的摄影特效票，适合集体照和留下回忆。",
+      "ko": "기념 촬영을 더 즐겁게 해 주는 포토 연출 티켓. 단체 사진과 추억 만들기에 활용해 보세요."
+    },
+    {
+      "key": "catalog.item.kirameki_photo_ticket.price",
+      "category": "Catalog",
+      "enabled": true,
+      "ja": "400pt",
+      "en": "400pt",
+      "zh": "400pt",
+      "ko": "400pt"
+    },
+    {
+      "key": "catalog.category.drink.label",
+      "category": "Catalog",
+      "enabled": true,
+      "ja": "ドリンク",
+      "en": "Drinks",
+      "zh": "饮品",
+      "ko": "음료"
+    },
+    {
+      "key": "catalog.category.food.label",
+      "category": "Catalog",
+      "enabled": true,
+      "ja": "フード",
+      "en": "Food",
+      "zh": "食品",
+      "ko": "음식"
+    },
+    {
+      "key": "catalog.category.other.label",
+      "category": "Catalog",
+      "enabled": true,
+      "ja": "その他",
+      "en": "Other",
+      "zh": "其他",
+      "ko": "기타"
+    },
+    {
+      "key": "guide.game.first_visit.title",
+      "category": "Guide",
+      "enabled": true,
+      "ja": "はじめての楽しみ方",
+      "en": "Getting Started",
+      "zh": "首次来访指南",
+      "ko": "처음 이용하는 방법"
+    },
+    {
+      "key": "guide.game.photo_guide.title",
+      "category": "Guide",
+      "enabled": true,
+      "ja": "写真撮影を楽しもう",
+      "en": "Enjoy Taking Photos",
+      "zh": "享受拍照乐趣",
+      "ko": "사진 촬영 즐기기"
+    },
+    {
+      "key": "guide.page.0.title",
+      "category": "Guide",
+      "enabled": true,
+      "ja": "はじめての楽しみ方",
+      "en": "Getting Started",
+      "zh": "首次来访指南",
+      "ko": "처음 이용하는 방법"
+    },
+    {
+      "key": "guide.page.0.body",
+      "category": "Guide",
+      "enabled": true,
+      "ja": "1. プロフィールを確認・設定する\n2. 接客希望や過ごし方を選ぶ\n3. 気になる席やスタッフを選ぶ\n4. ゆっくり会話や雰囲気を楽しむ\n5. 困った時はスタッフを呼ぶ\n\n無理に会話を続けなくても大丈夫。自分のペースでゆったりお楽しみください。",
+      "en": "1. Check and set up your profile\n2. Choose your service and activity preferences\n3. Choose a seat or staff member you are interested in\n4. Relax and enjoy the conversation and atmosphere\n5. Call a staff member if you need help\n\nThere is no need to force a conversation. Enjoy your time at your own pace.",
+      "zh": "1. 查看并设置个人资料\n2. 选择接待意愿和度过时间的方式\n3. 选择感兴趣的座位或工作人员\n4. 放松享受聊天和氛围\n5. 遇到困难时呼叫工作人员\n\n无需勉强维持对话。请按自己的节奏轻松享受。",
+      "ko": "1. 프로필을 확인하고 설정하세요\n2. 접객 희망과 원하는 활동을 선택하세요\n3. 관심 있는 좌석이나 스태프를 선택하세요\n4. 편안하게 대화와 분위기를 즐기세요\n5. 도움이 필요하면 스태프를 불러 주세요\n\n억지로 대화를 이어가지 않아도 괜찮아요. 자신의 속도에 맞춰 편안하게 즐겨 주세요."
+    },
+    {
+      "key": "guide.page.1.title",
+      "category": "Guide",
+      "enabled": true,
+      "ja": "写真撮影を楽しもう",
+      "en": "Enjoy Taking Photos",
+      "zh": "享受拍照乐趣",
+      "ko": "사진 촬영 즐기기"
+    },
+    {
+      "key": "guide.page.1.body",
+      "category": "Guide",
+      "enabled": true,
+      "ja": "1. 撮影許可設定を確認する\n2. 撮影場所を決める\n3. 名札表示や撮影表示を調整する\n4. Camera Jackやロゴ表示を使う\n5. 集合写真や記念撮影を行う\n\n撮影前に周囲の方の許可を確認すると、より安心して楽しめます。",
+      "en": "1. Check photography permissions\n2. Choose a photo location\n3. Adjust nameplates and photo display settings\n4. Use Camera Jack and logo overlays\n5. Take group photos and make memories\n\nAsk the people around you for permission before taking photos so everyone can feel comfortable.",
+      "zh": "1. 确认拍摄许可设置\n2. 选择拍摄地点\n3. 调整名牌及拍摄显示设置\n4. 使用Camera Jack和标志显示\n5. 拍摄合影，留下纪念\n\n拍摄前请征得周围人的同意，让大家都能安心享受。",
+      "ko": "1. 촬영 허용 설정을 확인하세요\n2. 촬영 장소를 정하세요\n3. 명찰과 촬영 표시를 조정하세요\n4. Camera Jack과 로고 표시를 활용하세요\n5. 단체 사진을 찍고 추억을 남기세요\n\n촬영 전 주변 사람들의 허락을 받으면 모두 편안하게 즐길 수 있어요."
     }
   ],
   "updatedAt": "2026-10-23T10:00:00Z"
