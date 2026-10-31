@@ -156,16 +156,13 @@ def build_common(root, output, base):
         generation = hashlib.sha256(json.dumps(
             generation_payload, ensure_ascii=False, sort_keys=True, separators=(',', ':')
         ).encode('utf-8')).hexdigest()[:32]
-        video_name = 'roster_' + generation + '.mp4'
-        frame_map_name = 'frame_map_' + generation + '.txt'
+        video_name = 'roster.mp4'
+        frame_map_name = 'frame_map.txt'
         marker = Path(tmp) / 'generation.png'
         generation_marker(marker, generation, logical_width, logical_height)
-        # New immutable URL: 3 marker frames first, then the ordinary 3-frame entries.
+        # Fixed live URL: retain the generation marker before image sheets.
         slides.encode([marker] + frames, output / video_name, logical_width, logical_height, dual_matte)
         video_sha256 = hashlib.sha256((output / video_name).read_bytes()).hexdigest()
-        # Fixed compatibility URL deliberately keeps the old frame layout without the
-        # marker. Existing worlds using roster.mp4 + frame_map.txt therefore do not shift.
-        slides.encode(frames, output / 'roster.mp4', logical_width, logical_height, dual_matte)
     result = copy.deepcopy(manifest)
     for row in result.get('members', []):
         if not isinstance(row, dict) or type(row.get('slot')) is not int or not row.get('category'):
@@ -181,13 +178,18 @@ def build_common(root, output, base):
         'encodedWidth':logical_width*(2 if dual_matte else 1),'encodedHeight':logical_height,
         'videoUrl': base + '/common/' + video_name,
         'frameMapUrl': base + '/common/' + frame_map_name,
+        'captureMap': '\n'.join(generation_lines) + '\n',
+        'liveMapVersion': 1,
         'sha256': video_sha256
     }
+    result.pop('cacheRevision', None)
+    revision = hashlib.sha256(json.dumps(result, ensure_ascii=False, sort_keys=True, separators=(',', ':')).encode('utf-8')).hexdigest()[:32]
+    result['cacheRevision'] = revision
     write_json(output / 'manifest.json', result)
+    (output / 'revision.txt').write_text('ebk-media-cache-v1|' + revision + '\n', encoding='utf-8')
     generation_map_text = '\n'.join(generation_lines) + '\n'
     legacy_map_text = '\n'.join(legacy_lines) + '\n'
     (output / frame_map_name).write_text(generation_map_text, encoding='utf-8')
-    (output / 'frame_map.txt').write_text(legacy_map_text, encoding='utf-8')
     write_json(output / 'build_report.json', {
         'captured': len(records), 'fallbackKeys': skipped, 'sourceHashes': hashes,
         'ignoredPortraitUrls': ignored_portrait_urls, 'generation': generation,
