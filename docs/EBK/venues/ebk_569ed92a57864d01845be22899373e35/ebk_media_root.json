@@ -5,7 +5,7 @@
     {
       "id": "common",
       "manifestPath": "common/manifest.json",
-      "videoPath": "common/roster_922fb66dd66756f29e481f8c50918d56.mp4",
+      "videoPath": "common/roster.mp4",
       "format": "ebk-roster-v1",
       "generation": "922fb66dd66756f29e481f8c50918d56"
     },
